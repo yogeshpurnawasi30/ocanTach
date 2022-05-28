@@ -1,0 +1,2542 @@
+.digital-marketing-pg .moduleOne {
+    position: relative
+}
+
+.digital-marketing-pg .moduleOne .right-form {
+    z-index: 1;
+    max-width: 38%
+}
+
+.digital-marketing-pg .moduleOne .right-form .inner-common-form {
+    padding: 51px 85px 53px;
+    border-radius: 4px;
+    position: relative
+}
+
+.digital-marketing-pg .moduleOne .right-form .inner-common-form h3 {
+    padding: 0 0 46px;
+    font-size: 32px
+}
+
+.digital-marketing-pg .moduleOne .right-form .inner-common-form .form-group {
+    margin-bottom: 2rem
+}
+
+.digital-marketing-pg .moduleOne .right-form .inner-common-form .form-group input,
+.digital-marketing-pg .moduleOne .right-form .inner-common-form .form-group textarea {
+    border: 1px solid #fff;
+    padding: 11px 15px;
+    background: #fff;
+    border-radius: 5px;
+    color: #929292;
+    font-size: 14px
+}
+
+.digital-marketing-pg .moduleOne .right-form .inner-common-form .form-group textarea {
+    height: 100px
+}
+
+.digital-marketing-pg .moduleOne .right-form .inner-common-form .submit-btn input[type=submit] {
+    margin-top: 16px;
+    border: none;
+    padding: 13px 25px 11px;
+    border-radius: 50px;
+    min-width: inherit;
+    min-height: inherit;
+    line-height: inherit
+}
+
+@media (max-width:1650px) {
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form {
+        padding: 40px !important
+    }
+}
+
+@media (max-width:1200px) {
+    .digital-marketing-pg .moduleOne .right-form {
+        max-width: 390px
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form {
+        padding: 40px 20px !important
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .moduleOne .right-form {
+        max-width: 100%
+    }
+}
+
+.digital-marketing-pg .moduleOne .bg-image {
+    position: absolute;
+    top: 125px;
+    right: 0;
+    background: url(../../../themes/uplers/assets/images/digital-marketing-person.png);
+    background-size: 90%;
+    background-position: top right;
+    width: 620px;
+    height: 100%;
+    background-repeat: no-repeat
+}
+
+.digital-marketing-pg .moduleOne .bg-image img {
+    max-width: 340px;
+    position: absolute;
+    right: 100px;
+    bottom: 360px;
+    z-index: 99
+}
+
+@media (min-width:1921px) {
+    .digital-marketing-pg .moduleOne .bg-image {
+        bottom: 420px
+    }
+}
+
+@media (max-width:1800px) {
+    .digital-marketing-pg .moduleOne .bg-image img {
+        right: 0
+    }
+}
+
+@media (max-width:1500px) {
+    .digital-marketing-pg .moduleOne .bg-image {
+        background-size: 70%
+    }
+
+    .digital-marketing-pg .moduleOne .bg-image img {
+        max-width: 40%;
+        bottom: 38%
+    }
+}
+
+@media (max-width:1200px) {
+    .digital-marketing-pg .moduleOne .bg-image img {
+        display: none
+    }
+
+    .digital-marketing-pg .moduleOne .bg-image {
+        display: none
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .moduleOne .bg-image {
+        background-size: 65%
+    }
+}
+
+@media (min-width:1921px) {
+    .digital-marketing-pg .moduleOne.sm-cont {
+        padding-bottom: 340px
+    }
+}
+
+@media (max-width:1599px) {
+    .digital-marketing-pg .moduleOne .left-content {
+        margin: 0 0 100px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .moduleOne .left-content {
+        margin: 0 0 200px
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .moduleOne .left-content {
+        margin: 0 0 100px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .moduleOne {
+        padding-bottom: 50px
+    }
+
+    .digital-marketing-pg .moduleOne .left-content {
+        margin: 0
+    }
+}
+
+.digital-marketing-pg .common-tabing .detailTab {
+    padding-top: 10px
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing {
+    display: block;
+    border: 0;
+    margin-bottom: 36px;
+    padding: 0
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing .title {
+    font-size: 16px;
+    display: inline-block;
+    font-weight: 500;
+    position: relative
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing .title .long-arrow {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-next.svg) no-repeat;
+    height: 8px;
+    width: 25px;
+    background-size: 25px;
+    margin-left: 10px;
+    display: inline-block;
+    opacity: 0;
+    -webkit-transform: translateX(-10px);
+    transform: translateX(-10px);
+    -webkit-transition: .5s all;
+    transition: .5s all
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing .title:after {
+    height: 2px;
+    content: "";
+    position: absolute;
+    width: 0;
+    -webkit-transition: .5s all;
+    transition: .5s all;
+    background: #646FD4;
+    left: 0;
+    bottom: -5px
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing.current .title {
+    font-weight: 700
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing.current .title .long-arrow,
+.digital-marketing-pg .common-tabing .detailTab .tabing:hover .title .long-arrow {
+    -webkit-transform: translateX(0px);
+    transform: translateX(0px);
+    opacity: 1
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing.current .title:after,
+.digital-marketing-pg .common-tabing .detailTab .tabing:hover .title:after {
+    width: 100%
+}
+
+.digital-marketing-pg .common-tabing .accMainDiv .accoContain {
+    border: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.5
+}
+
+.digital-marketing-pg .blackIcon-section {
+    position: relative;
+    background: #ffdb2d
+}
+
+.digital-marketing-pg .blackIcon-section .container {
+    max-width: 1000px
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist {
+    color: #000
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow {
+    padding: 25px 0;
+    border-bottom: solid 1px #d5b413
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox {
+    margin-right: 60px;
+    width: 50px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50px;
+    flex: 0 0 50px;
+    text-align: center
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox figure {
+    width: 50px;
+    height: 50px;
+    margin: auto
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox figure img {
+    max-width: 100%;
+    max-height: 100%
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow .box-title {
+    font-size: 22px;
+    color: #000;
+    font-weight: 400;
+    min-width: 175px
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text {
+    font-size: 20px;
+    position: relative;
+    padding-left: 180px
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text:before {
+    display: block;
+    content: "";
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-next.svg) no-repeat;
+    height: 12px;
+    width: 42px;
+    background-size: 42px;
+    margin: 0;
+    position: absolute;
+    left: 60px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: .2
+}
+
+.digital-marketing-pg .blackIcon-section .blacklist .listrow:last-child {
+    border: 0
+}
+
+@media (min-width:1921px) {
+    .digital-marketing-pg .blackIcon-section:before {
+        height: 390px;
+        background-size: cover
+    }
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-title {
+        font-size: 18px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text {
+        font-size: 18px;
+        padding-left: 100px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox {
+        margin-right: 30px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text:before {
+        left: 0
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .blackIcon-section:before {
+        height: 200px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50px;
+        flex: 0 0 50px;
+        width: 50px;
+        margin-right: 20px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox figure {
+        height: 40px;
+        width: 40px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-title {
+        font-size: 18px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text {
+        font-size: 18px;
+        padding-left: 80px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .blackIcon-section:before {
+        display: none
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .d-flex {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        margin: auto auto 10px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-title {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        text-align: center;
+        margin: auto auto 5px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        text-align: center;
+        padding: 0
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text:before {
+        display: none
+    }
+}
+
+.digital-marketing-pg .reasons-to-work {
+    padding: 150px 0 0;
+    overflow: hidden
+}
+
+.digital-marketing-pg .reasons-to-work .heading-content {
+    margin-bottom: 77px
+}
+
+.digital-marketing-pg .reasons-to-work .container {
+    max-width: 1440px
+}
+
+.digital-marketing-pg .reasons-to-work .common-tabing {
+    margin: 0 -92px 0 -22px
+}
+
+.digital-marketing-pg .reasons-to-work .common-tabing .left-part {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 30%;
+    flex: 0 0 30%;
+    max-width: 30%
+}
+
+.digital-marketing-pg .reasons-to-work .common-tabing .right-part {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 70%;
+    flex: 0 0 70%;
+    max-width: 70%
+}
+
+.digital-marketing-pg .reasons-to-work .commonlistbox {
+    margin: -75px 0 96px;
+    padding-bottom: 30px
+}
+
+.digital-marketing-pg .reasons-to-work .commonlistbox p {
+    font-size: 18px;
+    line-height: 1.5
+}
+
+.digital-marketing-pg .reasons-to-work .testimonials-list .imgbox figure {
+    margin: -160px 0 0
+}
+
+.digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item blockquote {
+    font-size: 18px;
+    line-height: 1.5;
+    position: relative;
+    max-width: 440px;
+    margin: 0 0 33px;
+    padding: 0 0 0 26px
+}
+
+.digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item blockquote:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 5px;
+    width: 18px;
+    height: 18px;
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/quote.png) no-repeat center center;
+    background-size: 100%
+}
+
+.digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item blockquote .close-quote {
+    display: inline-block;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    margin-left: 7px;
+    margin-bottom: -3px;
+    width: 18px
+}
+
+.digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item .author-info {
+    padding: 0 0 0 26px
+}
+
+.digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item .author-info .name {
+    font-size: 20px;
+    margin-bottom: 5px
+}
+
+.digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item .author-info .position {
+    font-size: 16px;
+    line-height: 18px
+}
+
+.digital-marketing-pg .reasons-to-work .slick-dots {
+    bottom: -78px;
+    left: 26px;
+    text-align: left
+}
+
+.digital-marketing-pg .reasons-to-work .slick-dots li {
+    margin: 0 5px
+}
+
+.digital-marketing-pg .reasons-to-work .slick-dots li button {
+    background: #aaa;
+    opacity: 1;
+    height: 10px;
+    width: 10px
+}
+
+.digital-marketing-pg .reasons-to-work .slick-dots li.slick-active button {
+    background: #646FD4
+}
+
+@media (max-width:1650px) {
+    .digital-marketing-pg .reasons-to-work {
+        padding: 100px 0 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .container {
+        max-width: 1200px
+    }
+
+    .digital-marketing-pg .reasons-to-work .heading-content {
+        padding-left: 20px;
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing {
+        margin: 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox {
+        margin-bottom: 50px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .imgbox figure {
+        margin: -50px 0 0
+    }
+
+    .digital-marketing-pg .common-tabing .detailTab .tabing {
+        margin-bottom: 25px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item .author-info .name {
+        font-size: 18px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item .author-info .position {
+        font-size: 15px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .reasons-to-work {
+        padding: 80px 0 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .detailTab .tabing {
+        margin-bottom: 20px;
+        line-height: 1.5;
+        padding: 0 5px
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox {
+        margin: 0 0 80px
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox p {
+        font-size: 15px;
+        line-height: 1.5
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox p br {
+        display: none
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .reasons-to-work .commonlistbox {
+        margin-bottom: 50px
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox p {
+        font-size: 14px;
+        line-height: 1.5
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .accMainDiv .accoContain {
+        font-size: 14px;
+        line-height: 25px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .imgbox figure {
+        margin: -70px 0 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item blockquote {
+        font-size: 14px;
+        margin-bottom: 20px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item blockquote:before {
+        left: 5px;
+        top: 0;
+        width: 14px;
+        height: 14px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item .author-info .name {
+        font-size: 15px;
+        margin-bottom: 3px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item .author-info .position {
+        font-size: 11px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .reasons-to-work .heading-content {
+        margin-bottom: 50px
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox .row {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox figure {
+        margin: 30px 0 15px
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox p {
+        margin-bottom: 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .left-part {
+        display: none
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .right-part {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .right-part .resp-accordion .title {
+        font-size: 15px;
+        margin-bottom: 15px;
+        position: relative;
+        line-height: 1.5;
+        padding-right: 30px
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .right-part .resp-accordion .title:after {
+        content: "";
+        background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-next.svg) no-repeat center;
+        background-size: 100%;
+        width: 25px;
+        height: 10px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .right-part .resp-accordion.minus {
+        position: relative
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .right-part .resp-accordion.minus:after {
+        height: 2px;
+        content: "";
+        position: absolute;
+        width: 100%;
+        -webkit-transition: .5s all;
+        transition: .5s all;
+        background: #646FD4;
+        left: 0;
+        bottom: -5px
+    }
+
+    .digital-marketing-pg .reasons-to-work .common-tabing .right-part .accMainDiv .accoContain {
+        -webkit-transition: none;
+        transition: none;
+        -webkit-transform: none;
+        transform: none
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .imgbox figure {
+        margin: 0 0 30px
+    }
+
+    .digital-marketing-pg .reasons-to-work .slick-dots {
+        bottom: -50px;
+        left: 23px;
+        text-align: left;
+        right: 0;
+        margin: auto
+    }
+}
+
+.digital-marketing-pg .reasons-to-rely {
+    padding: 130px 0 80px;
+    background: #ffdb2d
+}
+
+.digital-marketing-pg .reasons-to-rely .heading-content {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.digital-marketing-pg .reasons-to-rely .heading-content h2 {
+    font-size: 45px
+}
+
+.digital-marketing-pg .reasons-to-rely .icon-listing .iconbox {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 65px
+}
+
+.digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure {
+    margin: 0 24px 0 0;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 80px;
+    flex: 0 0 80px;
+    max-width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 100%
+}
+
+.digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure img {
+    max-height: 40px;
+    max-width: 50px
+}
+
+.digital-marketing-pg .reasons-to-rely .icon-listing .iconbox .icon-title {
+    font-size: 25px;
+    line-height: 36px;
+    font-weight: 400
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .reasons-to-rely {
+        padding: 90px 0 60px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .heading-content h2 {
+        font-size: 30px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .heading-content {
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox {
+        margin-bottom: 35px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox .icon-title {
+        font-size: 18px;
+        line-height: 1.5
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure {
+        flex: 0 0 70px;
+        max-width: 70px;
+        margin: 0 15px 0 0;
+        height: 70px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .reasons-to-rely {
+        padding: 70px 0 40px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .heading-content h2 {
+        font-size: 25px
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .reasons-to-rely .icon-listing {
+        margin: 0
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 65px;
+        flex: 0 0 65px;
+        max-width: 65px;
+        margin: 0 15px 0 0
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure img {
+        max-width: 65px;
+        max-height: 50px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox .icon-title {
+        font-size: 16px;
+        line-height: 1.5
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox {
+        margin-bottom: 25px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure {
+        text-align: center
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure img {
+        max-width: 45px;
+        max-height: 35px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .heading-content h2 {
+        font-size: 22px
+    }
+
+    .digital-marketing-pg .reasons-to-rely {
+        padding: 50px 0 30px
+    }
+}
+
+.digital-marketing-pg .client-logo {
+    padding: 40px 0 67px
+}
+
+.digital-marketing-pg .client-logo .container {
+    max-width: 1600px
+}
+
+.digital-marketing-pg .client-logo .single-slide-logo .single-logo figure {
+    min-height: 152px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+
+.digital-marketing-pg .client-logo .single-slide-logo .single-logo figure img {
+    max-width: 193px;
+    max-height: 73px
+}
+
+.digital-marketing-pg .client-logo .right-txt {
+    font-size: 18px;
+    font-weight: 500;
+    color: #999;
+    width: 100%;
+    padding: 42px 48px;
+    letter-spacing: .2px;
+    display: block
+}
+
+.digital-marketing-pg .client-logo .slick-arrow {
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+.digital-marketing-pg .client-logo .slick-arrow.slick-prev {
+    left: -90px
+}
+
+.digital-marketing-pg .client-logo .slick-arrow.slick-next {
+    right: -110px
+}
+
+@media (max-width:1919px) {
+    .digital-marketing-pg .client-logo .row {
+        margin: 0
+    }
+
+    .digital-marketing-pg .client-logo .logoes {
+        padding: 0 100px
+    }
+
+    .digital-marketing-pg .client-logo .right-txt {
+        width: calc(100% - 100px)
+    }
+
+    .digital-marketing-pg .client-logo .slick-arrow.slick-prev {
+        left: 0
+    }
+
+    .digital-marketing-pg .client-logo .slick-arrow.slick-next {
+        right: 0
+    }
+}
+
+@media (max-width:1200px) {
+    .digital-marketing-pg .client-logo {
+        padding-bottom: 60px
+    }
+
+    .digital-marketing-pg .client-logo .single-slide-logo .single-logo figure {
+        min-height: 120px
+    }
+
+    .digital-marketing-pg .client-logo .single-slide-logo .single-logo figure img {
+        max-width: 140px
+    }
+
+    .digital-marketing-pg .client-logo .logoes {
+        padding: 0 80px
+    }
+
+    .digital-marketing-pg .client-logo .right-txt {
+        padding: 25px 0;
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .client-logo .slick-arrow {
+        width: 70px;
+        height: 70px
+    }
+
+    .digital-marketing-pg .client-logo .slick-arrow:before {
+        width: 50px;
+        height: 50px
+    }
+
+    .digital-marketing-pg .client-logo .slick-arrow:after {
+        width: 50px;
+        height: 17px
+    }
+
+    .digital-marketing-pg .client-logo .slick-arrow.active:before {
+        width: 70px;
+        height: 70px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .client-logo {
+        padding-top: 25px;
+        padding-bottom: 38px
+    }
+
+    .digital-marketing-pg .client-logo .logoes {
+        display: block;
+        padding: 0
+    }
+
+    .digital-marketing-pg .client-logo .logoes .item {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+
+    .digital-marketing-pg .client-logo .logoes .item .single-logo {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    .digital-marketing-pg .client-logo .logoes .item .single-logo figure {
+        min-height: 80px
+    }
+
+    .digital-marketing-pg .client-logo .logoes .item .single-logo figure img {
+        max-width: 110px;
+        max-height: 57px
+    }
+
+    .digital-marketing-pg .client-logo .right-txt {
+        font-size: 12px;
+        font-weight: 500;
+        color: #999;
+        width: 100%;
+        padding: 12px 26px 0 15px;
+        text-align: left !important;
+        line-height: 18px;
+        letter-spacing: -.2px;
+        display: inline-block
+    }
+}
+
+.digital-marketing-pg .dark-counter {
+    background: #151515;
+    color: #fff;
+    padding: 150px 0
+}
+
+.digital-marketing-pg .dark-counter .section-title {
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.digital-marketing-pg .dark-counter .descbox .title {
+    font-size: 35px;
+    color: #646FD4;
+    font-weight: 700;
+    margin-bottom: 15px
+}
+
+.digital-marketing-pg .dark-counter .descbox p {
+    font-weight: 300
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .dark-counter {
+        padding: 70px 0
+    }
+
+    .digital-marketing-pg .dark-counter .section-title {
+        font-size: 30px
+    }
+
+    .digital-marketing-pg .dark-counter .descbox .title {
+        font-size: 25px;
+        margin-bottom: 15px
+    }
+}
+
+@media(max-width:1280px) {
+    .digital-marketing-pg .dark-counter .section-title {
+        font-size: 25px
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .dark-counter {
+        padding: 80px 0
+    }
+
+    .digital-marketing-pg .dark-counter .descbox p {
+        font-size: 14px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .dark-counter {
+        padding: 60px 0 32px
+    }
+
+    .digital-marketing-pg .dark-counter .section-title {
+        font-size: 22px;
+        margin-bottom: 30px
+    }
+}
+
+.digital-marketing-pg .commonlisting {
+    padding: 120px 0 0
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .commonlisting {
+        padding: 80px 0 0
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .commonlisting {
+        padding: 70px 0 0
+    }
+}
+
+.digital-marketing-pg .marketing-tools {
+    padding: 130px 0 80px
+}
+
+.digital-marketing-pg .marketing-tools .container {
+    max-width: 1470px
+}
+
+.digital-marketing-pg .marketing-tools .section-title {
+    margin-bottom: 70px;
+    font-size: 45px
+}
+
+.digital-marketing-pg .marketing-tools .logos ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap
+}
+
+.digital-marketing-pg .marketing-tools .logos ul li {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    margin-bottom: 60px;
+    height: 84px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+
+.digital-marketing-pg .marketing-tools .logos ul li img {
+    max-width: 155px;
+    max-height: 75px
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .marketing-tools {
+        padding: 100px 0 60px
+    }
+
+    .digital-marketing-pg .marketing-tools .section-title {
+        margin-bottom: 50px;
+        font-size: 30px
+    }
+
+    .digital-marketing-pg .marketing-tools .container {
+        max-width: 1200px
+    }
+
+    .digital-marketing-pg .marketing-tools .logos ul li {
+        margin-bottom: 40px;
+        height: 55px
+    }
+
+    .digital-marketing-pg .marketing-tools .logos ul li img {
+        max-width: 120px;
+        max-height: 50px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .marketing-tools {
+        padding: 70px 0 30px
+    }
+
+    .digital-marketing-pg .marketing-tools .section-title {
+        font-size: 25px
+    }
+
+    .digital-marketing-pg .marketing-tools .logos ul li figure img {
+        max-width: 100px;
+        max-height: 35px
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .marketing-tools .logos ul li {
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .marketing-tools .logos ul li figure img {
+        max-width: 90px;
+        max-height: 40px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .marketing-tools .logos ul li {
+        margin: 0;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 33.33%;
+        flex: 0 0 33.33%;
+        max-width: 33.33%
+    }
+
+    .digital-marketing-pg .marketing-tools .logos ul li figure img {
+        max-width: 75px;
+        max-height: 30px
+    }
+}
+
+.digital-marketing-pg .benefits-listing .container {
+    max-width: 1200px
+}
+
+.digital-marketing-pg .benefits-listing ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap
+}
+
+.digital-marketing-pg .benefits-listing ul li {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 0 15px;
+    margin-bottom: 80px
+}
+
+.digital-marketing-pg .benefits-listing ul li .icon-box figure {
+    margin-bottom: 21px;
+    min-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+
+.digital-marketing-pg .benefits-listing ul li .icon-box .icon-title {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 5px
+}
+
+.digital-marketing-pg .benefits-listing ul li .icon-box .percentage {
+    font-size: 25px;
+    font-weight: 600
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .benefits-listing ul li .icon-box figure {
+        margin-bottom: 15px
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .benefits-listing ul {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center
+    }
+
+    .digital-marketing-pg .benefits-listing ul li {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 33.33%;
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+        margin-bottom: 40px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .benefits-listing ul li {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
+        margin-bottom: 30px;
+        padding: 0 5px
+    }
+
+    .digital-marketing-pg .benefits-listing ul li .icon-box figure img {
+        max-width: 30px;
+        max-height: 30px
+    }
+
+    .digital-marketing-pg .benefits-listing ul li .icon-box figure {
+        margin-bottom: 10px;
+        min-height: 35px
+    }
+}
+
+.digital-marketing-pg .industries-main .inner-bg {
+    background: #f2f2f2;
+    padding: 140px 0 60px
+}
+
+.digital-marketing-pg .industries-main .inner-bg .heading-content {
+    margin-bottom: 50px;
+    position: relative;
+    z-index: 1;
+    text-align: center
+}
+
+.digital-marketing-pg .industries-main .inner-bg .heading-content h2 {
+    font-size: 45px
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .industries-main .inner-bg {
+        padding: 100px 0 60px
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg .heading-content h2 {
+        font-size: 30px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .industries-main .heading-content {
+        text-align: center
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg .heading-content h2 {
+        font-size: 25px
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg {
+        padding: 70px 0 50px
+    }
+
+    .digital-marketing-pg .benefits-listing ul li {
+        margin-bottom: 20px
+    }
+
+    .digital-marketing-pg .benefits-listing ul li .icon-box .icon-title {
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .benefits-listing ul li img {
+        max-width: 40px;
+        max-height: 40px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .industries-main .inner-bg .heading-content {
+        margin-bottom: 50px
+    }
+
+    .digital-marketing-pg .benefits-listing ul li {
+        margin-bottom: 15px
+    }
+
+    .digital-marketing-pg .benefits-listing ul li .icon-box .icon-title {
+        font-size: 12px;
+        line-height: 15px
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg .heading-content h2 {
+        font-size: 22px
+    }
+}
+
+.digital-marketing-pg .services-main {
+    padding: 80px 0 0
+}
+
+.digital-marketing-pg .services-main .container {
+    max-width: 1170px
+}
+
+.digital-marketing-pg .services-main .heading-content {
+    margin-bottom: 30px
+}
+
+.digital-marketing-pg .services-main .item {
+    margin-bottom: 40px
+}
+
+.digital-marketing-pg .services-main .service-box {
+    background: #646FD4;
+    padding: 18px 30px;
+    position: relative;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    min-height: 97px
+}
+
+.digital-marketing-pg .services-main .service-box .box-title {
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 22px;
+    width: 100%;
+    color: #000
+}
+
+.digital-marketing-pg .services-main .service-box .box-link {
+    color: #000;
+    font-weight: 500;
+    position: relative;
+    font-size: 14px;
+    margin-bottom: 9px;
+    display: inline-block;
+    margin-top: auto;
+    min-height: 14px
+}
+
+.digital-marketing-pg .services-main .service-box .box-link:after {
+    position: absolute;
+    content: "";
+    background: #000;
+    height: 2px;
+    width: 100%;
+    bottom: -4px;
+    left: 0;
+    -webkit-transition: .5s all;
+    transition: .5s all
+}
+
+.digital-marketing-pg .services-main .service-box.no-box-link {
+    min-height: 125px
+}
+
+.digital-marketing-pg .services-main .service-box .icon {
+    position: absolute;
+    right: 10px;
+    bottom: 10px
+}
+
+.digital-marketing-pg .services-main .service-box:hover {
+    -webkit-box-shadow: 3px 3px 0px #000;
+    box-shadow: 3px 3px 0px #000
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .services-main .service-box .box-title {
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .services-main .service-box .icon img {
+        max-width: 50px;
+        max-height: 50px
+    }
+
+    .digital-marketing-pg .services-main .service-box .box-link {
+        font-size: 12px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .services-main {
+        padding: 20px 0 0
+    }
+
+    .digital-marketing-pg .services-main .container {
+        max-width: 1170px
+    }
+
+    .digital-marketing-pg .services-main .heading-content {
+        text-align: center
+    }
+
+    .digital-marketing-pg .services-main .service-box .icon img {
+        max-width: 40px;
+        max-height: 40px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .services-main {
+        padding: 30px 0 0
+    }
+
+    .digital-marketing-pg .services-main .item {
+        margin-bottom: 20px;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    .digital-marketing-pg .services-main .service-box {
+        margin-bottom: 20px;
+        min-height: inherit
+    }
+
+    .digital-marketing-pg .services-main .service-box.no-box-link {
+        min-height: inherit
+    }
+}
+
+@media (max-width:480px) {
+    .digital-marketing-pg .services-main .item {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+}
+
+.digital-marketing-pg .way-to-work {
+    padding: 140px 0;
+    overflow: hidden;
+    background: #151515;
+    color: #fff
+}
+
+.digital-marketing-pg .way-to-work .container {
+    max-width: 1090px
+}
+
+.digital-marketing-pg .way-to-work .heading-content {
+    margin-bottom: 30px
+}
+
+.digital-marketing-pg .way-to-work .heading-content {
+    text-align: center
+}
+
+.digital-marketing-pg .way-to-work .heading-content h2 {
+    font-size: 45px
+}
+
+.digital-marketing-pg .way-to-work .common-tabing .detailTab {
+    display: flex;
+    margin: 0 -25px
+}
+
+.digital-marketing-pg .way-to-work .common-tabing .detailTab .tabing {
+    padding: 0 25px;
+    border-right: solid 1px #2c2c2c
+}
+
+.digital-marketing-pg .common-tabing .detailTab .tabing .title {
+    font-size: 18px
+}
+
+.digital-marketing-pg .way-to-work .common-tabing .detailTab .tabing:last-child {
+    border: 0
+}
+
+.digital-marketing-pg .way-to-work .common-tabing .detailTab .tabing .title:after {
+    height: 1px;
+    background: #fff
+}
+
+.digital-marketing-pg .way-to-work .common-tabing .detailTab .tabing.current .title {
+    font-weight: 600;
+    color: #646FD4
+}
+
+@media(max-width:1650px) {
+    .digital-marketing-pg .way-to-work {
+        padding: 90px 0
+    }
+
+    .digital-marketing-pg .way-to-work .heading-content h2 {
+        font-size: 30px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .way-to-work {
+        padding: 70px 15px
+    }
+
+    .digital-marketing-pg .way-to-work .heading-content h2 {
+        font-size: 25px
+    }
+
+    .digital-marketing-pg .way-to-work .heading-content {
+        text-align: center
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing {
+        margin: 0
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .detailTab {
+        padding-top: 5px
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .detailTab .tabing {
+        margin-bottom: 20px
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .accMainDiv .accoContain {
+        font-size: 16px;
+        line-height: 1.5
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .way-to-work .common-tabing .leftpart {
+        display: none
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .rightpart {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .resp-accordion {
+        position: relative
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .resp-accordion .title {
+        font-size: 15px;
+        margin-bottom: 15px;
+        position: relative;
+        line-height: 1.5;
+        font-weight: 600;
+        padding: 0 30px 10px 0
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .resp-accordion .title:after {
+        content: "";
+        background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-next-white.svg) no-repeat center;
+        background-size: 100%;
+        width: 25px;
+        height: 10px;
+        position: absolute;
+        right: 0;
+        top: 6px;
+        margin: auto
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .resp-accordion.minus {
+        position: relative
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .resp-accordion:after {
+        height: 1px;
+        content: "";
+        position: absolute;
+        width: 100%;
+        -webkit-transition: .5s all;
+        transition: .5s all;
+        background: #3c3c3c;
+        left: 0;
+        bottom: -3px
+    }
+
+    .digital-marketing-pg .way-to-work .common-tabing .accMainDiv .accoContain {
+        -webkit-transition: none;
+        transition: none;
+        -webkit-transform: none;
+        transform: none;
+        font-size: 15px;
+        line-height: 1.5;
+        margin-bottom: 20px
+    }
+}
+
+.digital-marketing-pg .our-blog-main {
+    overflow: hidden;
+    padding: 180px 0 150px;
+    position: relative;
+    display: none
+}
+
+.digital-marketing-pg .our-blog-main .container {
+    max-width: 1470px
+}
+
+.digital-marketing-pg .our-blog-main .section-title {
+    text-align: center;
+    margin-bottom: 10px
+}
+
+.digital-marketing-pg .our-blog-main .view-all {
+    text-align: right;
+    margin-bottom: 69px
+}
+
+.digital-marketing-pg .our-blog-main .view-all a {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 600;
+    position: relative;
+    padding-right: 37px;
+    letter-spacing: .5px;
+    -webkit-transition: .3s all;
+    transition: .3s all
+}
+
+.digital-marketing-pg .our-blog-main .view-all a:after {
+    display: block;
+    content: "";
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/long-arrow-next.svg) no-repeat center right;
+    height: 9px;
+    width: 27px;
+    background-size: 27px;
+    margin: 0;
+    position: absolute;
+    right: 0;
+    top: 3px;
+    -webkit-transition: .3s all;
+    transition: .3s all
+}
+
+.digital-marketing-pg .our-blog-main .view-all a:hover {
+    padding-right: 25px;
+    color: #646FD4
+}
+
+.digital-marketing-pg .our-blog-main .view-all a:hover:after {
+    width: 15px
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider-section .container {
+    max-width: 1440px
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider {
+    position: relative
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .slick-list {
+    overflow: inherit
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .slick-slide:nth-child(2n) .ratio-img {
+    padding-bottom: 84%
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox {
+    margin: 0 50px
+}
+
+@media (min-width:1201px) {
+    .digital-marketing-pg .our-blog-main .blog-slider .listbox {
+        width: 384px !important;
+        max-width: 384px
+    }
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox:last-child {
+    margin-right: 0
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .ratio-img {
+    padding-bottom: 110%;
+    margin-bottom: 32px
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .ratio-img .view {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, .5);
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all .5s;
+    transition: all .5s
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .ratio-img .view:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 107px;
+    height: 88px;
+    margin: auto;
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/ourblog-hover.png) no-repeat center center;
+    -webkit-transform: scale(0) rotate(360deg);
+    transform: scale(0) rotate(360deg);
+    -webkit-transition: all .5s;
+    transition: all .5s
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .ratio-img img {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/noimg-500-x-500.jpg);
+    background-size: 100%;
+    background-position: center center
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .box-info .box-sub-title {
+    font-size: 20px;
+    line-height: 27px;
+    -webkit-transition: .5s all;
+    transition: .5s all;
+    color: #000
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .box-info ul {
+    margin-bottom: 20px
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .box-info ul li {
+    display: inline-block;
+    text-transform: uppercase;
+    color: #9f9f9f;
+    font-size: 12px;
+    padding-right: 21px;
+    position: relative
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .box-info ul li:after {
+    background: #b1b1b1;
+    height: 10px;
+    width: 1px;
+    position: absolute;
+    right: 8px;
+    top: 1px;
+    content: ""
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .box-info ul li:last-child:after {
+    display: none
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .box-info ul li a {
+    color: #9f9f9f
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox .box-info ul li a:hover {
+    color: #646FD4
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox:hover .ratio-img .view {
+    opacity: 1;
+    visibility: visible
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox:hover .ratio-img .view:before {
+    -webkit-transform: scale(1) rotate(0);
+    transform: scale(1) rotate(0)
+}
+
+.digital-marketing-pg .our-blog-main .blog-slider .listbox:hover .box-info .box-sub-title {
+    color: #676767
+}
+
+.digital-marketing-pg .our-blog-main .progress {
+    display: block;
+    width: 100%;
+    max-width: 975px;
+    height: 4px;
+    margin: auto;
+    border-radius: 0;
+    background-color: transparent;
+    background-image: -webkit-gradient(linear, left top, right top, from(#000), to(#000));
+    background-image: linear-gradient(to right, #000, #000);
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+    -webkit-transition: background-size .4s ease-in-out;
+    transition: background-size .4s ease-in-out;
+    font-size: 0;
+    position: absolute;
+    bottom: 46px;
+    left: 0;
+    right: 0
+}
+
+.digital-marketing-pg .our-blog-main .progress .slider__label {
+    background-color: #c4c4c4;
+    position: relative;
+    z-index: -1;
+    height: 2px;
+    margin: 1px 0 0
+}
+
+.digital-marketing-pg .our-blog-main .slick-prev {
+    bottom: -149px;
+    left: calc(100% - 10%)
+}
+
+.digital-marketing-pg .our-blog-main .slick-next {
+    bottom: -149px;
+    left: calc(100% - 7%)
+}
+
+@media (max-width:1599px) {
+    .digital-marketing-pg .our-blog-main .container {
+        max-width: 1040px
+    }
+
+    .digital-marketing-pg .our-blog-main .blog-slider .listbox {
+        margin: 0 25px
+    }
+
+    .digital-marketing-pg .our-blog-main .progress {
+        left: 195px;
+        right: auto;
+        width: calc(100% - 40%)
+    }
+
+    .digital-marketing-pg .our-blog-main .slick-prev {
+        left: calc(100% - 20%)
+    }
+
+    .digital-marketing-pg .our-blog-main .slick-next {
+        left: calc(100% - 18%)
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .our-blog-main {
+        padding: 100px 0
+    }
+
+    .digital-marketing-pg .our-blog-main .blog-slider {
+        right: 0;
+        margin: 0
+    }
+
+    .digital-marketing-pg .our-blog-main .progress {
+        display: none
+    }
+
+    .digital-marketing-pg .our-blog-main .slick-next {
+        bottom: -85px;
+        left: 0;
+        right: -30px;
+        margin: auto
+    }
+
+    .digital-marketing-pg .our-blog-main .slick-prev {
+        bottom: -85px;
+        left: -30px;
+        right: 0;
+        margin: auto
+    }
+
+    .digital-marketing-pg .our-blog-main .view-all {
+        margin-bottom: 40px;
+        padding-right: 8px
+    }
+}
+
+@media (max-width:1200px) {
+    .digital-marketing-pg .our-blog-main .blog-slider .listbox {
+        max-width: 300px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .our-blog-main {
+        padding: 60px 0
+    }
+
+    .digital-marketing-pg .our-blog-main .section-title {
+        font-size: 30px;
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .our-blog-main .view-all {
+        margin-bottom: 15px
+    }
+}
+
+.digital-marketing-pg .FAQ-section {
+    padding: 152px 0 200px;
+    display: none
+}
+
+.digital-marketing-pg .FAQ-section h2.title {
+    margin-bottom: 100px
+}
+
+.digital-marketing-pg .FAQ-section .container {
+    max-width: 975px
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco {
+    border-top: 1px solid #000
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq {
+    padding: 36px 0 37px;
+    border-bottom: 1px solid #000
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-heading {
+    padding-left: 50px;
+    position: relative;
+    cursor: pointer
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-heading h4 {
+    font-size: 20px
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-heading:before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 2px;
+    height: 18px;
+    background: #646FD4;
+    -webkit-transition: all .5s;
+    transition: all .5s
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-heading:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 18px;
+    height: 2px;
+    background: #646FD4
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-content {
+    padding: 30px 0 0 93px
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-content p:last-child {
+    margin-bottom: 0
+}
+
+.digital-marketing-pg .FAQ-section .faq-acco .single-faq.active .acco-heading:before {
+    -webkit-transform: translateY(-50%) rotate(90deg);
+    transform: translateY(-50%) rotate(90deg)
+}
+
+@media (max-width:1500px) {
+    .digital-marketing-pg .FAQ-section {
+        padding: 60px 0 150px
+    }
+
+    .digital-marketing-pg .FAQ-section h2.title {
+        margin-bottom: 70px
+    }
+}
+
+@media (max-width:1280px) {
+    .digital-marketing-pg .FAQ-section {
+        padding-bottom: 100px
+    }
+
+    .digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-content {
+        padding: 30px 0 0 80px
+    }
+}
+
+@media (max-width:991px) {
+    .digital-marketing-pg .FAQ-section h2.title {
+        margin-bottom: 30px
+    }
+}
+
+@media (max-width:767px) {
+    .digital-marketing-pg .FAQ-section .faq-acco .single-faq {
+        padding: 30px 0
+    }
+
+    .digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-heading {
+        padding-left: 40px
+    }
+
+    .digital-marketing-pg .FAQ-section .faq-acco .single-faq .acco-content {
+        padding: 20px 0 0 40px
+    }
+}
+
+@media (min-width:1025px) and (max-width:1650px),
+(-webkit-min-device-pixel-ratio:1.25) and (min-width:1025px),
+(min-resolution:120dpi) and (min-width:1025px) {
+    .wrapper {
+        padding-top: 140px
+    }
+
+    .digital-marketing-pg .moduleOne {
+        padding-top: 10px
+    }
+
+    .digital-marketing-pg .moduleOne.sm-cont {
+        padding-bottom: 80px
+    }
+
+    .digital-marketing-pg .moduleOne .bg-image img {
+        bottom: 23.8%;
+        bottom: inherit;
+        top: 386px;
+        right: 0
+    }
+
+    .digital-marketing-pg .moduleOne .left-content h1 {
+        margin-bottom: 15px
+    }
+
+    .digital-marketing-pg .moduleOne .left-content h3 {
+        font-size: 16px;
+        line-height: 1.5
+    }
+
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form h3 {
+        padding: 0 0 25px;
+        font-size: 22px
+    }
+
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form .form-group {
+        margin-bottom: 1rem
+    }
+
+    .digital-marketing-pg .reasons-to-work {
+        padding: 90px 0 0
+    }
+
+    .digital-marketing-pg .reasons-to-rely .heading-content {
+        margin-bottom: 50px
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox p {
+        font-size: 16px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox .icon-title {
+        font-size: 18px;
+        line-height: 25px
+    }
+
+    .digital-marketing-pg .services-main {
+        padding: 115px 0 188px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item blockquote {
+        font-size: 16px
+    }
+
+    .digital-marketing-pg .reasons-to-work .heading-content {
+        margin-bottom: 55px
+    }
+
+    .digital-marketing-pg .services-main {
+        padding: 109px 0 0
+    }
+
+    .digital-marketing-pg .services-main .inner-bg {
+        padding: 80px 0 45px
+    }
+
+    .digital-marketing-pg .services-main .item {
+        margin-bottom: 10px
+    }
+
+    .digital-marketing-pg .way-to-work .heading-content {
+        margin-bottom: 15px
+    }
+
+    .digital-marketing-pg .inner-common-form {
+        padding: 70px 0
+    }
+
+    .digital-marketing-pg .benefits-listing ul li {
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .commonlisting {
+        padding: 90px 0 0
+    }
+
+    .digital-marketing-pg .services-main {
+        padding: 45px 0 0
+    }
+}
+
+.digital-marketing-pg .moduleOne.sm-cont {
+    padding-top: 0
+}
+
+.moduleOne .container .row {
+    align-items: center !important
+}
+
+.moduleOne.sm-cont .left-content {
+    padding: 0 50px
+}
+
+.moduleOne.sm-cont .submit-btn {
+    position: relative;
+    max-width: 246px;
+    margin: auto
+}
+
+.moduleOne.sm-cont .form-loader {
+    top: 35px
+}
+
+@media(max-width:1650px) {
+    .moduleOne .container {
+        max-width: 1100px
+    }
+
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form h3 {
+        font-size: 22px;
+        padding: 0 0 25px
+    }
+
+    .book-meeting .inner-common-form {
+        padding: 0
+    }
+}
+
+@media(max-width:1280px) {
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form .form-group {
+        margin-bottom: 15px
+    }
+
+    .digital-marketing-pg .moduleOne .left-content {
+        margin: 0
+    }
+
+    .moduleOne.sm-cont .left-content {
+        padding: 0 30px
+    }
+
+    .digital-marketing-pg .industries-main:before {
+        height: 75px
+    }
+
+    .digital-marketing-pg .industries-main:after {
+        height: 105px
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg .heading-content {
+        margin-bottom: 30px
+    }
+
+    .download-rate-cart.common-form {
+        padding: 75px 0 105px
+    }
+
+    .download-rate-cart .inner-common-form {
+        padding: 70px 0
+    }
+
+    .download-rate-cart.common-form:before {
+        height: 75px
+    }
+
+    .download-rate-cart.common-form:after {
+        height: 105px
+    }
+
+    .book-meeting .rate-card-main .inner-common-form {
+        padding-bottom: 10px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .slick-list .item blockquote {
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .imgbox figure {
+        margin: 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox {
+        margin: 0 0 30px
+    }
+}
+
+@media(max-width:991px) {
+    .moduleOne.sm-cont .left-content {
+        padding: 0 20px
+    }
+
+    .digital-marketing-pg .dark-counter {
+        padding: 60px 0 40px
+    }
+
+    .digital-marketing-pg .commonlisting {
+        padding: 60px 0 0
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg {
+        padding: 60px 0 45px
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg .heading-content {
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .services-main .heading-content {
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .services-main .item {
+        margin-bottom: 30px
+    }
+
+    .digital-marketing-pg .way-to-work .heading-content {
+        margin-bottom: 30px
+    }
+
+    .download-rate-cart .inner-common-form {
+        padding: 40px 0
+    }
+
+    .book-meeting .query-msg {
+        margin-bottom: 40px
+    }
+
+    .commonlisting .section-title {
+        margin-bottom: 40px;
+        font-size: 25px
+    }
+}
+
+@media(max-width:767px) {
+    .digital-marketing-pg .industries-main .inner-bg {
+        padding: 50px 0 35px
+    }
+
+    .moduleOne.sm-cont .left-content {
+        padding: 10px 20px 30px
+    }
+
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form h3 {
+        font-size: 20px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-bold-text {
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .box-title {
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox figure {
+        height: 40px
+    }
+
+    .digital-marketing-pg .blackIcon-section .blacklist .listrow .iconbox figure img {
+        max-height: 40px
+    }
+
+    .digital-marketing-pg .reasons-to-work {
+        padding: 60px 0 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .heading-content {
+        margin-bottom: 20px;
+        padding-left: 0
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox {
+        margin-bottom: 0
+    }
+
+    .digital-marketing-pg .reasons-to-rely .heading-content {
+        margin-bottom: 10px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox figure {
+        max-width: 60px;
+        flex: 0 0 60px;
+        height: 60px
+    }
+
+    .digital-marketing-pg .reasons-to-rely .icon-listing .iconbox .icon-title {
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .dark-counter .descbox .title {
+        font-size: 20px;
+        margin-bottom: 5px
+    }
+
+    .commonlisting .section-title {
+        font-size: 22px
+    }
+
+    .commonlisting .listbox .box-info .box-sub-title {
+        font-size: 15px;
+        line-height: 1.5
+    }
+
+    .digital-marketing-pg .marketing-tools {
+        padding: 50px 0 35px
+    }
+
+    .digital-marketing-pg .marketing-tools .section-title {
+        font-size: 22px;
+        margin-bottom: 20px
+    }
+
+    .digital-marketing-pg .services-main .item {
+        margin-bottom: 20px
+    }
+
+    .digital-marketing-pg .services-main .service-box {
+        padding: 15px
+    }
+
+    .digital-marketing-pg .services-main .service-box .box-title {
+        margin-bottom: 10px
+    }
+
+    .book-meeting .query-msg {
+        font-size: 22px;
+        margin-bottom: 15px
+    }
+
+    .book-meeting .rate-card-main .inner-common-form {
+        padding-top: 30px
+    }
+
+    .book-meeting {
+        padding-bottom: 20px
+    }
+
+    .digital-marketing-pg .way-to-work {
+        padding: 50px 0 30px
+    }
+
+    .digital-marketing-pg .way-to-work .heading-content h2 {
+        font-size: 22px;
+        margin-bottom: 10px
+    }
+
+    .digital-marketing-pg .way-to-work .heading-content {
+        margin-bottom: 15px
+    }
+
+    .digital-marketing-pg .reasons-to-work .commonlistbox p {
+        font-size: 15px
+    }
+
+    .digital-marketing-pg .reasons-to-work .testimonials-list .imgbox figure {
+        margin-bottom: 15px
+    }
+
+    .digital-marketing-pg .moduleOne .right-form .inner-common-form .submit-btn input[type=submit] {
+        font-size: 12px;
+        min-height: 40px;
+        line-height: 40px;
+        padding: 0 20px
+    }
+
+    .digital-marketing-pg .industries-main .inner-bg .heading-content {
+        margin-bottom: 0
+    }
+
+    .digital-marketing-pg .services-main .heading-content {
+        margin-bottom: 10px
+    }
+}
+
+@media(max-width:575px) {
+    .download-rate-cart.common-form:before {
+        height: 35px
+    }
+
+    .download-rate-cart.common-form:after {
+        height: 45px
+    }
+
+    .download-rate-cart.common-form {
+        padding: 35px 0 45px
+    }
+}
+
+.wrapper {
+    padding: 0
+}
+
+.yellow-quote-sec.gray {
+    background: #f2f2f2
+}
+
+.yellow-quote-sec.gray .quote-slider:before {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/home-new/yellow-quote.svg) no-repeat center center;
+    position: static;
+    width: 60px;
+    height: 47px;
+    margin-bottom: 20px;
+    background-size: 100%
+}
+
+.getTouch .rate-card-main .inner-common-form {
+    padding: 130px 0
+}
+
+.getTouch .inner-common-form h3 {
+    font-size: 40px;
+    margin-bottom: 50px
+}
+
+.getTouch .rate-card-main .inner-common-form .submit-btn input[type=submit] {
+    padding: 0 25px;
+    background: #000;
+    color: #fff;
+    min-width: 150px
+}
+
+.getTouch .rate-card-main .inner-common-form .submit-btn input[type=submit]:hover {
+    background: #646FD4;
+    color: #000
+}
+
+@media(max-width:1650px) {
+    .yellow-quote-sec.gray .quote-slider:before {
+        width: 45px;
+        height: 35px
+    }
+
+    .getTouch .rate-card-main .inner-common-form {
+        padding: 80px 0
+    }
+
+    .getTouch .inner-common-form h3 {
+        font-size: 30px
+    }
+}
+
+@media(max-width:1280px) {
+    .getTouch .inner-common-form h3 {
+        font-size: 25px
+    }
+
+    .getTouch .rate-card-main .inner-common-form .submit-btn input[type=submit] {
+        min-width: 120px
+    }
+}
+
+@media(max-width:991px) {
+    .getTouch .rate-card-main .inner-common-form {
+        padding: 50px 0
+    }
+}
+
+@media(max-width:767px) {
+    .getTouch .inner-common-form h3 {
+        margin-bottom: 15px;
+        font-size: 22px
+    }
+}

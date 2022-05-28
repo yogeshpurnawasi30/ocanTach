@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="62.1px" height="62.1px"
+	 viewBox="0 0 62.1 62.1" style="enable-background:new 0 0 62.1 62.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#010101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="61" width="61" x="-0.5" y="-60.5"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<circle class="st0" cx="31" cy="31" r="26.8"/>
+	<circle class="st0" cx="31" cy="24.1" r="4.8"/>
+	<path class="st0" d="M41.2,43.4c0-5.6-4.6-10.2-10.2-10.2s-10.2,4.6-10.2,10.2H41.2z"/>
+	<circle class="st0" cx="18.7" cy="24.9" r="3.8"/>
+	<path class="st0" d="M21.8,32.7c-1-0.4-2-0.6-3.1-0.6c-4.4,0-8,3.6-8,8h7.5"/>
+	<circle class="st0" cx="43.4" cy="24.9" r="3.8"/>
+	<path class="st0" d="M40.3,32.7c1-0.4,2-0.6,3.1-0.6c4.4,0,8,3.6,8,8H44"/>
+	<line class="st0" x1="31" y1="1" x2="31" y2="7.5"/>
+	<line class="st0" x1="31" y1="54.6" x2="31" y2="61"/>
+	<line class="st0" x1="61" y1="31" x2="54.6" y2="31"/>
+	<line class="st0" x1="7.5" y1="31" x2="1" y2="31"/>
+</g>
+</svg>

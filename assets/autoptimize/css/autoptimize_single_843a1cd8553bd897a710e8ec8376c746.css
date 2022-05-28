@@ -1,0 +1,1629 @@
+.wrapper {
+    padding-top: 0
+}
+
+.remote-pg .video_banner {
+    text-align: center
+}
+
+.remote-pg .video_banner p {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.section-title br {
+    display: block
+}
+
+.remote-pg .video_banner ul {
+    margin-left: 28px;
+    display: flex;
+    justify-content: center;
+    margin: 0 -25px
+}
+
+.remote-pg .video_banner ul li {
+    color: #646FD4;
+    list-style-type: disc;
+    font-size: 30px;
+    line-height: .9;
+    padding: 0 25px;
+    border-right: solid 1px #fff;
+    list-style-type: none
+}
+
+.remote-pg .video_banner ul li:last-child {
+    border: 0
+}
+
+.remote-pg .video_banner ul li span {
+    color: #fff;
+    font-size: 16px;
+    vertical-align: middle;
+    font-weight: 600
+}
+
+.remote-pg .video_banner .banner-btn {
+    margin-top: 40px
+}
+
+.remote-pg .video_banner .banner-btn .cta-button:hover {
+    background: #fff;
+    color: #000
+}
+
+section.programmatic-skills {
+    padding: 150px 0
+}
+
+.programmatic-skills .container .row figure {
+    height: 100%
+}
+
+.programmatic-skills .container .row figure img {
+    height: inherit
+}
+
+.programmatic-skills .container .row p {
+    margin-top: 20px
+}
+
+section.programmatic-skills ul li {
+    list-style-type: disc;
+    margin-left: 21px;
+    font-size: 14px;
+    line-height: 1.5
+}
+
+section.programmatic-skills ul li:not(:first-child) {
+    margin-top: 10px
+}
+
+.vetting-section .container .vet-desc {
+    margin-top: 10px
+}
+
+.vetting-section {
+    position: relative;
+    padding: 150px
+}
+
+.vetting-section .container .section-title {
+    text-align: center;
+    font-size: 45px
+}
+
+.vetting-section .container>p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 0 204px
+}
+
+.vetting-process {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    z-index: 1;
+    min-width: 325px
+}
+
+.vetting-section .vetting-flow {
+    margin-top: 80px
+}
+
+.vetting-section .container .row .vet-heading p {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 0
+}
+
+.vetting-section .container .row .vet-desc p {
+    font-size: 15px
+}
+
+#process1 {
+    position: absolute;
+    top: 12px;
+    left: 110px;
+    padding-right: 160px
+}
+
+#process2 {
+    position: absolute;
+    top: 136px;
+    left: 180px;
+    padding-right: 80px
+}
+
+#process3 {
+    position: absolute;
+    top: 264px;
+    left: 110px;
+    padding-right: 156px
+}
+
+#process4 {
+    position: absolute;
+    top: 390px;
+    left: 180px;
+    padding-right: 80px
+}
+
+#process5 {
+    position: absolute;
+    top: 519px;
+    left: 110px;
+    padding-right: 164px
+}
+
+.vetting-section .container .row .flow-img {
+    display: none
+}
+
+.quick-easy-hire .container ul li figure {
+    max-width: 146px
+}
+
+.quick-easy-hire .container ul li:after {
+    top: 62px
+}
+
+.quick-easy-hire .container ul li .lbl-btn {
+    min-height: 50px;
+    font-weight: 600
+}
+
+.quick-easy-hire .container .centerBtn a {
+    text-transform: none
+}
+
+.more-text {
+    display: none
+}
+
+.ylThree-Boxes .cont-boxWrap {
+    padding: 40px 105px
+}
+
+.ylThree-Boxes .container {
+    max-width: 1000px
+}
+
+.ylThree-Boxes .container .cont-boxWrap .skill-desc ul li {
+    list-style-type: disc;
+    margin-top: 10px;
+    line-height: 1.5;
+    margin-bottom: 20px
+}
+
+.ylThree-Boxes .container .cont-boxWrap .skill-desc ul li:first-child {
+    margin-top: 0
+}
+
+.ylThree-Boxes .container .cont-boxWrap a {
+    border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #000;
+    transition: background .5s ease-in-out;
+    font-size: 16px
+}
+
+.ylThree-Boxes .container .cont-boxWrap a:hover {
+    background: #000;
+    color: #fff
+}
+
+.ylThree-Boxes .cont-boxWrap .centerBtn {
+    margin-top: 40px
+}
+
+.ylThree-Boxes .container .cont-boxWrap {
+    padding: 40px 60px
+}
+
+.hire-programmatic {
+    background: #f2f2f2;
+    padding: 150px 0
+}
+
+.hire-programmatic .container figure {
+    min-width: 23px
+}
+
+.hire-programmatic .container .boxes {
+    display: flex
+}
+
+.hire-programmatic .section-title {
+    font-size: 45px
+}
+
+.hire-programmatic .row {
+    margin-top: 60px
+}
+
+.hire-programmatic .hire-prog-desc h4 {
+    font-size: 18px;
+    font-weight: 600
+}
+
+.hire-programmatic .hire-prog-desc p {
+    margin-top: 15px
+}
+
+.hire-programmatic .hire-prog-desc {
+    padding-left: 22px
+}
+
+.hire-programmatic .centerBtn {
+    text-align: center;
+    margin-top: 30px
+}
+
+.hire-programmatic .centerBtn .cta-button {
+    background: #000;
+    color: #fff;
+    text-transform: inherit
+}
+
+.hire-programmatic .centerBtn .cta-button:hover {
+    background: #646FD4;
+    color: #000
+}
+
+.acco-content ol li {
+    list-style-type: decimal;
+    margin-left: 22px;
+    font-size: 16px
+}
+
+.acc-line {
+    border-left: 2px solid #000;
+    margin-top: 70px;
+    margin-bottom: 62px
+}
+
+.jobHire .inner-post-steps {
+    display: flex;
+    margin-top: 20px
+}
+
+.acc-list.open {
+    margin-bottom: 62px
+}
+
+.remote-pg .jobHire .inner-post-steps ol.counter-listing>li .content {
+    padding: 15px 49px 0 0
+}
+
+.page_more_info_sec.jobHire .section-title {
+    font-size: 45px
+}
+
+.remote-pg .jobHire .inner-post-steps ol.counter-listing:before {
+    position: absolute;
+    border: 2px solid #000
+}
+
+.acc-list {
+    position: relative
+}
+
+#line1 {
+    position: absolute;
+    min-width: 33px;
+    top: 54px;
+    left: -15px
+}
+
+#line2 {
+    position: absolute;
+    top: 54px;
+    min-width: 33px;
+    left: -15px
+}
+
+#line3 {
+    position: absolute;
+    top: 54px;
+    min-width: 33px;
+    left: -15px
+}
+
+#line4 {
+    position: absolute;
+    top: 54px;
+    min-width: 33px;
+    left: -15px
+}
+
+.jobHire .inner-post-steps ol.counter-listing {
+    width: 100%
+}
+
+.page_more_info_sec .container .section-title {
+    font-size: 45px
+}
+
+.stripCta .stripContent h5 {
+    font-size: 25px
+}
+
+.stripCta .container .stripContent>a {
+    text-transform: none
+}
+
+.stripCta .container .stripContent .cta-button.b-btn {
+    min-width: 300px
+}
+
+.remote-pg .page_more_info_sec.jobHire .container .inner-post-steps ol.counter-listing .acc-list:not(:last-child):before {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 100%;
+    top: 0;
+    border-left: 2px solid #000;
+    margin-top: 5%
+}
+
+.acc-list .list-descs {
+    margin-left: 40px;
+    padding: 50px 0;
+    border-bottom: solid 1px #ccc
+}
+
+.remote-pg .page_more_info_sec.jobHire .container .inner-post-steps ol.counter-listing>li {
+    border-bottom: none;
+    padding: 0
+}
+
+.quick-easy-hire .section-title {
+    margin-bottom: 20px
+}
+
+.quick-easy-hire .ligt-title {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px
+}
+
+.remote-pg .clientMain {
+    background: #f2f2f2;
+    padding: 50px 0
+}
+
+.remote-pg .clientMain h4 {
+    margin-bottom: 0;
+    font-weight: 400;
+    color: #999;
+    text-align: left;
+    font-size: 25px
+}
+
+.remote-pg .clientMain .slick-track .slick-slide img {
+    filter: grayscale(100%);
+    opacity: .5
+}
+
+.remote-pg .quick-easy-hire .section-title span,
+.remote-pg .ylThree-Boxes .section-title span,
+.remote-pg .acc-FAQ-section .section-title span {
+    font-weight: 800
+}
+
+.remote-pg .acc-FAQ-section .faq-acco .single-faq .acco-heading h4 {
+    padding-left: 0
+}
+
+.remote-pg .acc-FAQ-section .faq-acco .single-faq .acco-content {
+    padding-left: 0
+}
+
+.remote-pg .rateBoxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 870px;
+    margin: auto;
+    margin-top: 40px
+}
+
+.remote-pg .rate-item {
+    padding: 0 100px;
+    text-align: left;
+    border-right: solid 1px #fff
+}
+
+.remote-pg .rate-item figure {
+    margin-bottom: 20px
+}
+
+.remote-pg .rate-item:last-child {
+    border: 0;
+    margin: 0
+}
+
+.remote-pg .rate-item p {
+    font-size: 16px;
+    margin: 0
+}
+
+.remote-pg .inner-post-steps ol.counter-listing>li .title img {
+    top: 50%
+}
+
+@media(max-width:1650px) {
+    .remote-pg .video_banner .banner-btn .cta-button {
+        font-size: 15px;
+        min-height: 40px;
+        line-height: 40px
+    }
+
+    .remote-pg .video_banner ul li span {
+        font-size: 15px;
+        font-weight: 600
+    }
+
+    .remote-pg .clientMain h4 {
+        font-size: 20px
+    }
+
+    .remote-pg .clientMain {
+        padding: 30px 0
+    }
+
+    .programmatic-skills {
+        padding: 100px 0
+    }
+
+    .vetting-section .container .section-title {
+        font-size: 30px
+    }
+
+    .vetting-section {
+        padding: 100px 0
+    }
+
+    .vetting-process {
+        top: 8%
+    }
+
+    .quick-easy-hire .ligt-title {
+        font-size: 20px
+    }
+
+    .quick-easy-hire .container ul li figure {
+        max-width: 125px
+    }
+
+    .quick-easy-hire .container ul li figure img {
+        max-height: 100%;
+        max-width: inherit
+    }
+
+    .quick-easy-hire .container ul li:after {
+        top: 52px;
+        left: 97%
+    }
+
+    .hire-programmatic {
+        padding: 100px 0
+    }
+
+    .hire-programmatic .section-title {
+        font-size: 35px
+    }
+
+    .hire-programmatic .centerBtn .cta-button {
+        font-size: 15px;
+        min-height: 40px;
+        line-height: 40px
+    }
+
+    .acco-content ol li {
+        font-size: 16px
+    }
+
+    .page_more_info_sec.jobHire .section-title {
+        font-size: 30px
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .inner-post-steps ol.counter-listing>li .title {
+        font-size: 20px
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .inner-post-steps ol.counter-listing>li {
+        padding: 25px 0
+    }
+
+    #line1 {
+        top: 31px;
+        min-width: 30px
+    }
+
+    #line2 {
+        top: 30px;
+        min-width: 30px
+    }
+
+    #line3 {
+        top: 30px;
+        min-width: 30px
+    }
+
+    #line4 {
+        top: 30px;
+        min-width: 30px
+    }
+
+    .acc-line {
+        border-left: 2px solid #000;
+        margin-top: 57px;
+        margin-bottom: 53px
+    }
+
+    .stripCta .container .stripContent h5 {
+        font-weight: 500;
+        font-size: 18px
+    }
+
+    .acc-list .list-descs {
+        padding: 25px 0
+    }
+
+    .remote-pg .inner-post-steps ol.counter-listing>li {
+        padding: 25px 0
+    }
+
+    .remote-pg .inner-post-steps ol.counter-listing>li .title {
+        font-size: 20px
+    }
+
+    .remote-pg .inner-post-steps ol.counter-listing>li .title img {
+        width: 25px
+    }
+}
+
+@media(max-width:1280px) {
+    .programmatic-skills .container {
+        max-width: 90%
+    }
+
+    section.programmatic-skills {
+        padding: 80px 0
+    }
+
+    .vetting-process {
+        min-width: 285px
+    }
+
+    .vetting-section .container .section-title {
+        font-size: 25px
+    }
+
+    .vetting-section .container {
+        max-width: 80%
+    }
+
+    .vetting-process {
+        top: 4%
+    }
+
+    .vetting-section .container>p {
+        padding: 0 114px;
+        font-size: 15px
+    }
+
+    .vetting-section .container .row .vet-heading p {
+        font-size: 16px
+    }
+
+    .vetting-section .container .row .vet-desc p {
+        font-size: 12px
+    }
+
+    .vetting-section {
+        padding: 80px 0
+    }
+
+    #process1 {
+        top: 17px;
+        left: 134px;
+        padding-right: 162px
+    }
+
+    #process2 {
+        top: 127px;
+        left: 162px;
+        padding-right: 115px
+    }
+
+    #process3 {
+        top: 241px;
+        left: 134px;
+        padding-right: 162px
+    }
+
+    #process4 {
+        top: 351px;
+        left: 162px;
+        padding-right: 115px
+    }
+
+    #process5 {
+        top: 463px;
+        left: 134px;
+        padding-right: 162px
+    }
+
+    .hire-programmatic {
+        padding: 80px 0
+    }
+
+    .hire-programmatic .section-title {
+        font-size: 25px
+    }
+
+    .remote-pg .hire-programmatic .container {
+        max-width: 920px
+    }
+
+    .remote-pg .stripCta .container {
+        max-width: 920px
+    }
+
+    .page_more_info_sec.jobHire .section-title {
+        font-size: 25px
+    }
+
+    .remote-pg .page_more_info_sec .container {
+        max-width: 920px
+    }
+
+    .remote-pg .post-registration-process .container {
+        max-width: 920px
+    }
+
+    .remote-pg .page_more_info_sec {
+        padding: 80px 0
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .inner-post-steps ol.counter-listing>li .title {
+        font-size: 18px
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .container .inner-post-steps ol.counter-listing .acc-list:not(:last-child):before {
+        margin-top: 7%
+    }
+
+    .remote-pg .inner-post-steps ol.counter-listing>li .title {
+        font-size: 18px
+    }
+
+    .acc-FAQ-section .container {
+        max-width: 920px
+    }
+
+    .remote-pg .clientMain h4 {
+        font-size: 18px
+    }
+}
+
+@media(max-width:991px) {
+    .remote-pg .rate-item {
+        padding: 0 50px
+    }
+
+    .remote-pg .rate-item p {
+        font-size: 14px
+    }
+
+    .remote-pg .clientMain h4 {
+        font-size: 13px
+    }
+
+    .clientMain .slick-track .slick-slide img {
+        max-width: 80px;
+        max-height: 30px
+    }
+
+    section.programmatic-skills {
+        padding: 60px 0
+    }
+
+    .remote-pg .video_banner ul li span {
+        font-size: 14px;
+        font-weight: 600
+    }
+
+    .remote-pg .container {
+        max-width: 100%
+    }
+
+    .vetting-process {
+        min-width: 250px
+    }
+
+    #process3 {
+        top: 205px;
+        left: 134px;
+        padding-right: 120px
+    }
+
+    #process1 {
+        top: 10px;
+        left: 134px;
+        padding-right: 156px
+    }
+
+    #process2 {
+        top: 106px;
+        left: 162px;
+        padding-right: 91px
+    }
+
+    #process4 {
+        top: 300px;
+        left: 162px;
+        padding-right: 115px
+    }
+
+    #process5 {
+        top: 404px;
+        left: 134px;
+        padding-right: 142px
+    }
+
+    .quick-easy-hire .container ul li .lbl-btn {
+        min-height: 38px;
+        font-weight: 600;
+        margin-top: 20px;
+        font-size: 13px
+    }
+
+    .quick-easy-hire .container ul li figure {
+        max-width: 105px
+    }
+
+    .quick-easy-hire .container ul li:after {
+        top: 42px;
+        left: 97%
+    }
+
+    section.programmatic-skills ul li {
+        margin-left: 14px
+    }
+
+    .ylThree-Boxes .container .cont-boxWrap a {
+        font-size: 14px;
+        padding: 8px 15px
+    }
+
+    .ylThree-Boxes .container .cont-boxWrap .skill-desc ul li {
+        font-size: 15px;
+        margin-bottom: 10px
+    }
+
+    .hire-programmatic {
+        padding: 60px 0
+    }
+
+    .remote-pg .page_more_info_sec {
+        padding: 60px 0
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .container .inner-post-steps ol.counter-listing .acc-list:not(:last-child):before {
+        margin-top: 8.2%
+    }
+
+    .remote-pg .page_more_info_sec .container {
+        max-width: 700px
+    }
+
+    .stripCta .container .stripContent h5 {
+        font-weight: 500;
+        font-size: 15px
+    }
+
+    #line1,
+    #line2,
+    #line3,
+    #line4 {
+        top: 30px
+    }
+
+    .hire-programmatic .hire-prog-desc h4 {
+        font-size: 16px
+    }
+
+    .hire-programmatic .hire-prog-desc p {
+        font-size: 15px
+    }
+}
+
+@media(max-width:1500px) {
+    .vetting-section .vetting-process {
+        padding: 180px 0
+    }
+}
+
+@media(max-width:767px) {
+    section.programmatic-skills {
+        padding: 50px 0
+    }
+
+    section.programmatic-skills ul li {
+        font-size: 13px
+    }
+
+    .programmatic-skills .container .row h2 {
+        margin-top: 20px
+    }
+
+    .remote-pg .video_banner ul li span {
+        font-size: 13px;
+        font-weight: 600
+    }
+
+    .video_banner {
+        padding: 100px 0 60px
+    }
+
+    .vetting-section {
+        padding: 50px 0
+    }
+
+    .vetting-section .container .section-title {
+        font-size: 22px
+    }
+
+    #process1 {
+        position: static;
+        padding-right: 0
+    }
+
+    #process2 {
+        position: static;
+        padding-right: 0
+    }
+
+    #process3 {
+        position: static;
+        padding-right: 0
+    }
+
+    #process4 {
+        position: static;
+        padding-right: 0
+    }
+
+    #process5 {
+        position: static;
+        padding-right: 0
+    }
+
+    .vetting-process {
+        display: none
+    }
+
+    .vetting-section .container .row .vet-heading p {
+        font-size: 15px
+    }
+
+    .vetting-section .container .vet-desc {
+        margin-top: 7px
+    }
+
+    .vetting-section .container .row .flow-img {
+        display: block;
+        text-align: center
+    }
+
+    .vetting-section .container .row .flow-img img {
+        max-width: 85px
+    }
+
+    .vetting-section .container .row p {
+        text-align: center
+    }
+
+    .vetting-section .container .row .vet-heading {
+        margin-top: 15px
+    }
+
+    .vetting-section .container .row .yellow-section {
+        margin: 8px auto;
+        font-size: 10px
+    }
+
+    .vetting-section .container .row .vet-heading br {
+        display: none
+    }
+
+    .vetting-section .vetting-flow {
+        margin-top: 30px
+    }
+
+    .vetting-section .container>p {
+        padding: 0
+    }
+
+    .quick-easy-hire {
+        margin-top: 0
+    }
+
+    .quick-easy-hire ul li {
+        margin-top: 20px
+    }
+
+    .quick-easy-hire .container ul li .lbl-btn {
+        min-height: 38px;
+        max-width: 195px;
+        margin: 20px auto 0px auto
+    }
+
+    .ylThree-Boxes .container .cont-boxWrap {
+        padding: 40px 35px
+    }
+
+    .hire-programmatic {
+        padding: 50px 0
+    }
+
+    .hire-programmatic .section-title {
+        font-size: 22px
+    }
+
+    .page_more_info_sec.jobHire .section-title {
+        font-size: 22px
+    }
+
+    .remote-pg .page_more_info_sec {
+        padding: 50px 0
+    }
+
+    .remote-pg .page_more_info_sec .container {
+        max-width: 650px
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .inner-post-steps ol.counter-listing>li .title {
+        font-size: 16px
+    }
+
+    #line1 {
+        left: -10px;
+        min-width: 22px;
+        top: 18px
+    }
+
+    #line2 {
+        left: -10px;
+        min-width: 22px;
+        top: 18px
+    }
+
+    #line3 {
+        left: -10px;
+        min-width: 22px;
+        top: 18px
+    }
+
+    #line4 {
+        left: -10px;
+        min-width: 22px;
+        top: 18px
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .container .inner-post-steps ol.counter-listing .acc-list:not(:last-child):before {
+        margin-top: 9%
+    }
+
+    .acc-line {
+        border-left: 2px solid #000;
+        margin-top: 54px;
+        margin-bottom: 48px
+    }
+
+    .remote-pg .video_banner .yl-txt {
+        font-size: 18px
+    }
+
+    .acc-list .list-descs {
+        padding: 20px 0
+    }
+
+    .remote-pg .inner-post-steps ol.counter-listing>li .content p {
+        font-size: 13px
+    }
+}
+
+@media(max-width:575px) {
+    .remote-pg .video_banner .yl-txt {
+        display: block
+    }
+
+    .remote-pg .video_banner ul li span {
+        display: block;
+        line-height: 1.5
+    }
+
+    .remote-pg .clientMain h4 {
+        text-align: center;
+        font-size: 15px;
+        margin-bottom: 25px;
+        font-weight: 500
+    }
+
+    .remote-pg .rate-item {
+        padding: 0 0 25px;
+        border: 0;
+        border-bottom: solid 1px #fff;
+        margin-bottom: 25px
+    }
+
+    .remote-pg .rateBoxes {
+        flex-wrap: wrap
+    }
+
+    .remote-pg .video_banner .container .bannerForm {
+        margin-top: 20px
+    }
+
+    .ylThree-Boxes .container .cont-boxWrap {
+        padding: 40px 30px
+    }
+
+    .acc-list .list-descs {
+        margin-left: 25px
+    }
+
+    .remote-pg .page_more_info_sec.jobHire .container .inner-post-steps ol.counter-listing .acc-list:not(:last-child):before {
+        margin-top: 10%
+    }
+
+    .quick-easy-hire .ligt-title {
+        font-size: 14px;
+        margin-bottom: 10px
+    }
+
+    .hire-programmatic .row {
+        margin-top: 40px
+    }
+
+    .hire-programmatic .container figure {
+        min-width: 16px
+    }
+
+    .hire-programmatic .hire-prog-desc {
+        padding-left: 12px
+    }
+
+    .hire-programmatic .hire-prog-desc h4 {
+        font-size: 15px
+    }
+
+    .hire-programmatic .hire-prog-desc p {
+        margin-top: 8px
+    }
+
+    .remote-pg .rate-item:last-child {
+        padding: 0
+    }
+}
+
+.input03 textarea {
+    border-bottom-color: #e8e9ed
+}
+
+.input03 textarea::placeholder {
+    color: #999
+}
+
+.popup-main1 .popup-content {
+    overflow: auto
+}
+
+.popup-main .close-popup:before,
+.popup-main .close-popup:after,
+.popup-main1 .close-popup:before,
+.popup-main1 .close-popup:after {
+    background: #000
+}
+
+.newsletter-form {
+    overflow-x: hidden
+}
+
+.newsletter-form .container {
+    max-width: 940px
+}
+
+.input02 {
+    position: relative
+}
+
+.input02 label {
+    position: absolute;
+    top: -6px;
+    left: 15px;
+    background: #fff;
+    color: #8d8c8c;
+    padding: 0 5px;
+    z-index: 1
+}
+
+.input02 input,
+.input02.rev-select .select-styled {
+    border: solid 1px #bfbfbf;
+    box-shadow: none;
+    min-height: 52px;
+    border-radius: 15px;
+    padding: 0 20px;
+    box-shadow: 10px 10px 20px rgb(0 0 0/5%);
+    font-weight: 500
+}
+
+.input02.rev-select .select-styled {
+    padding: 5px 20px
+}
+
+.input02 input:focus {
+    border-color: #646FD4
+}
+
+.step-ratecard,
+.hiring-needs {
+    background: #fff
+}
+
+.step-ratecard .popup-content,
+.hiring-needs .popup-content {
+    text-align: left
+}
+
+.step-ratecard .newsletter-form .section-title {
+    margin-bottom: 45px;
+    font-size: 29px;
+    font-weight: 700;
+    padding-bottom: 5px
+}
+
+.step-ratecard .newsletter-form .sub-title {
+    margin-bottom: 60px;
+    line-height: 1.5
+}
+
+.step-ratecard .newsletter-form .submit-btn {
+    margin-top: 35px
+}
+
+.step-ratecard .newsletter-form .submit-btn input[type=submit] {
+    max-width: 160px;
+    border-radius: 10px
+}
+
+.step-ratecard .optionList .optionBox span {
+    font-weight: 600
+}
+
+.welcome-box h5 {
+    font-size: 25px;
+    margin-bottom: 15px
+}
+
+.welcome-box p {
+    font-size: 20px;
+    margin-bottom: 40px;
+    font-weight: 500
+}
+
+.bold-form-lbl {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 15px;
+    line-height: 1.5
+}
+
+.row.step_2 .field-general .optionbox input[type=checkbox] {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer
+}
+
+.optionsWrap.multiselect .optionbox .lbl-txt {
+    padding: 8px 10px
+}
+
+.optionsWrap.multiselect .optionbox .lbl-txt:before {
+    content: "+";
+    font-weight: 400;
+    margin-right: 8px;
+    font-size: 21px;
+    line-height: 0;
+    position: relative;
+    top: 2px;
+    color: #c1c1c1;
+    display: inline-block;
+    width: 10px
+}
+
+.optionsWrap.multiselect .optionbox input:checked+.lbl-txt:before {
+    content: "";
+    border-bottom: solid 1px #000;
+    border-left: solid 1px #000;
+    height: 6px;
+    transform: rotate(-45deg);
+    top: -4px
+}
+
+.hire-reqs {
+    margin-top: 40px
+}
+
+.hiring-needs .newsletter-form .section-title {
+    margin-bottom: 70px
+}
+
+.optionsWrap.multiselect .optionbox input[type=checkbox]+.lbl-txt {
+    padding: 8px 10px;
+    transition: .5s all;
+    text-align: center;
+    font-size: 12px;
+    color: #8d8c8c;
+    background: #e8e9ed;
+    border-radius: 5px;
+    border: solid 2px transparent;
+    min-width: 55px;
+    display: block;
+    cursor: pointer;
+    margin: 3px
+}
+
+.optionsWrap.multiselect .optionbox input[type=checkbox]:checked+.lbl-txt {
+    background: #646FD4;
+    color: #000;
+    transition: .5s all
+}
+
+.row.step_2 .field-general>.row .col-md-12 {
+    display: flex
+}
+
+.row.step_2 .field-general .hire-roles {
+    margin-top: 20px
+}
+
+.row.step_2 .field-general .hire-roles .optionsWrap.multiselect {
+    display: none
+}
+
+.row.step_2 .field-general .hire-roles .optionsWrap.multiselect.active {
+    display: block
+}
+
+.hire-req .rev-select .select-styled {
+    border: 1px solid #e8e9ed;
+    border-radius: 8px;
+    padding: 0 10px;
+    font-size: 14px
+}
+
+.hiring-needs .rev-select .select-styled:after,
+.step-ratecard .rev-select .select-styled:after {
+    height: 7px;
+    width: 7px;
+    border-left: solid 1px #8d8c8c;
+    border-bottom: solid 1px #8d8c8c
+}
+
+.optionList .optionBox span:before {
+    border: solid 1px #646FD4
+}
+
+.hiring-needs .form-group {
+    margin-bottom: 2rem
+}
+
+.mail-info p {
+    font-weight: 500
+}
+
+.mail-info p a {
+    color: #000;
+    text-decoration: underline
+}
+
+.hiring-needs .submit-btn {
+    max-width: 210px;
+    margin: auto
+}
+
+.hiring-needs .submit-btn input[type=submit] {
+    border-radius: 10px
+}
+
+.popup-main1 .popup-content {
+    padding: 0 15px
+}
+
+.input03 .bold-form-lbl {
+    margin-bottom: 5px
+}
+
+.thankyou-blk {
+    background-size: cover !important;
+    background-position: center !important;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center
+}
+
+.thankyou-blk .img-blk {
+    text-align: center
+}
+
+.thankyou-blk .img-blk img {
+    max-width: 380px
+}
+
+.thankyou-blk .desc-blk h3 {
+    margin-bottom: 40px
+}
+
+.thankyou-blk .desc-blk p {
+    font-size: 18px
+}
+
+.thankyou-blk .desc-blk p strong {
+    text-decoration: underline;
+    text-decoration-color: #646FD4
+}
+
+.thankyou-blk .desc-blk p a {
+    color: #000
+}
+
+.thankyou-blk .desc-blk p a:hover {
+    opacity: .5
+}
+
+@media(max-width:1650px) {
+    .thankyou-blk .container {
+        max-width: 1000px
+    }
+
+    .thankyou-blk .img-blk img {
+        max-width: 300px
+    }
+
+    .thankyou-blk .desc-blk p {
+        font-size: 16px
+    }
+
+    .newsletter-form .container {
+        max-width: 900px
+    }
+
+    .step-ratecard .newsletter-form .section-title {
+        font-size: 22px;
+        margin-bottom: 15px
+    }
+
+    .step-ratecard .newsletter-form .sub-title {
+        font-size: 16px;
+        margin-bottom: 40px
+    }
+
+    .welcome-box h5 {
+        font-size: 20px;
+        margin-bottom: 10px
+    }
+
+    .welcome-box p {
+        font-size: 16px
+    }
+
+    .bold-form-lbl {
+        font-size: 15px;
+        margin-bottom: 12px
+    }
+
+    .queBox .rev-select {
+        height: 45px
+    }
+
+    .queBox .select-styled {
+        min-height: 45px;
+        border-radius: 10px;
+        line-height: 42px;
+        font-size: 15px;
+        box-shadow: 5px 5px 10px rgb(0 0 0/4%)
+    }
+
+    .queBox .select-styled:after {
+        top: 14px
+    }
+
+    .newsletter-form input,
+    .newsletter-form textarea {
+        font-size: 15px
+    }
+
+    .newsletter-form .input02.rev-select .select-styled {
+        font-size: 15px;
+        padding: 3px 20px
+    }
+
+    .input02 label {
+        font-size: 15px
+    }
+
+    .input02 input,
+    .input02.rev-select .select-styled {
+        min-height: 45px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgb(0 0 0/4%)
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        max-width: 120px;
+        border-radius: 10px;
+        min-height: 45px;
+        line-height: 45px
+    }
+}
+
+@media(max-width:1280px) {
+    .step-ratecard .optionList .optionBox span {
+        font-size: 14px
+    }
+
+    .hiring-needs .hire-reqs {
+        margin-top: 0
+    }
+
+    .hiring-needs .newsletter-form .section-title {
+        margin-bottom: 45px
+    }
+}
+
+@media(max-width:991px) {
+    .thankyou-blk .desc-blk h3 {
+        margin-bottom: 20px
+    }
+
+    .thankyou-blk .desc-blk p {
+        font-size: 15px
+    }
+}
+
+@media(max-width:767px) {
+    .thankyou-blk .img-blk img {
+        max-width: 250px
+    }
+
+    .step-ratecard .newsletter-form .section-title {
+        font-size: 18px;
+        margin-bottom: 15px
+    }
+
+    .step-ratecard .newsletter-form .sub-title {
+        font-size: 15px;
+        margin-bottom: 30px
+    }
+
+    .input02 input,
+    .input02.rev-select .select-styled {
+        min-height: 40px;
+        border-radius: 7px
+    }
+
+    .welcome-box h5 {
+        font-size: 16px;
+        margin-bottom: 5px
+    }
+
+    .welcome-box p {
+        font-size: 14px;
+        margin-bottom: 25px
+    }
+
+    .input02 label {
+        font-size: 13px;
+        left: 11px
+    }
+
+    .queBox {
+        margin-bottom: 20px
+    }
+
+    .bold-form-lbl {
+        font-size: 14px;
+        margin-bottom: 5px
+    }
+
+    .queBox .select-styled {
+        min-height: 40px;
+        border-radius: 7px;
+        line-height: 36px;
+        font-size: 13px;
+        padding: 0 15px
+    }
+
+    .newsletter-form input,
+    .newsletter-form textarea {
+        font-size: 13px;
+        padding: 0 15px
+    }
+
+    .newsletter-form .input02.rev-select .select-styled {
+        padding: 0 15px;
+        font-size: 13px
+    }
+
+    .newsletter-form textarea {
+        height: 40px;
+        padding: 11px 0
+    }
+
+    .queBox .select-styled:after {
+        top: 13px;
+        right: 15px;
+        height: 7px;
+        width: 7px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn {
+        margin-top: 20px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        font-size: 15px;
+        max-width: 120px;
+        border-radius: 7px;
+        min-height: 40px;
+        line-height: 40px;
+        padding: 0 20px
+    }
+
+    .queBox .select-styled.active:after {
+        top: 16px
+    }
+
+    .hire-req .rev-select .select-styled {
+        font-size: 12px
+    }
+
+    .popup-main1 .popup-content {
+        padding: 100px 15px
+    }
+}
+
+@media(max-width:575px) {
+    .thankyou-blk .img-blk {
+        margin-bottom: 40px
+    }
+
+    .input02 {
+        margin-bottom: 10px
+    }
+
+    .row.step_2.hire-req,
+    .hire-reqs {
+        margin-top: 15px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        padding: 0 18px
+    }
+
+    .newsletter-form {
+        padding-top: 20px
+    }
+}

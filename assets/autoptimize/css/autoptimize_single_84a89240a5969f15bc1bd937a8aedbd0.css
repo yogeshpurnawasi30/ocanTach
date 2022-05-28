@@ -1,0 +1,1374 @@
+.culture .wrapper {
+    padding: 0
+}
+
+.we-r-upler-pg {
+    overflow: hidden
+}
+
+.we-r-banner {
+    height: 100vh;
+    background-repeat: no-repeat !important;
+    background-size: 85% !important;
+    display: flex;
+    align-items: center;
+    position: relative
+}
+
+.we-r-banner figure {
+    margin-bottom: 20px
+}
+
+.we-r-banner h1 {
+    font-weight: 500
+}
+
+.we-r-banner:before {
+    content: "";
+    background: url(../../../themes/uplers/assets/images/we-are-uplers/two-circle-shape.svg) no-repeat;
+    height: 170px;
+    width: 170px;
+    position: absolute;
+    left: -30px;
+    bottom: 22%;
+    background-size: 100%
+}
+
+.we-r-banner:after {
+    content: "";
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/dots-shape.svg) no-repeat;
+    height: 108px;
+    width: 157px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    background-size: 100%
+}
+
+@media(max-width:1700px) {
+    .we-r-banner .container {
+        max-width: 900px
+    }
+
+    .we-r-banner h1 {
+        font-size: 40px
+    }
+
+    .we-r-banner figure {
+        margin-top: 50px
+    }
+}
+
+@media(max-width:1550px) {
+    .we-r-banner .container {
+        max-width: 750px
+    }
+
+    .we-r-banner h1 {
+        font-size: 35px
+    }
+}
+
+@media(max-width:1200px) {
+    .we-r-banner .container {
+        max-width: 800px
+    }
+
+    .we-r-banner:after {
+        height: 68px;
+        width: 100px
+    }
+
+    .we-r-banner:before {
+        width: 120px;
+        height: 120px
+    }
+
+    .we-r-banner h1 {
+        font-size: 30px
+    }
+}
+
+@media(max-width:991px) {
+    .we-r-banner {
+        padding: 90px 0 70px;
+        height: inherit
+    }
+
+    .we-r-banner figure {
+        margin-top: 0
+    }
+
+    .we-r-banner:after {
+        top: 70%
+    }
+}
+
+@media(max-width:767px) {
+    .we-r-banner {
+        background-size: 90% !important;
+        padding: 90px 0 50px
+    }
+
+    .we-r-banner:before {
+        width: 80px;
+        height: 80px;
+        bottom: 30%
+    }
+
+    .we-r-banner:after {
+        height: 28px;
+        width: 40px;
+        top: 65%
+    }
+
+    .we-r-banner h1 {
+        font-size: 25px
+    }
+}
+
+.weUplers-about {
+    background: #646FD4;
+    padding: 150px 0 120px;
+    position: relative
+}
+
+.weUplers-about:before {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/wave-dots-yl-shape.svg)no-repeat;
+    height: 20px;
+    width: 220px;
+    position: absolute;
+    left: -100px;
+    top: 80px;
+    content: "";
+    background-size: 100%
+}
+
+.weUplers-about:after {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/wave-dots-yl-shape.svg)no-repeat;
+    height: 30px;
+    width: 220px;
+    position: absolute;
+    right: -30px;
+    bottom: 150px;
+    content: ""
+}
+
+.weUplers-about .imgBox {
+    flex: 0 0 13%;
+    max-width: 13%;
+    text-align: center
+}
+
+.weUplers-about .imgBox i {
+    font-size: 113px;
+    color: #c00
+}
+
+.weUplers-about .descBox {
+    flex: 0 0 87%;
+    max-width: 87%;
+    padding-left: 5px;
+    position: relative;
+    z-index: 1
+}
+
+.weUplers-about .descBox h2 {
+    margin-bottom: 20px
+}
+
+.weUplers-about .descBox h5 {
+    margin-bottom: 15px;
+    font-weight: 800
+}
+
+@media(max-width:1550px) {
+    .weUplers-about {
+        padding: 100px 0 80px
+    }
+
+    .weUplers-about .descBox h2 {
+        font-size: 30px
+    }
+
+    .weUplers-about .imgBox i {
+        font-size: 90px
+    }
+}
+
+@media(max-width:1200px) {
+    .weUplers-about {
+        padding: 80px 0 60px
+    }
+
+    .weUplers-about .descBox h2 {
+        font-size: 25px
+    }
+
+    .weUplers-about .imgBox i {
+        font-size: 70px
+    }
+}
+
+@media(max-width:767px) {
+    .weUplers-about {
+        padding: 60px 0 40px
+    }
+
+    .weUplers-about .row [class*=col-] {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0 15px;
+        text-align: left
+    }
+
+    .weUplers-about:before {
+        display: none
+    }
+
+    .weUplers-about .descBox h2 {
+        font-size: 22px
+    }
+
+    .weUplers-about .imgBox i {
+        font-size: 60px;
+        margin-bottom: 10px
+    }
+}
+
+.about-vibe {
+    background: #f8f8f8;
+    position: relative
+}
+
+.about-vibe:before {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/wave-dots-shape.svg)no-repeat;
+    height: 20px;
+    width: 220px;
+    position: absolute;
+    left: 0;
+    top: 80px;
+    content: ""
+}
+
+.about-vibe .container {
+    max-width: 1670px;
+    margin-right: 0;
+    padding-right: 0
+}
+
+.about-vibe .descBox h3 {
+    font-size: 40px;
+    margin-bottom: 30px
+}
+
+.about-vibe .descBox p {
+    font-size: 35px;
+    line-height: 1.4;
+    font-weight: 500;
+    margin: 0
+}
+
+.about-vibe .imgBox figure {
+    position: relative
+}
+
+.about-vibe .imgBox figure:before {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/circle-dash-shap.svg)no-repeat;
+    height: 97px;
+    width: 97px;
+    position: absolute;
+    left: -49px;
+    bottom: 60px;
+    content: "";
+    background-size: 100%
+}
+
+@media(max-width:1550px) {
+    .about-vibe .container {
+        max-width: 1140px
+    }
+
+    .about-vibe .descBox h3 {
+        font-size: 30px;
+        margin-bottom: 15px
+    }
+
+    .about-vibe .descBox p {
+        font-size: 25px
+    }
+}
+
+@media(max-width:1200px) {
+    .about-vibe .descBox h3 {
+        font-size: 25px
+    }
+
+    .about-vibe .descBox p {
+        font-size: 20px
+    }
+}
+
+@media(max-width:991px) {
+    .about-vibe .container {
+        padding-right: 0 !important
+    }
+
+    .about-vibe:before {
+        display: none
+    }
+
+    .about-vibe .imgBox figure:before {
+        height: 50px;
+        width: 50px;
+        left: -25px;
+        bottom: 25px
+    }
+
+    .about-vibe .descBox h3 {
+        font-size: 22px
+    }
+
+    .about-vibe .descBox p br {
+        display: block
+    }
+
+    .about-vibe .descBox p {
+        font-size: 16px
+    }
+}
+
+@media(max-width:575px) {
+    .about-vibe {
+        padding: 60px 0
+    }
+
+    .about-vibe .container {
+        padding: 0 20px !important
+    }
+
+    .about-vibe .imgBox {
+        order: 1;
+        margin-bottom: 30px
+    }
+
+    .about-vibe .descBox {
+        order: 2
+    }
+}
+
+.uplerSophy {
+    padding: 150px 0
+}
+
+.uplerSophy .container {
+    max-width: 1400px
+}
+
+.uplerSophy h3 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px
+}
+
+.uplerSophy .iconBox {
+    text-align: center
+}
+
+.uplerSophy .iconBox figure {
+    height: 190px;
+    display: flex;
+    align-items: flex-end;
+    margin: auto auto 25px;
+    justify-content: center
+}
+
+.uplerSophy .iconBox p {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+    line-height: 1.5
+}
+
+@media(max-width:1550px) {
+    .uplerSophy {
+        padding: 100px 0
+    }
+
+    .uplerSophy h3 {
+        font-size: 30px;
+        margin-bottom: 40px
+    }
+
+    .uplerSophy .container {
+        max-width: 1140px
+    }
+
+    .uplerSophy .iconBox figure {
+        height: 150px;
+        margin-bottom: 15px
+    }
+
+    .uplerSophy .iconBox figure img {
+        max-width: 120px;
+        max-height: 150px
+    }
+
+    .uplerSophy .iconBox p {
+        font-size: 18px
+    }
+}
+
+@media(max-width:1200px) {
+    .uplerSophy {
+        padding: 80px 0
+    }
+
+    .uplerSophy h3 {
+        font-size: 25px;
+        margin-bottom: 25px
+    }
+
+    .uplerSophy .iconBox figure {
+        height: 110px
+    }
+
+    .uplerSophy .iconBox figure img {
+        max-width: 90px;
+        max-height: 110px
+    }
+
+    .uplerSophy .iconBox p {
+        font-size: 16px
+    }
+}
+
+@media(max-width:767px) {
+    .uplerSophy {
+        padding: 60px 0
+    }
+
+    .uplerSophy h3 {
+        font-size: 22px
+    }
+}
+
+@media(max-width:575px) {
+    .uplerSophy .row [class*=col-] {
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+
+    .uplerSophy .iconBox p {
+        font-size: 15px
+    }
+}
+
+.uplers-vision {
+    background: #646FD4
+}
+
+.uplers-vision .container {
+    max-width: 1700px;
+    margin-right: 0;
+    padding-right: 0
+}
+
+.uplers-vision .descBox {
+    padding-right: 150px
+}
+
+.uplers-vision .descBox h3 {
+    margin-bottom: 30px;
+    font-size: 40px
+}
+
+.uplers-vision .descBox h4 {
+    margin-bottom: 20px
+}
+
+.uplers-vision .descBox ul {
+    display: flex;
+    margin: 0 -15px 40px
+}
+
+.uplers-vision .descBox ul li {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    padding: 0 15px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center
+}
+
+.uplers-vision .descBox ul li figure {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px
+}
+
+.uplers-vision .descBox ul:last-child {
+    margin-bottom: 0
+}
+
+@media(max-width:1550px) {
+    .uplers-vision .container {
+        max-width: 1200px
+    }
+
+    .uplers-vision .descBox {
+        padding-right: 50px
+    }
+
+    .uplers-vision .descBox h3 {
+        font-size: 30px
+    }
+
+    .uplers-vision .descBox h4 {
+        font-size: 18px
+    }
+
+    .uplers-vision .descBox ul li {
+        font-size: 14px
+    }
+
+    .uplers-vision .descBox ul li figure {
+        height: 50px
+    }
+
+    .uplers-vision .descBox ul li img {
+        max-width: 80px;
+        max-height: 50px
+    }
+}
+
+@media(max-width:1200px) {
+    .uplers-vision {
+        padding: 80px 30px
+    }
+
+    .uplers-vision .descBox {
+        padding-right: 15px
+    }
+
+    .uplers-vision .descBox h3 {
+        font-size: 25px
+    }
+
+    .uplers-vision .descBox ul li img {
+        max-width: 60px;
+        max-height: 35px
+    }
+
+    .uplers-vision .descBox ul li {
+        font-size: 12px;
+        font-weight: 600
+    }
+
+    .uplers-vision .descBox h4 {
+        font-size: 16px;
+        margin-bottom: 10px
+    }
+}
+
+@media(max-width:991px) {
+    .uplers-vision {
+        padding: 80px 0
+    }
+}
+
+@media(max-width:575px) {
+    .uplers-vision {
+        padding: 60px 0
+    }
+
+    .uplers-vision .descBox {
+        order: 2
+    }
+
+    .uplers-vision .imgBox {
+        order: 1;
+        margin-bottom: 25px
+    }
+
+    .uplers-vision .descBox h3 {
+        font-size: 22px
+    }
+
+    .uplers-vision .descBox ul {
+        margin: 0 -15px 30px
+    }
+}
+
+.remoteLife {
+    padding: 150px 0
+}
+
+.remoteLife .container {
+    max-width: 1245px
+}
+
+.remoteLife h3 {
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 50px
+}
+
+.remoteLife .reward-slider .item {
+    padding: 0 15px
+}
+
+.remoteLife .reward-slider .item figure {
+    width: 100%;
+    height: 100%
+}
+
+@media(max-width:1550px) {
+    .remoteLife {
+        padding: 100px 0
+    }
+
+    .remoteLife .container {
+        max-width: 1200px
+    }
+
+    .remoteLife h3 {
+        font-size: 30px
+    }
+}
+
+@media(max-width:1200px) {
+    .remoteLife {
+        padding: 80px 0
+    }
+
+    .remoteLife h3 {
+        font-size: 25px;
+        margin-bottom: 30px
+    }
+}
+
+@media(max-width:767px) {
+    .remoteLife {
+        padding: 60px 0
+    }
+
+    .remoteLife h3 {
+        font-size: 22px
+    }
+}
+
+.remote-diaries {
+    padding: 0 0 150px
+}
+
+.remote-diaries h3 {
+    font-size: 40px;
+    margin-bottom: 30px
+}
+
+.remote-diaries .container {
+    max-width: 1440px
+}
+
+.diaries-slides .descBox {
+    padding-left: 0
+}
+
+.diaries-slides .descBox figure {
+    margin-bottom: 15px
+}
+
+.diaries-slides .descBox h4 {
+    margin-bottom: 15px
+}
+
+.diaries-slides .descBox h4 i {
+    font-size: 18px;
+    color: #999
+}
+
+.diaries-slides .descBox p {
+    margin-bottom: 20px
+}
+
+.diaries-slides .content {
+    height: 480px
+}
+
+.diaries-slides .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background-color: #646FD4 !important
+}
+
+.remote-diaries.ppc-testimonials .slick-prev:after {
+    transform: translateY(-50%) rotate(45deg);
+    left: 0;
+    top: 50%;
+    border-left: solid 2px #000;
+    border-bottom: solid 2px #000;
+    background: 0 0;
+    height: 20px;
+    width: 20px;
+    opacity: .4
+}
+
+.remote-diaries.ppc-testimonials .slick-next:after {
+    transform: translateY(-50%) rotate(-135deg);
+    right: 0;
+    top: 50%;
+    border-left: solid 2px #000;
+    border-bottom: solid 2px #000;
+    background: 0 0;
+    height: 20px;
+    width: 20px;
+    opacity: .4
+}
+
+.remote-diaries.ppc-testimonials .slick-arrow {
+    top: 45%;
+    transform: translateY(-50%)
+}
+
+.remote-diaries.ppc-testimonials .slick-prev {
+    left: -70px
+}
+
+.remote-diaries.ppc-testimonials .slick-next {
+    right: -70px
+}
+
+.remote-diaries.ppc-testimonials .slick-dots {
+    right: auto;
+    bottom: -30px
+}
+
+.remote-diaries.ppc-testimonials .slick-dots li {
+    margin: 0 3px
+}
+
+.remote-diaries.ppc-testimonials .slick-dots li button {
+    background: #ccc
+}
+
+.remote-diaries.ppc-testimonials .slick-dots li.slick-active button {
+    background: #646FD4
+}
+
+.remote-diaries .mCSB_draggerContainer:after {
+    content: "";
+    height: 100%;
+    width: 2px;
+    background-color: rgba(0, 0, 0, .4);
+    position: absolute;
+    left: 7px
+}
+
+.remote-diaries .mCSB_scrollTools .mCSB_draggerRail {
+    display: none
+}
+
+@media(max-width:1550px) {
+    .remote-diaries {
+        padding: 0 0 100px
+    }
+
+    .remote-diaries .container {
+        max-width: 1200px
+    }
+
+    .remote-diaries h3 {
+        font-size: 30px
+    }
+
+    .diaries-slides .descBox {
+        padding-left: 15px
+    }
+
+    .diaries-slides .descBox h4 {
+        font-size: 20px
+    }
+
+    .diaries-slides .descBox h6 {
+        font-size: 18px
+    }
+
+    .diaries-slides .descBox figure {
+        max-width: 120px
+    }
+
+    .diaries-slides .descBox p {
+        margin-bottom: 15px;
+        font-size: 15px;
+        line-height: 1.5
+    }
+
+    .diaries-slides .content {
+        height: 410px
+    }
+}
+
+@media(max-width:1200px) {
+    .remote-diaries {
+        padding: 0 0 80px
+    }
+
+    .remote-diaries h3 {
+        font-size: 25px
+    }
+
+    .diaries-slides .content {
+        height: 350px
+    }
+
+    .diaries-slides .descBox h4 i {
+        font-size: 15px;
+        display: block
+    }
+}
+
+@media(max-width:991px) {
+    .diaries-slides .descBox figure {
+        max-width: 80px
+    }
+
+    .diaries-slides .descBox p {
+        font-size: 12px
+    }
+
+    .diaries-slides .content {
+        height: 245px
+    }
+
+    .diaries-slides .descBox h4 {
+        font-size: 18px
+    }
+
+    .diaries-slides .descBox h6 {
+        font-size: 16px
+    }
+}
+
+@media(max-width:767px) {
+    .remote-diaries h3 {
+        font-size: 22px
+    }
+
+    .remote-diaries {
+        padding: 0 0 80px
+    }
+
+    .diaries-slides .content {
+        height: 245px
+    }
+}
+
+@media(max-width:575px) {
+    .diaries-slides .imgBox figure {
+        max-height: 300px;
+        overflow: hidden;
+        margin-bottom: 25px
+    }
+
+    .diaries-slides .descBox figure img {
+        object-fit: cover;
+        height: 100%;
+        width: 100%
+    }
+}
+
+.women-uplers {
+    background-color: #050402 !important;
+    color: #fff;
+    background-repeat: no-repeat !important;
+    min-height: 535px;
+    position: relative
+}
+
+.women-uplers:after {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/circle-dots-shape.svg)no-repeat;
+    height: 190px;
+    width: 125px;
+    position: absolute;
+    right: 0;
+    bottom: 70px;
+    content: "";
+    background-size: 100%
+}
+
+.women-uplers .row {
+    min-height: 535px
+}
+
+.women-uplers .descBox {
+    position: relative;
+    z-index: 1
+}
+
+.women-uplers .descBox h3 {
+    font-size: 40px;
+    margin-bottom: 30px
+}
+
+.women-uplers .descBox ul li {
+    position: relative;
+    font-size: 35px;
+    line-height: 1.5;
+    padding-left: 25px
+}
+
+.women-uplers .descBox ul li:before {
+    content: "";
+    height: 8px;
+    width: 8px;
+    position: absolute;
+    left: 0;
+    background: #646FD4;
+    border-radius: 100%;
+    top: 21px
+}
+
+@media(max-width:1550px) {
+    .women-uplers .descBox h3 {
+        font-size: 30px;
+        margin-bottom: 20px
+    }
+
+    .women-uplers {
+        background-size: 50% !important;
+        padding: 100px 0;
+        min-height: inherit
+    }
+
+    .women-uplers .row {
+        min-height: inherit
+    }
+
+    .women-uplers .descBox ul li {
+        font-size: 25px
+    }
+
+    .women-uplers .descBox ul li:before {
+        top: 14px
+    }
+
+    .women-uplers:after {
+        height: 140px;
+        width: 90px
+    }
+}
+
+@media(max-width:1200px) {
+    .women-uplers .descBox h3 {
+        font-size: 25px
+    }
+
+    .women-uplers .descBox ul li {
+        font-size: 20px
+    }
+
+    .women-uplers .descBox ul li:before {
+        top: 11px
+    }
+}
+
+@media(max-width:991px) {
+    .women-uplers {
+        background-size: 80% !important
+    }
+
+    .women-uplers .descBox h3 {
+        font-size: 22px
+    }
+
+    .women-uplers .descBox ul li {
+        font-size: 16px;
+        padding-left: 18px
+    }
+
+    .women-uplers .descBox ul li:before {
+        top: 8px;
+        height: 6px;
+        width: 6px
+    }
+
+    .women-uplers:after {
+        height: 110px;
+        width: 70px
+    }
+}
+
+@media(max-width:767px) {
+    .women-uplers {
+        background-size: 100% !important
+    }
+}
+
+@media(max-width:575px) {
+    .women-uplers {
+        padding: 62% 20px 60px
+    }
+}
+
+.our-key {
+    padding: 150px 0;
+    background: #646FD4;
+    text-align: center;
+    position: relative;
+    overflow: hidden
+}
+
+.our-key:before {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/half-circle-dots-shape.svg)no-repeat;
+    height: 290px;
+    width: 220px;
+    position: absolute;
+    left: -5px;
+    top: 60px;
+    content: "";
+    background-size: 100%
+}
+
+.our-key:after {
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../images/we-are-uplers/half-circle-dots-shape.svg)no-repeat;
+    height: 290px;
+    width: 220px;
+    position: absolute;
+    right: -140px;
+    bottom: 50px;
+    content: "";
+    transform: rotateY(180deg);
+    background-size: 100%
+}
+
+.our-key h3 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 30px
+}
+
+.our-key ul li {
+    font-size: 40px;
+    line-height: 1.5;
+    font-weight: 700;
+    margin-bottom: 10px
+}
+
+.our-key ul li:last-child {
+    margin-bottom: 0
+}
+
+@media(max-width:1550px) {
+    .our-key {
+        padding: 100px 0
+    }
+
+    .our-key h3 {
+        font-size: 20px
+    }
+
+    .our-key ul li {
+        font-size: 30px
+    }
+}
+
+@media(max-width:1200px) {
+    .our-key {
+        padding: 80px 0
+    }
+
+    .our-key ul li {
+        font-size: 25px;
+        line-height: 1.3
+    }
+
+    .our-key:before {
+        height: 200px;
+        width: 150px
+    }
+
+    .our-key:after {
+        height: 200px;
+        width: 180px
+    }
+}
+
+@media(max-width:767px) {
+    .our-key:before {
+        left: -100px
+    }
+
+    .our-key ul li {
+        font-size: 20px
+    }
+
+    .our-key h3 {
+        font-size: 16px;
+        margin-bottom: 20px
+    }
+}
+
+.ourPeople {
+    padding: 140px 0 120px;
+    background: #f9f9f9
+}
+
+.ourPeople .container {
+    max-width: 1300px
+}
+
+.ourPeople .container.right {
+    margin-right: 130px
+}
+
+.ourPeople .heading {
+    margin-bottom: 40px
+}
+
+.ourPeople .heading h3 {
+    font-size: 40px;
+    margin-bottom: 8px
+}
+
+.ourPeople .heading h5 {
+    font-weight: 500;
+    font-size: 30px
+}
+
+.pplVideo {
+    margin: 20px 0
+}
+
+.pplVideo .play_icon {
+    position: relative;
+    display: block
+}
+
+.pplVideo .play_icon i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 60px;
+    transition: .2s all;
+    border-radius: 100%;
+    z-index: 2
+}
+
+.pplVideo:hover .play_icon i {
+    color: #ffda31
+}
+
+.pplVideo h5 {
+    font-size: 16px;
+    margin: 20px 0 5px
+}
+
+.pplVideo p {
+    margin-bottom: 0
+}
+
+.pplVideo img {
+    position: relative;
+    z-index: 1
+}
+
+.pplVideo .shape01 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -262px;
+    pointer-events: none
+}
+
+.pplVideo .shape02 {
+    position: absolute;
+    right: -180px;
+    bottom: 0;
+    top: auto;
+    pointer-events: none
+}
+
+.pplVideo .shape03 {
+    position: absolute;
+    bottom: 0;
+    left: -120px;
+    z-index: 0;
+    pointer-events: none
+}
+
+.ourPeople .slick-arrow {
+    top: 50%;
+    transform: translateY(-50%);
+    background: #e8e8e8
+}
+
+.ourPeople .slick-arrow:hover {
+    background: #333
+}
+
+.ourPeople .slick-arrow:after {
+    left: 0;
+    right: 0;
+    margin: auto
+}
+
+.ourPeople .slick-dots {
+    display: none !important
+}
+
+.ourPeople.mobileview {
+    display: none;
+    padding: 50px 20px
+}
+
+@media(max-width:1550px) {
+    .ourPeople {
+        padding: 100px 0 80px
+    }
+
+    .ourPeople .container {
+        max-width: 900px
+    }
+
+    .ourPeople .heading {
+        margin-bottom: 20px
+    }
+
+    .ourPeople .heading h3 {
+        font-size: 30px
+    }
+
+    .ourPeople .heading h5 {
+        font-size: 22px
+    }
+
+    .pplVideo .shape01 {
+        left: -150px;
+        max-width: 150px
+    }
+
+    .pplVideo .shape02 {
+        right: -130px;
+        max-width: 80px
+    }
+
+    .pplVideo .shape03 {
+        left: -80px;
+        max-width: 100px
+    }
+
+    .pplVideo .play_icon i {
+        font-size: 45px
+    }
+
+    .pplVideo p {
+        font-size: 15px;
+        line-height: 1.5
+    }
+
+    .ourPeople .slick-arrow {
+        height: 60px;
+        width: 60px
+    }
+
+    .ourPeople .slick-arrow:after {
+        width: 32px
+    }
+}
+
+@media(max-width:1280px) {
+    .ourPeople {
+        padding: 80px 0 60px
+    }
+
+    .ourPeople .heading h3 {
+        font-size: 25px
+    }
+
+    .ourPeople .heading h5 {
+        font-size: 20px
+    }
+
+    .pplVideo .play_icon i {
+        font-size: 35px
+    }
+}
+
+@media(max-width:991px) {
+    .ourPeople .slick-arrow {
+        height: 40px;
+        width: 40px
+    }
+
+    .ourPeople .slick-arrow:after {
+        width: 22px
+    }
+}
+
+@media(max-width:767px) {
+    .ourPeople {
+        padding: 50px 0 30px
+    }
+
+    .ourPeople .heading h3 {
+        font-size: 22px
+    }
+
+    .ourPeople .heading h5 {
+        font-size: 18px
+    }
+
+    .pplVideo {
+        margin: 15px 0
+    }
+
+    .pplVideo p {
+        font-size: 12px
+    }
+
+    .pplVideo h5 {
+        font-size: 15px;
+        margin: 15px 0 5px
+    }
+}
+
+@media(max-width:575px) {
+    .ourPeople {
+        display: none
+    }
+
+    .ourPeople.mobileview {
+        display: block
+    }
+
+    .ourPeople.mobileview .container {
+        padding: 0 !important
+    }
+
+    .ourPeople.mobileview .slick-arrow {
+        display: none !important
+    }
+
+    .ourPeople.mobileview .slick-dots {
+        display: block !important;
+        bottom: -10px
+    }
+
+    .ourPeople.mobileview .slick-dots li button {
+        background: #000;
+        height: 8px;
+        width: 8px
+    }
+
+    .ourPeople.mobileview .slick-dots li {
+        margin: 0 3px
+    }
+
+    .ourPeople.mobileview .slick-dots li.slick-active button {
+        background: #646FD4
+    }
+}

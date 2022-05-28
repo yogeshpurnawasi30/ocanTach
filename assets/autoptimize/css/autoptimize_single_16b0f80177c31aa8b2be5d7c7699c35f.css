@@ -1,0 +1,1914 @@
+.airtasker .wrapper {
+    padding-top: 0
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+hgroup,
+menu,
+nav,
+section {
+    display: block
+}
+
+body.page-template-tpl-casestudy {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    color: #535353;
+    font-style: normal;
+    font-weight: 400;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: 'liga', 'kern';
+    box-sizing: content-box;
+    line-height: normal
+}
+
+*,
+*:before,
+*:after {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: 'liga', 'kern'
+}
+
+.casestudy-inner p {
+    margin: 0 0 15px;
+    font-size: 18px;
+    line-height: 28px
+}
+
+.casestudy-inner a {
+    text-decoration: none;
+    color: inherit;
+    outline: none
+}
+
+.casestudy-inner a:hover,
+.casestudy-inner a:focus,
+.casestudy-inner a:active {
+    text-decoration: none;
+    color: inherit
+}
+
+.casestudy-inner p a {
+    color: #00adae
+}
+
+.casestudy-inner p a:hover {
+    color: #535353
+}
+
+.casestudy-inner img {
+    vertical-align: middle;
+    max-width: 100%;
+    border: 0
+}
+
+.casestudy-inner ul {
+    padding: 0;
+    margin: 0 0 15px
+}
+
+.casestudy-inner h1,
+.casestudy-inner h2,
+.casestudy-inner h3,
+.casestudy-inner h4,
+.casestudy-inner h5,
+.casestudy-inner h6 {
+    margin-top: 0
+}
+
+.casestudy-inner #wrapper {
+    overflow: hidden
+}
+
+.casestudy-inner .wrap-inner {
+    max-width: 1390px;
+    margin: 0 auto;
+    padding: 0 10px
+}
+
+.casestudy-inner .wrap-inner2 {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 10px
+}
+
+.casestudy-inner .fl-left {
+    float: left;
+    margin-right: 4%;
+    position: relative
+}
+
+.casestudy-inner .fl-right {
+    float: right
+}
+
+.casestudy-inner .fclear {
+    clear: both
+}
+
+.casestudy-inner .valign {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%)
+}
+
+.casestudy-inner hr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: 0 0
+}
+
+.casestudy-inner h1.fixed {
+    color: #00adae
+}
+
+.casestudy-inner h1.fixed strong {
+    color: #5b5b5b
+}
+
+.casestudy-inner .atskr-banner {
+    background-color: #11c9e1;
+    background-image: url(../../../themes/uplers/assets/images/case-studies/airtasker/top-banner.png), url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/top-banner-bg.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: contain, contain;
+    background-position: top, top center;
+    position: relative;
+    color: #fff;
+    font-size: 18px;
+    box-sizing: border-box;
+    float: left;
+    width: 100%;
+    min-height: 980px;
+    padding: 0
+}
+
+.casestudy-inner .banner-caption {
+    text-align: center;
+    padding: 140px 10px 0
+}
+
+.casestudy-inner .banner-caption img {
+    max-width: 180px;
+    float: none
+}
+
+.casestudy-inner .banner-caption h3 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 400;
+    padding: 10px 0;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .2)
+}
+
+.casestudy-inner .container {
+    clear: both;
+    padding: 90px 20px !important
+}
+
+.casestudy-inner .container p {
+    margin-bottom: 35px
+}
+
+.casestudy-inner .container p:last-child {
+    margin-bottom: 0
+}
+
+.casestudy-inner #section2,
+#section6 {
+    background: #f8f8f8
+}
+
+.casestudy-inner #section4 {
+    background: #f4fcfb;
+    max-width: 100%;
+    overflow: hidden
+}
+
+.casestudy-inner .title {
+    text-align: center
+}
+
+.casestudy-inner .alignleft {
+    text-align: left
+}
+
+.casestudy-inner .alignright {
+    text-align: right
+}
+
+.casestudy-inner .aligncenter {
+    text-align: center
+}
+
+.casestudy-inner h1 {
+    text-align: center;
+    display: inline-block;
+    font-size: 45px;
+    color: #00adae;
+    font-weight: 300;
+    margin-bottom: 60px
+}
+
+.casestudy-inner h1 strong {
+    color: #5b5b5b
+}
+
+.casestudy-inner h1.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    z-index: 19;
+    opacity: 1;
+    transform: inherit;
+    -webkit-transform: inherit;
+    -moz-transform: inherit;
+    -ms-transform: inherit;
+    -o-transform: inherit;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, .3)
+}
+
+.casestudy-inner h3 {
+    color: #7e7e7e;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 30px
+}
+
+.casestudy-inner .heading-style {
+    font-size: 35px;
+    color: #18769b;
+    display: inline-block;
+    padding: 10px 5%;
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 25px;
+    position: relative;
+    font-weight: 300
+}
+
+.casestudy-inner .heading-style:after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    width: 75px;
+    height: 6px;
+    left: 50%;
+    transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    background: #e3275f
+}
+
+.casestudy-inner .greenbg .heading-style {
+    color: #00adae
+}
+
+.casestudy-inner .greenbg .heading-style:after {
+    background: #e18057
+}
+
+.casestudy-inner .greenbg h3 {
+    font-size: 25px;
+    color: #278c9b;
+    font-weight: 700
+}
+
+.casestudy-inner .greenbg h4 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 10px
+}
+
+.casestudy-inner ul.liststyle {
+    padding-left: 30px
+}
+
+.casestudy-inner ul.liststyle:last-child {
+    margin-bottom: 0
+}
+
+.casestudy-inner ul.liststyle li {
+    font-size: 18px;
+    line-height: 28px;
+    list-style-type: disc
+}
+
+.casestudy-inner .imgbox {
+    position: relative;
+    height: 277px;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 0;
+    box-sizing: border-box
+}
+
+.casestudy-inner .row {
+    padding-top: 30px
+}
+
+.casestudy-inner .testimonial.contant-box:before {
+    display: none !important
+}
+
+.casestudy-inner .testimonial figure {
+    margin: 0 auto 30px;
+    padding: 0;
+    border: 1px solid #e6e6e6;
+    border-radius: 100%;
+    padding: 25px;
+    width: 276px;
+    height: 276px;
+    position: relative;
+    border-radius: 100%
+}
+
+.casestudy-inner .testimonial figure img {
+    border-radius: 100%
+}
+
+.casestudy-inner .testimonial figure:after {
+    content: '';
+    position: absolute;
+    right: -20px;
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/textimonial-bubble-img.png) no-repeat center;
+    width: 26px;
+    height: 37px;
+    top: 50%;
+    transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -ms-transform: translateY(-50%)
+}
+
+.casestudy-inner .testimonial-dtl {
+    text-align: center
+}
+
+.casestudy-inner .testimonial-dtl h4 {
+    color: #18769b;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: "Montserrat", sans-serif
+}
+
+.casestudy-inner .testimonial-dtl h4 small {
+    color: #5b5b5b;
+    font-size: 25px;
+    font-weight: 300;
+    text-transform: none
+}
+
+.casestudy-inner .testimonialcomment {
+    padding-top: 70px;
+    position: relative
+}
+
+.casestudy-inner .testimonialcomment:before {
+    content: '';
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/quote-img.svg) no-repeat top left;
+    width: 78px;
+    height: 78px;
+    left: -50px;
+    top: -20px;
+    position: absolute;
+    background-size: cover
+}
+
+.casestudy-inner .followWrap {
+    height: auto !important
+}
+
+.casestudy-inner .rotate {
+    margin-top: 25%
+}
+
+.casestudy-inner img.logo2.valign {
+    max-width: 220px
+}
+
+.casestudy-inner .rotate,
+.rotate>span,
+.rotate>span>em {
+    display: block;
+    width: 516px;
+    height: 516px;
+    position: relative
+}
+
+.casestudy-inner .rotate:before {
+    content: '';
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/rotatebg1.png) no-repeat center;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -moz-animation-name: rotate;
+    -ms-animation-name: rotate;
+    -o-animation-name: rotate;
+    -webkit-animation-name: rotate;
+    -moz-animation-duration: 8s;
+    -ms-animation-duration: 8s;
+    -o-animation-duration: 8s;
+    -webkit-animation-duration: 8s;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -ms-animation-timing-function: linear;
+    -o-animation-timing-function: linear;
+    -webkit-animation-timing-function: linear;
+    animation-direction: reverse;
+    -moz-animation-direction: reverse;
+    -webkit-animation-direction: reverse;
+    -o-animation-direction: reverse;
+    -ms-animation-direction: reverse
+}
+
+.casestudy-inner .rotate>span:before {
+    content: '';
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/rotate-dashed.png) no-repeat center;
+    background-size: 88%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -moz-animation-name: rotate;
+    -ms-animation-name: rotate;
+    -o-animation-name: rotate;
+    -webkit-animation-name: rotate;
+    -moz-animation-duration: 150s;
+    -ms-animation-duration: 150s;
+    -o-animation-duration: 150s;
+    -webkit-animation-duration: 150s;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -ms-animation-timing-function: linear;
+    -o-animation-timing-function: linear;
+    -webkit-animation-timing-function: linear
+}
+
+.casestudy-inner .rotate>span:after {
+    content: '';
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/rotatebg3.png) no-repeat center;
+    background-size: 75%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -moz-animation-name: rotate;
+    -ms-animation-name: rotate;
+    -o-animation-name: rotate;
+    -webkit-animation-name: rotate;
+    -moz-animation-duration: 10s;
+    -ms-animation-duration: 10s;
+    -o-animation-duration: 10s;
+    -webkit-animation-duration: 10s;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -ms-animation-timing-function: linear;
+    -o-animation-timing-function: linear;
+    -webkit-animation-timing-function: linear
+}
+
+.casestudy-inner .rotate>span>em:before {
+    content: '';
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/rotatebg4.png) no-repeat center;
+    background-size: 65%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -moz-animation-name: rotate;
+    -ms-animation-name: rotate;
+    -o-animation-name: rotate;
+    -webkit-animation-name: rotate;
+    -moz-animation-duration: 30s;
+    -ms-animation-duration: 30s;
+    -o-animation-duration: 30s;
+    -webkit-animation-duration: 30s;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -ms-animation-timing-function: linear;
+    -o-animation-timing-function: linear;
+    -webkit-animation-timing-function: linear;
+    animation-direction: reverse;
+    -moz-animation-direction: reverse;
+    -webkit-animation-direction: reverse;
+    -o-animation-direction: reverse;
+    -ms-animation-direction: reverse
+}
+
+@-webkit-keyframes hang {
+    0% {
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%)
+    }
+
+    50% {
+        -webkit-transform: translate(-50%, -51.5%);
+        -ms-transform: translate(-50%, -51.5%);
+        transform: translate(-50%, -51.5%)
+    }
+
+    100% {
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%)
+    }
+}
+
+@keyframes hang {
+    0% {
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%)
+    }
+
+    50% {
+        -webkit-transform: translate(-50%, -51.5%);
+        -ms-transform: translate(-50%, -51.5%);
+        transform: translate(-50%, -51.5%)
+    }
+
+    100% {
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%)
+    }
+}
+
+.casestudy-inner img.shakeimg {
+    -webkit-animation-name: hang;
+    -ms-animation-name: hang;
+    animation-name: hang;
+    -webkit-animation-duration: 2s;
+    -ms-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-delay: .3s;
+    -ms-animation-delay: .3s;
+    animation-delay: .3s;
+    -webkit-animation-timing-function: linear;
+    -ms-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    animation-iteration-count: infinite
+}
+
+.casestudy-inner .slider .item {
+    text-align: center;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0)
+}
+
+.casestudy-inner .slider-content {
+    text-align: left;
+    background: #2281b1;
+    color: #fff;
+    overflow: hidden;
+    margin-top: 30px
+}
+
+.casestudy-inner .first-part.row {
+    padding: 0
+}
+
+.casestudy-inner .slider-screen {
+    width: 65%;
+    float: left
+}
+
+.casestudy-inner .slider-detail1 {
+    overflow: hidden
+}
+
+.casestudy-inner .sltitle {
+    background: #00adae;
+    font-weight: 300;
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 30px
+}
+
+.casestudy-inner .sldetail {
+    padding: 15px 40px;
+    font-weight: 300
+}
+
+.casestudy-inner .last-part {
+    background: #4cb4d3;
+    font-weight: 300;
+    padding: 5% 7%
+}
+
+.casestudy-inner .last-part>h2 {
+    font-size: 28px;
+    color: #fff;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    margin: 0 auto 20px;
+    max-width: 320px;
+    padding-bottom: 10px
+}
+
+.casestudy-inner .owl-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%
+}
+
+.casestudy-inner .owl-prev {
+    float: left;
+    margin-left: -8%;
+    margin-top: 10px
+}
+
+.casestudy-inner .owl-next {
+    float: right;
+    margin-right: -8%;
+    margin-top: 10px
+}
+
+.casestudy-inner .owl-controls .disabled {
+    display: none !important
+}
+
+.casestudy-inner .animatedimg {
+    position: relative
+}
+
+.casestudy-inner .graph.go {
+    position: relative
+}
+
+.casestudy-inner .highcharts-button {
+    display: none
+}
+
+.casestudy-inner .highcharts-legend-item {
+    color: #5b5b5b !important;
+    display: inline-block;
+    float: left;
+    width: 50%
+}
+
+.casestudy-inner .highcharts-legend-item text {
+    color: #5b5b5b !important
+}
+
+.casestudy-inner .highcharts-axis-labels.highcharts-xaxis-labels>text>tspan[style="font-weight:bold"] {
+    font-weight: 700 !important;
+    font-family: "Montserrat" !important
+}
+
+.casestudy-inner .graph-indicator {
+    color: #e18057;
+    font-size: 18px;
+    left: 10%;
+    position: absolute;
+    top: 62%;
+    font-family: kgdropsofjupiter-regular
+}
+
+.casestudy-inner .graph-indicator:after {
+    content: '';
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    width: 39px;
+    height: 44px;
+    background: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/graph-arrow.png) no-repeat top center;
+    z-index: -1
+}
+
+.casestudy-inner .graph.go img {
+    margin: 0 auto;
+    display: block
+}
+
+.casestudy-inner .acquired-logoes {
+    padding: 40px 0;
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 30px
+}
+
+.casestudy-inner .acquired-logoes ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.casestudy-inner .acquired-logoes li {
+    list-style: none;
+    position: relative;
+    padding: 30px 15px;
+    flex: 0 0 25%;
+    max-width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+@media screen and (max-width:1800px) {
+    .casestudy-inner .trnspt-bg {
+        background-position: left bottom
+    }
+
+    .casestudy-inner .octa-shape {
+        width: 590px;
+        height: 590px
+    }
+
+    .casestudy-inner .testmnl-section h3 {
+        font-size: 28px
+    }
+
+    .casestudy-inner .testmnl-section p {
+        font-size: 24px
+    }
+
+    .casestudy-inner .octa-shape .valign {
+        padding: 0 90px
+    }
+
+    .casestudy-inner .testmnl-section {
+        padding: 110px 0 60px
+    }
+
+    .casestudy-inner .testmnl-section small {
+        font-size: 16px
+    }
+
+    .casestudy-inner .clent-list div>a {
+        height: 250px
+    }
+}
+
+@media screen and (max-width:1300px) {
+    .casestudy-inner .atskr-banner {
+        min-height: 730px
+    }
+
+    .casestudy-inner .owl-prev {
+        margin-left: 10px;
+        width: 20px
+    }
+
+    .casestudy-inner .owl-next {
+        margin-right: 10px;
+        width: 20px
+    }
+}
+
+@media screen and (max-width:1279px) {
+    .casestudy-inner #section5 .casestudy-inner .container {
+        padding: 60px 0 !important
+    }
+
+    .casestudy-inner .atskr-banner {
+        min-height: 620px
+    }
+
+    .casestudy-inner h1 {
+        font-size: 36px;
+        margin-bottom: 40px
+    }
+
+    .casestudy-inner .container p {
+        margin-bottom: 20px
+    }
+
+    .casestudy-inner .sltitle {
+        margin: 0;
+        font-size: 25px
+    }
+
+    .casestudy-inner .sldetail {
+        padding: 10px 20px
+    }
+
+    .casestudy-inner .sldetail p {
+        font-size: 16px
+    }
+
+    .casestudy-inner .last-part {
+        padding: 25px
+    }
+
+    .casestudy-inner .heading-style {
+        font-size: 30px;
+        margin-bottom: 25px
+    }
+
+    .casestudy-inner .row {
+        padding-top: 15px
+    }
+
+    .casestudy-inner .testimonial figure {
+        width: 256px;
+        height: 256px;
+        margin-top: 25%
+    }
+
+    .casestudy-inner .testimonial figure img {
+        max-width: 80%;
+        margin: 0
+    }
+
+    .casestudy-inner .rotate,
+    .rotate>span,
+    .rotate>span>em {
+        width: 390px;
+        height: 390px
+    }
+
+    .casestudy-inner img.logo2.valign {
+        max-width: 180px
+    }
+
+    .casestudy-inner .graph-indicator {
+        left: 5%;
+        right: inherit
+    }
+
+    .casestudy-inner .banner-caption {
+        padding-top: 120px
+    }
+
+    .casestudy-inner .banner-caption img {
+        max-width: 130px
+    }
+
+    .casestudy-inner .banner-caption h3 {
+        font-size: 22px;
+        padding: 5px 0
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .casestudy-inner .atskr-banner {
+        min-height: 400px;
+        background-image: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/top-banner-bg.jpg);
+        background-repeat: repeat
+    }
+
+    .casestudy-inner .banner-caption {
+        padding-top: 180px
+    }
+
+    .casestudy-inner .followWrap {
+        height: auto !important;
+        position: absolute;
+        top: 310px
+    }
+
+    .casestudy-inner h1,
+    .casestudy-inner h1 strong {
+        color: #fff
+    }
+
+    .casestudy-inner .acquired-logoes li {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+        padding: 20px 15px
+    }
+}
+
+@media screen and (max-width:1023px) {
+
+    .casestudy-inner .sldetail p,
+    .casestudy-inner .last-part p {
+        font-size: 16px;
+        line-height: 1.25em
+    }
+
+    .casestudy-inner .testimonial figure {
+        width: 180px;
+        height: 180px
+    }
+
+    .casestudy-inner .testimonial-dtl h4 {
+        font-size: 25px
+    }
+
+    .casestudy-inner .testimonial-dtl h4 small {
+        font-size: 18px
+    }
+}
+
+@media screen and (max-width:991px) {
+    .casestudy-inner .graph-indicator {
+        top: 54%;
+        font-size: 15px
+    }
+}
+
+@media screen and (max-width:980px) {
+    .casestudy-inner .atskr-banner {
+        padding-bottom: 0
+    }
+
+    .casestudy-inner .atskr-banner .wrap-inner {
+        padding-left: 0
+    }
+
+    .casestudy-inner .octa-shape {
+        max-width: 450px;
+        width: 100%
+    }
+
+    .casestudy-inner .octa-shape .valign {
+        padding: 0 80px
+    }
+
+    .casestudy-inner .contact-dtl {
+        top: 10%;
+        transform: translate(-50%, 0);
+        -moz-transform: translate(-50%, 0);
+        -ms-transform: translate(-50%, 0);
+        -o-transform: translate(-50%, 0);
+        -webkit-transform: translate(-50%, 0);
+        left: 50%
+    }
+
+    .casestudy-inner .innerpage .col2 input,
+    .casestudy-inner .innerpage .col2 textarea {
+        width: 100%;
+        padding: 22px;
+        margin-bottom: 18px;
+        font-size: 20px
+    }
+
+    .casestudy-inner .innerpage .col2 select {
+        width: 100%;
+        padding: 18px 23px;
+        margin-bottom: 18px;
+        font-size: 20px
+    }
+
+    @-moz-document url-prefix() {
+        .casestudy-inner .innerpage .col2 select {
+            padding: 10px 23px;
+            background-size: 20px
+        }
+
+        .casestudy-inner .innerpage .col2 select option {
+            padding: 8px 23px
+        }
+    }
+}
+
+@media screen and (max-width:979px) {
+    .casestudy-inner .banner-caption {
+        padding-top: 100px
+    }
+
+    .casestudy-inner .banner-caption h3 {
+        font-size: 14px;
+        padding: 5px 0
+    }
+
+    .casestudy-inner img[title="Organic Traffic"] {
+        width: 98%
+    }
+
+    .casestudy-inner .rotate,
+    .rotate>span,
+    .rotate>span>em {
+        width: 310px;
+        height: 310px
+    }
+
+    .casestudy-inner img.logo2.valign {
+        max-width: 150px;
+        margin: 0 !important
+    }
+
+    .casestudy-inner .followWrap {
+        top: 220px;
+        width: 100%;
+        left: 0;
+        padding: 0 20px;
+        box-sizing: border-box
+    }
+}
+
+@media screen and (max-width:768px) {
+    .casestudy-inner .banner-caption {
+        padding-top: 110px
+    }
+
+    .casestudy-inner .logo1 {
+        margin: 20px auto 30px;
+        display: block
+    }
+
+    .casestudy-inner .container img {
+        display: block;
+        margin: 20px auto 30px
+    }
+
+    .casestudy-inner .slider-screen {
+        width: 100%
+    }
+
+    .casestudy-inner .slider-screen img {
+        margin: 0
+    }
+
+    .casestudy-inner .slider-detail1 {
+        overflow: inherit;
+        clear: both
+    }
+
+    .casestudy-inner .first-part.row {
+        margin: 0
+    }
+
+    .casestudy-inner .sldetail {
+        padding: 25px
+    }
+
+    .casestudy-inner .result * {
+        box-sizing: border-box
+    }
+
+    .casestudy-inner .last-part>h2 {
+        font-size: 24px
+    }
+}
+
+@media screen and (max-width:767px) {
+    .casestudy-inner .contact-dtl {
+        top: inherit;
+        bottom: 3%
+    }
+
+    body .casestudy-inner .section,
+    body .casestudy-inner .fp-tableCell {
+        height: auto !important;
+        display: block !important;
+        table-layout: auto !important
+    }
+
+    .casestudy-inner section#fullpage {
+        touch-action: inherit !important;
+        transform: inherit !important;
+        overflow: auto
+    }
+
+    .casestudy-inner html.fp-enabled,
+    .fp-enabled body {
+        overflow: auto !important
+    }
+
+    .casestudy-inner .atskr-banner {
+        min-height: 330px
+    }
+
+    .casestudy-inner .testimonial-dtl {
+        margin-bottom: 30px
+    }
+
+    .casestudy-inner .testimonial figure {
+        margin: 0 auto 20px
+    }
+
+    .casestudy-inner h1 {
+        font-size: 28px;
+        margin-bottom: 25px
+    }
+
+    .casestudy-inner .rotate {
+        margin: 9% auto 0
+    }
+
+    .casestudy-inner .imgbox {
+        margin-top: 0
+    }
+
+    .casestudy-inner .graph-indicator:after {
+        background-size: contain;
+        width: 29px;
+        height: 34px;
+        top: 20px;
+        right: 26%
+    }
+
+    .casestudy-inner .imgbox img {
+        max-width: 240px
+    }
+}
+
+@media screen and (max-width:640px) {
+    .casestudy-inner .banner-caption {
+        display: none
+    }
+
+    .casestudy-inner .campaigns-section .col2-bg-img,
+    .col2-bg-img {
+        height: 270px
+    }
+
+    .casestudy-inner .sectn-captn h3 {
+        font-size: 20px;
+        line-height: 22px
+    }
+
+    .casestudy-inner .sectn-captn h2 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 20px
+    }
+
+    .casestudy-inner .sectn-captn p {
+        font-size: 16px
+    }
+
+    .casestudy-inner .columns2 .cta-button {
+        margin-top: 20px
+    }
+
+    .casestudy-inner .our-stuff-section>h2 {
+        font-size: 26px;
+        line-height: 28px
+    }
+
+    .casestudy-inner .our-stuff-section>h2 small {
+        font-size: 16px
+    }
+
+    .casestudy-inner .our-stuff-carousel .items figure {
+        margin-bottom: 10px
+    }
+
+    .casestudy-inner .wrap-content p {
+        line-height: 22px;
+        font-size: 16px
+    }
+
+    .casestudy-inner .stuff-info {
+        font-size: 14px
+    }
+
+    .casestudy-inner .our-stuff-carousel .owl-next,
+    .our-stuff-carousel .owl-prev {
+        margin-top: -60%
+    }
+
+    .casestudy-inner .contact-section h2 {
+        font-size: 30px;
+        margin-bottom: 5px;
+        line-height: 30px
+    }
+
+    .casestudy-inner .contact-section p {
+        font-size: 23px;
+        font-weight: 300
+    }
+
+    .casestudy-inner .contact-dtl {
+        padding: 30px
+    }
+
+    .casestudy-inner .google-map {
+        min-height: 480px
+    }
+
+    .casestudy-inner .testimonialcomment:before {
+        top: 10px;
+        left: 0;
+        background-size: contain;
+        width: 48px;
+        height: 48px
+    }
+
+    .casestudy-inner .atskr-banner {
+        background-position: bottom;
+        background-color: #0fc1db;
+        background-size: 140%
+    }
+
+    .casestudy-inner .container {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+
+    .casestudy-inner .acquired-logoes li {
+        flex: 0 0 50%;
+        max-width: 50%
+    }
+}
+
+@media screen and (max-width:620px) {
+    .casestudy-inner .graph-indicator:after {
+        left: 42%;
+        right: inherit
+    }
+}
+
+@media screen and (max-width:480px) {
+    .casestudy-inner .atskr-banner {
+        background-image: url(//www.uplers.com/wp-content/themes/uplers/assets/css/casestudy/../../images/case-studies/airtasker/top-banner-bg.jpg);
+        min-height: 270px
+    }
+
+    .casestudy-inner .followWrap {
+        height: auto !important;
+        position: absolute;
+        top: 170px;
+        left: 0
+    }
+
+    .casestudy-inner .title h1,
+    .title h1 strong {
+        color: #fff;
+        opacity: 1 !important
+    }
+
+    .casestudy-inner .title h1.fixed {
+        position: static
+    }
+
+    .casestudy-inner .container {
+        box-sizing: border-box
+    }
+
+    .casestudy-inner .followWrap {
+        padding: 0
+    }
+}
+
+@media screen and (max-width:479px) {
+    .casestudy-inner .octa-shape .valign {
+        padding: 0 40px
+    }
+
+    .casestudy-inner .octa-shape {
+        background-size: 450px
+    }
+
+    .casestudy-inner .contact-form {
+        padding: 30px 0
+    }
+
+    .casestudy-inner .innerpage .col2 input,
+    .innerpage .col2 select,
+    .innerpage .col2 textarea {
+        margin-bottom: 18px;
+        font-size: 18px;
+        padding: 18px
+    }
+
+    .casestudy-inner .innerpage .col2 select {
+        background-size: 25px;
+        background-position: 97.5% center
+    }
+
+    .casestudy-inner .innerpage .col2 textarea {
+        min-height: 150px
+    }
+
+    .casestudy-inner .innerpage input[type=submit] {
+        max-width: 352px;
+        min-width: 100%
+    }
+
+    .casestudy-inner .checkbox {
+        margin-bottom: 30px;
+        font-size: 18px
+    }
+
+    .casestudy-inner .error-link {
+        font-size: 18px;
+        padding: 10px;
+        bottom: 10px;
+        width: 100%;
+        text-align: center
+    }
+
+    .casestudy-inner .error-link .cta-orange-btn {
+        display: inline-block;
+        margin-top: 10px
+    }
+
+    .casestudy-inner .scroll-down>.fa-angle-down {
+        padding: 10px 18px
+    }
+
+    .casestudy-inner h1 {
+        font-size: 23px
+    }
+
+    .casestudy-inner .heading-style {
+        font-size: 22px;
+        margin-bottom: 15px
+    }
+
+    .casestudy-inner .container {
+        padding: 40px 15px !important
+    }
+
+    .casestudy-inner .container p {
+        font-size: 16px;
+        line-height: 22px
+    }
+
+    .casestudy-inner .greenbg h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 18px
+    }
+
+    .casestudy-inner .greenbg h4 {
+        font-size: 16px
+    }
+
+    .casestudy-inner ul.liststyle li {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 10px
+    }
+
+    .casestudy-inner .graph-indicator:after {
+        left: 60px;
+        right: inherit;
+        top: 40px
+    }
+
+    .casestudy-inner .graph-indicator {
+        width: 170px
+    }
+}
+
+@media screen and (max-width:375px) {
+    .casestudy-inner .octa-shape {
+        background-size: 450px
+    }
+
+    .casestudy-inner img.logo2.valign {
+        max-width: 110px
+    }
+
+    .casestudy-inner .rotate,
+    .rotate>span,
+    .rotate>span>em {
+        width: 280px;
+        height: 280px
+    }
+
+    .casestudy-inner .atskr-banner {
+        min-height: 220px
+    }
+
+    .casestudy-inner .followWrap {
+        top: 140px
+    }
+}
+
+@media screen and (max-width:320px) {
+    .casestudy-inner .atskr-banner .wrap-inner .google-partner {
+        margin-top: -58px;
+        margin-right: 10px
+    }
+
+    .casestudy-inner .atskr-banner .wrap-inner .google-partner img {
+        width: 70px
+    }
+
+    .casestudy-inner .menu-trigger {
+        width: 35px;
+        margin-right: 10px
+    }
+
+    .casestudy-inner .octa-shape {
+        background-size: 420px
+    }
+
+    .casestudy-inner .atskr-banner .cta-button,
+    .ftr-dtl .cta-button {
+        min-width: 245px;
+        width: auto
+    }
+}
+
+.blog-listing-page .casestudy-inner p.no-break {
+    display: none
+}
+
+.blog-listing-page .casestudy-inner .esg-entry-media {
+    position: relative
+}
+
+.blog-listing-page .casestudy-inner .esg-entry-media:after {
+    background: #fff none repeat scroll 0 0;
+    content: "";
+    height: 250%;
+    left: -100%;
+    opacity: .2;
+    position: absolute;
+    top: -120px;
+    transform: rotate(35deg);
+    transition: all 1.2s cubic-bezier(.5, 1, .5, 1) 0s;
+    width: 100px;
+    z-index: 11
+}
+
+.blog-listing-page .esg-entry-media:hover:after {
+    left: 120%;
+    transition: all 1.2s cubic-bezier(.19, 1, .22, 1) 0s
+}
+
+.right-content #secondary .yarpp-related-widget>h3,
+.right-content #categories-2>h3 {
+    font-size: 20px;
+    text-transform: uppercase
+}
+
+.st_fblike_hcount {
+    display: inline-block;
+    padding-bottom: 5px;
+    vertical-align: top
+}
+
+.st_plusone_hcount {
+    display: inline-block;
+    padding-top: 2px;
+    vertical-align: top
+}
+
+.st_plusone_hcount div {
+    width: 60px !important
+}
+
+span.stMainServices {
+    background: 0 0 !important
+}
+
+span.stButton_gradient {
+    background: 0 0 !important;
+    border: 0 !important
+}
+
+.shr-nmb {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    width: 100%
+}
+
+body .stButton .googleplus,
+.stButton .stArrow {
+    background: 0 0 !important
+}
+
+body .stButton .googleplus {
+    display: none !important
+}
+
+body .stButton .stBubble_hcount {
+    font-size: 14px !important;
+    color: #fff;
+    font-family: "Montserrat", sans-serif
+}
+
+body .stButton .stArrow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    padding: 0 !important;
+    margin: 10px 0 0 -5px !important;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    -webkit-transition: all .3s
+}
+
+body.single header h1 {
+    line-height: 0
+}
+
+small.blogpost {
+    font-size: 18px;
+    font-weight: 300;
+    padding: 5px 15px 7px;
+    background: #00adae;
+    border-radius: 20px;
+    line-height: 20px;
+    display: inline-block
+}
+
+small.blogpost:hover {
+    background: #e18057
+}
+
+body.single header h1 span {
+    padding-bottom: 28px;
+    position: relative;
+    margin-bottom: 28px;
+    display: block;
+    line-height: 55px
+}
+
+body.single header h1 span:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    height: 2px;
+    background: #fff;
+    width: 110px;
+    left: 50%;
+    transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%)
+}
+
+.post-nav {
+    float: left;
+    width: 100%;
+    border: 1px solid #ccd3d7;
+    border-radius: 7px;
+    position: relative;
+    margin: 10px 0
+}
+
+.post-nav:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    height: 80%;
+    width: 1px;
+    background: #ccd3d7;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%)
+}
+
+.post-nav>span {
+    width: 50%;
+    box-sizing: border-box
+}
+
+.post-nav>span a {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px
+}
+
+.post-nav .nav-previous {
+    text-align: left
+}
+
+.post-nav .nav-next {
+    text-align: right
+}
+
+.post-nav .nav-previous a {
+    margin-left: 35px
+}
+
+.post-nav .nav-next a {
+    margin-right: 35px
+}
+
+.post-nav span.meta-nav i {
+    font-size: 30px;
+    color: #00adae;
+    padding: 5px 10px;
+    display: inline-block;
+    vertical-align: top
+}
+
+.post-nav span.meta-nav i.fa.fa-angle-right {
+    position: absolute;
+    right: 0;
+    height: 100%;
+    box-sizing: border-box;
+    border-left: 1px solid #ccd3d7
+}
+
+.post-nav span.meta-nav i.fa.fa-angle-left {
+    position: absolute;
+    left: 0;
+    height: 100%;
+    box-sizing: border-box;
+    border-right: 1px solid #ccd3d7
+}
+
+.scl_tooltip .share {
+    position: relative;
+    background: #3b5998;
+    height: auto;
+    width: auto;
+    color: #fff;
+    font-size: 12px;
+    padding: 3px 10px;
+    margin-right: 15px;
+    left: 70%
+}
+
+.scl_tooltip .st_twitter_hcount {
+    background: #00aced !important
+}
+
+.scl_tooltip .st_googleplus_hcount {
+    background: #ed1c24 !important
+}
+
+.scl_tooltip .st_linkedin_hcount {
+    background: #1c75bc !important
+}
+
+.scl_tooltip .stButton .stBubble_hcount {
+    display: none
+}
+
+.scl_tooltip {
+    position: absolute;
+    background: #fff;
+    left: 120%;
+    z-index: 99;
+    top: 0;
+    width: 366px;
+    height: 137px;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .5);
+    display: none;
+    border-left: 5px solid #00adae
+}
+
+li.orange-bg .scl_tooltip {
+    border-left: 5px solid #3b5998
+}
+
+li.green-bg .scl_tooltip {
+    border-left: 5px solid #00aced
+}
+
+li.dark-blue-bg .scl_tooltip {
+    border-left: 5px solid #ed1c24
+}
+
+li.light-green-bg .scl_tooltip {
+    border-left: 5px solid #1c75bc
+}
+
+li.orange-bg .scl_tooltip:before {
+    border-color: transparent #3b5998 transparent transparent
+}
+
+li.green-bg .scl_tooltip:before {
+    border-color: transparent #00aced transparent transparent
+}
+
+li.dark-blue-bg .scl_tooltip:before {
+    border-color: transparent #ed1c24 transparent transparent
+}
+
+li.light-green-bg .scl_tooltip:before {
+    border-color: transparent #1c75bc transparent transparent
+}
+
+.scl_tooltip:before {
+    content: "";
+    position: absolute;
+    top: 17px;
+    right: 100%;
+    border-width: 15px;
+    border-style: solid;
+    border-color: transparent #00adae transparent transparent
+}
+
+.scl_tooltip figure {
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 120px;
+    height: 100%;
+    overflow: hidden;
+    position: relative
+}
+
+.scl_tooltip figure img {
+    width: 100%;
+    height: 137px;
+    max-width: inherit !important;
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.scl_tooltip figure>span:first-child {
+    width: 10px;
+    height: 0;
+    display: block;
+    position: absolute
+}
+
+.scl_tooltip .detail-page {
+    overflow: hidden;
+    text-align: left;
+    padding-bottom: 10px
+}
+
+.scl_tooltip h3 {
+    font-size: 11px;
+    line-height: 1.4em;
+    margin: 0;
+    color: #393939;
+    padding: 10px 15px 5px;
+    border-bottom: 1px solid #e2e2e2
+}
+
+.scl_tooltip p {
+    font-size: 11px !important;
+    line-height: 13px;
+    padding: 10px 15px 5px;
+    margin: 0;
+    color: #393939
+}
+
+.scl_tooltip a.share {
+    float: right;
+    font-size: 12px;
+    padding: 3px 10px;
+    color: #fff;
+    margin-right: 15px
+}
+
+.scl_tooltip a.share.facebook {
+    background: #276ebe
+}
+
+.scl_tooltip a.share.twitter {
+    background: #00aced
+}
+
+.scl_tooltip a.share.gplus {
+    background: #ed1c24
+}
+
+.scl_tooltip a.share.linkedin {
+    background: #1c75bc
+}
+
+.right-fixed-social-icons,
+.triggre-social-icons {
+    display: none !important
+}
+
+@media(max-width:767px) {
+    .testimonialcomment:before {
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        transform: translateX(-50%)
+    }
+}
+
+#section5 {
+    display: none
+}

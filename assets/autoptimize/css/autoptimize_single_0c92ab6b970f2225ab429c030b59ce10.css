@@ -1,0 +1,274 @@
+.yellow-quote-sec .quote-slider:before {
+	position: static;
+	width: 60px;
+	height: 47px;
+	margin-bottom: 20px;
+	background-size: 100%
+}
+
+.yellow-quote-sec .slide__item h3 {
+	font-weight: 800
+}
+
+.quote-adjust:after {
+	width: 386px;
+	height: 213px;
+	right: 27px;
+	bottom: 0
+}
+
+.local-hiring {
+	padding: 150px 0
+}
+
+.local-hiring .row {
+	padding: 26px 36px
+}
+
+.local-hiring .row p {
+	margin-top: 10px
+}
+
+.local-hiring .container .row .hiring-icon figure img {
+	max-width: 60px;
+	max-height: 42px
+}
+
+.local-hiring .container .row .hiring-icon figure img:first-child {
+	min-width: 42px;
+	min-height: 42px
+}
+
+.local-hiring .container .row .hiring-desc p {
+	margin-top: 25px;
+	margin-bottom: 0
+}
+
+.local-hiring .container .row:not(:last-child) {
+	border-bottom: 1px solid #d3d3d3
+}
+
+.local-hiring .container .heading-content h2 {
+	font-size: 45px
+}
+
+section.page_more_info_sec.infoss-sec {
+	background: #e3e3e3
+}
+
+.getTouch .inner-common-form h3 {
+	font-size: 45px;
+	margin-bottom: 50px
+}
+
+.getTouch .rate-card-main .inner-common-form {
+	padding: 130px 0
+}
+
+.getTouch .rate-card-main .inner-common-form .submit-btn input[type=submit] {
+	padding: 0 25px;
+	background: #000;
+	color: #fff;
+	min-width: 150px
+}
+
+.getTouch .rate-card-main .inner-common-form .submit-btn input:hover[type=submit] {
+	background: #646FD4;
+	color: #000
+}
+
+.page_more_info_sec .container .info-para {
+	margin-top: 10px;
+	font-size: 22px;
+	font-weight: 600;
+	text-align: center
+}
+
+.local-hiring .hiring-desc p {
+	font-size: 18px
+}
+
+@media(max-width:1650px) {
+	.quote-adjust:after {
+		width: 206px;
+		height: 155px;
+		right: 95px;
+		bottom: 1px
+	}
+
+	.getTouch .inner-common-form h3 {
+		font-size: 30px
+	}
+
+	.getTouch .rate-card-main .inner-common-form {
+		padding: 100px 0
+	}
+
+	.page_more_info_sec .container .info-para {
+		font-size: 20px
+	}
+
+	.yellow-quote-sec .quote-slider:before {
+		width: 45px;
+		height: 35px
+	}
+
+	.local-hiring .container .heading-content h2 {
+		font-size: 30px
+	}
+
+	.local-hiring {
+		padding: 100px 0
+	}
+}
+
+@media(max-width:1280px) {
+	.quote-adjust:after {
+		width: 152px;
+		height: 113px;
+		right: 88px;
+		bottom: 1px
+	}
+
+	.getTouch .rate-card-main .inner-common-form .submit-btn input[type=submit] {
+		min-width: 120px
+	}
+
+	.getTouch .inner-common-form h3 {
+		font-size: 25px
+	}
+
+	.page_more_info_sec .container .info-para {
+		font-size: 18px
+	}
+
+	.local-hiring .hiring-desc p {
+		font-size: 14px
+	}
+
+	section.page_more_info_sec.infoss-sec {
+		padding: 80px 0
+	}
+
+	.getTouch .rate-card-main .inner-common-form {
+		padding: 80px 0
+	}
+
+	.local-hiring {
+		padding: 80px 0
+	}
+
+	.local-hiring .container .heading-content h2 {
+		font-size: 25px
+	}
+
+	.local-hiring .row {
+		padding: 26px 20px
+	}
+}
+
+@media(max-width:991px) {
+	.getTouch .rate-card-main .inner-common-form {
+		padding: 50px 0
+	}
+
+	section.page_more_info_sec.infoss-sec {
+		padding: 50px 0
+	}
+
+	.local-hiring {
+		padding: 60px 0;
+		margin: 0 36px
+	}
+
+	.local-hiring .hiring-icon {
+		padding: 0
+	}
+
+	.page_more_info_sec .container .info-para {
+		font-size: 16px
+	}
+}
+
+@media (max-width:768px) {
+	.local-hiring {
+		padding: 60px 0
+	}
+
+	section.page_more_info_sec.infoss-sec {
+		padding: 60px 0
+	}
+}
+
+@media(max-width:767px) {
+	.getTouch .inner-common-form h3 {
+		font-size: 22px;
+		margin-bottom: 15px
+	}
+
+	.getTouch .rate-card-main .inner-common-form {
+		padding: 60px 0
+	}
+
+	.local-hiring .container .heading-content h2 {
+		font-size: 22px
+	}
+
+	.local-hiring .hiring-desc,
+	.local-hiring .hiring-icon {
+		text-align: center
+	}
+
+	.local-hiring .hiring-desc {
+		margin-top: 20px
+	}
+
+	.black_banner_sec {
+		min-height: inherit
+	}
+
+	.sec__content {
+		margin-top: 5px
+	}
+}
+
+@media(max-width:575px) {
+	.page_more_info_sec .container .info-para {
+		margin-top: 18px;
+		text-align: left;
+		font-size: 14px
+	}
+
+	.local-hiring {
+		padding: 50px 0;
+		margin: 0 10px
+	}
+
+	.getTouch .rate-card-main .inner-common-form {
+		padding: 50px 0
+	}
+
+	.local-hiring .row {
+		padding: 26px 0
+	}
+
+	.local-hiring .hiring-desc {
+		padding: 0
+	}
+
+	.local-hiring .container .row .hiring-desc p {
+		margin-top: 12px
+	}
+
+	.quote-adjust:after {
+		right: 20px
+	}
+
+	section.page_more_info_sec.infoss-sec {
+		padding: 20px 0
+	}
+
+	.sec__content {
+		margin-top: 15px
+	}
+}

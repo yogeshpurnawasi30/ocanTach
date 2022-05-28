@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../../../themes/uplers/assets/fonts/fontAwesome/fontawesome-webfont.eot) format("eot"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/fontAwesome/fontawesome-webfont.svg) format("svg"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/fontAwesome/fontawesome-webfont.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/fontAwesome/fontawesome-webfont.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Light.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Light.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-LightItalic.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-LightItalic.woff) format("woff");
+    font-weight: 300;
+    font-style: italic
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Regular.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Medium.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Medium.woff) format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-SemiBold.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-SemiBold.woff) format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Bold.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-Bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-ExtraBold.woff2) format("woff2"), url(//www.uplers.com/wp-content/themes/uplers/assets/css/../fonts/Montserrat-ExtraBold.woff) format("woff");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}

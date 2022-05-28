@@ -1,0 +1,618 @@
+.why-india .wrapper {
+    padding-top: 0
+}
+
+.why-india .black_banner_sec {
+    min-height: 100vh;
+    background-size: 100% !important
+}
+
+.book-btn {
+    text-align: center;
+    margin-top: 60px
+}
+
+.ylw-Strip {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.tweet-img {
+    margin: auto;
+    max-height: 300px
+}
+
+.tweet-img img {
+    max-height: inherit;
+    margin-top: 10px
+}
+
+.facts-glance img {
+    max-height: 40px
+}
+
+figure {
+    min-height: 42px
+}
+
+.facts-glance {
+    margin-top: 20px
+}
+
+.img-desc {
+    margin-top: 20px
+}
+
+.get-in-touch-section,
+.ceo-section {
+    padding: 150px 0
+}
+
+.ceo-section .container {
+    margin-top: 30px;
+    display: flex
+}
+
+.ceo-section .container img {
+    width: auto;
+    height: auto
+}
+
+.first-row,
+.third-row,
+.first-row1,
+.second-row1 {
+    display: flex
+}
+
+.first-row :not(:first-child),
+.third-row :not(:first-child),
+.first-row1 :not(:first-child),
+.column2-2,
+.column2 {
+    margin-left: 10px
+}
+
+.second-row,
+.third-row,
+.second-row1,
+.column2-2 :nth-child(2) {
+    margin-top: 10px
+}
+
+.column2-2 :nth-child(2) {
+    margin-top: 5px
+}
+
+.column1 {
+    width: 40%;
+    height: auto
+}
+
+.column2 {
+    width: 60%;
+    height: auto
+}
+
+.column2-1 {
+    width: auto;
+    height: auto
+}
+
+.column2-2 {
+    width: auto;
+    height: auto
+}
+
+.ceo-box,
+.ceo-box2 {
+    position: relative;
+    height: 100%;
+    width: 100%
+}
+
+.ceo-box1 {
+    position: relative;
+    height: 50%;
+    width: 100%
+}
+
+.ceo-info {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -11px;
+    right: 0;
+    background: #646FD4;
+    color: #000;
+    border-radius: 10px;
+    opacity: 0;
+    transition: opacity .2s ease-in-out, visibility .2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.ceo-info1 {
+    position: absolute;
+    top: -5px;
+    bottom: 6px;
+    left: 0;
+    right: 0;
+    background: #646FD4;
+    color: #000;
+    border-radius: 10px;
+    opacity: 0;
+    transition: opacity .2s ease-in-out, visibility .2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.ceo-info2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #646FD4;
+    color: #000;
+    border-radius: 10px;
+    opacity: 0;
+    transition: opacity .2s ease-in-out, visibility .2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.ceo-box2:hover .ceo-info2,
+.ceo-box1:hover .ceo-info1,
+.ceo-box:hover .ceo-info {
+    visibility: visible;
+    opacity: .9
+}
+
+.ceo-section .ceo-name {
+    font-weight: 700;
+    margin-left: 8px
+}
+
+.ceo-section .ceo-pos {
+    margin-top: 5px
+}
+
+.ceo-section .heading-content h2,
+.get-in-touch-section .heading-content h2 {
+    font-size: 45px
+}
+
+.tal-perBox {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.tal-perBox .photo {
+    margin-bottom: 40px;
+    min-height: 255px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+
+.tal-perBox .photo img {
+    max-height: 255px;
+    max-width: 320px
+}
+
+.tal-perBox .name {
+    position: relative;
+    font-weight: 700;
+    margin-bottom: 25px
+}
+
+.tal-perBox .name:after {
+    height: 2px;
+    width: 50px;
+    background: #646FD4;
+    content: "";
+    display: block;
+    margin: 15px auto auto
+}
+
+.tal-perBox .position {
+    font-weight: 500;
+    margin-bottom: 25px;
+    line-height: 1.5
+}
+
+.tal-perBox .company-logo img {
+    max-width: 120px;
+    max-height: 45px
+}
+
+.ylw-Strip.gray {
+    background: #f1f1f1
+}
+
+@media(max-width:1650px) {
+
+    .ceo-section .heading-content h2,
+    .get-in-touch-section .heading-content h2 {
+        font-size: 30px
+    }
+
+    .get-in-touch-section,
+    .ceo-section {
+        padding: 100px 0
+    }
+
+    .ceo-section .section-title {
+        font-size: 30px
+    }
+
+    .black_banner_sec h1 {
+        font-size: 35px
+    }
+
+    .ceo-section .ceo-info1 {
+        border-radius: 4px
+    }
+
+    .ceo-section .ceo-info {
+        border-radius: 7px
+    }
+
+    .get-in-touch-section .section-title {
+        font-size: 32px
+    }
+
+    .ceo-name,
+    .ceo-pos {
+        margin-bottom: 2px
+    }
+
+    .ceo-pos {
+        font-size: 12px
+    }
+
+    .ceo-section .ceo-info1 {
+        bottom: 4px
+    }
+
+    .tal-perBox {
+        margin-bottom: 40px
+    }
+
+    .tal-perBox .photo {
+        margin-bottom: 30px;
+        min-height: 200px
+    }
+
+    .tal-perBox .photo img {
+        max-height: 200px;
+        max-width: 270px
+    }
+
+    .tal-perBox .company-logo img {
+        max-width: 100px;
+        max-height: 28px
+    }
+
+    .tal-perBox .name {
+        margin-bottom: 15px
+    }
+
+    .tal-perBox .name:after {
+        margin: 10px auto auto
+    }
+
+    .tal-perBox .position {
+        margin-bottom: 15px;
+        font-size: 15px
+    }
+}
+
+@media(max-width:1280px) {
+
+    .get-in-touch-section,
+    .ceo-section {
+        padding: 80px 0
+    }
+
+    .facts-glance img {
+        max-height: 35px;
+        max-width: 120px
+    }
+
+    figure {
+        min-height: 35px
+    }
+
+    .facts-glance .img-desc>p {
+        font-size: 15px
+    }
+
+    .ceo-section .heading-content h2,
+    .get-in-touch-section .heading-content h2 {
+        font-size: 25px
+    }
+}
+
+@media(max-width:1650px) and (min-width:1200px) {
+    .why-india .commonBanner .banner-caption h1 {
+        font-size: 45px
+    }
+
+    .why-india .commonBanner .banner-caption .desc p {
+        font-size: 20px
+    }
+}
+
+@media(max-width:991px) {
+    .glances {
+        text-align: center
+    }
+
+    .black_banner_sec h1 {
+        font-size: 30px
+    }
+
+    .get-in-touch-section,
+    .ceo-section {
+        padding: 60px 5px
+    }
+
+    .ceo-section .container {
+        display: block;
+        padding: 100px
+    }
+
+    .ceo-pos {
+        font-size: 16px
+    }
+
+    .column1 {
+        width: 100%;
+        text-align: center
+    }
+
+    .column2 {
+        margin-top: 10px;
+        width: 100%;
+        text-align: center
+    }
+
+    .column2 .first-row1 {
+        display: block;
+        width: 100%;
+        height: 100%
+    }
+
+    .column2 .first-row1 img {
+        height: auto;
+        width: auto
+    }
+
+    .first-row,
+    .second-row,
+    .third-row {
+        display: inline-flex
+    }
+
+    .column2 .first-row1 .ceo-box,
+    .column2 {
+        margin-left: 0
+    }
+
+    .column2 .first-row1 .ceo-info {
+        max-width: 448px;
+        margin: auto
+    }
+
+    .column2 .first-row1 .ceo-box>img {
+        width: 448px
+    }
+
+    .column2 .first-row1 :last-child {
+        margin-top: 10px
+    }
+
+    .column2 .first-row1 .ceo-mob1,
+    .column2 .first-row1 .ceo-mob2 {
+        position: absolute;
+        top: -10px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: #646FD4;
+        color: #000;
+        border-radius: 10px;
+        opacity: 0;
+        transition: opacity .2s ease-in-out, visibility .2s ease-in-out;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center
+    }
+
+    .ceo-box:hover .ceo-mob1,
+    .ceo-box:hover .ceo-mob2 {
+        visibility: visible;
+        opacity: .9
+    }
+
+    .column2 .second-row1 {
+        display: block;
+        width: 100%;
+        height: 100%
+    }
+
+    .column2 .second-row1 .ceo-info2 {
+        max-width: 448px;
+        margin: auto
+    }
+
+    .column2 .second-row1 .column2-2 {
+        display: inline-flex;
+        align-items: baseline;
+        margin-top: 5px;
+        margin-left: 0
+    }
+
+    .column2-2 :nth-child(2) {
+        margin-left: 10px
+    }
+
+    .ceo-info1 {
+        top: -6px;
+        bottom: 0;
+        left: -10px;
+        right: 0
+    }
+
+    .ceo-section .ceo-info1,
+    .ceo-section .ceo-info {
+        border-radius: 10px
+    }
+
+    .ceo-section .ceo-info1 {
+        bottom: 0
+    }
+
+    .ceo-pos {
+        font-size: 13px
+    }
+
+    .ceo-pos br {
+        display: block
+    }
+
+    .tal-perBox .photo {
+        min-height: 160px
+    }
+
+    .tal-perBox .photo img {
+        max-height: 160px;
+        max-width: 220px
+    }
+
+    .tal-perBox .name {
+        font-size: 15px
+    }
+
+    .tal-perBox .position {
+        font-size: 12px
+    }
+
+    .tal-perBox .company-logo img {
+        max-width: 80px;
+        max-height: 25px
+    }
+}
+
+@media(max-width:767px) {
+    .book-btn {
+        margin-top: 35px
+    }
+
+    .ceo-section .heading-content h2,
+    .get-in-touch-section .heading-content h2 {
+        font-size: 20px
+    }
+
+    .black_banner_sec h1 {
+        font-size: 18px;
+        margin-bottom: 10px
+    }
+
+    .get-in-touch-section,
+    .ceo-section {
+        padding: 50px 0
+    }
+
+    .glances {
+        text-align: center
+    }
+
+    .glances img {
+        text-align: center;
+        max-height: 28px;
+        max-width: 100px
+    }
+
+    .img-desc {
+        margin-top: 0
+    }
+
+    .facts-glance .img-desc p {
+        font-size: 13px
+    }
+
+    .get-in-touch-section .section-title {
+        font-size: 25px
+    }
+
+    .ceo-section .heading-content h2 {
+        padding: 0 10px
+    }
+
+    .ceo-pos br {
+        display: block
+    }
+
+    .why-india .black_banner_sec {
+        min-height: 300px
+    }
+
+    .tal-perBox {
+        margin-bottom: 25px
+    }
+
+    .tal-perBox .photo {
+        min-height: 100px;
+        margin-bottom: 15px
+    }
+
+    .tal-perBox .photo img {
+        max-height: 100px;
+        max-width: 140px
+    }
+
+    .tal-perBox .name {
+        font-size: 13px;
+        margin-bottom: 10px
+    }
+
+    .tal-perBox .name:after {
+        width: 30px
+    }
+
+    .tal-perBox .position {
+        font-size: 10px
+    }
+}
+
+@media(max-width:575px) {
+
+    .ceo-mob1,
+    .ceo-section .ceo-info1,
+    .ceo-info2 {
+        border-radius: 5px
+    }
+
+    .ceo-section {
+        padding: 50px 12px
+    }
+
+    .ceo-section .ceo-info {
+        border-radius: 7px
+    }
+
+    .why-india .msb.commonBanner .item {
+        min-height: 250px;
+        background-position: 55% center !important
+    }
+}

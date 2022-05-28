@@ -1,0 +1,1367 @@
+@media (min-width:767px) {
+    .pricing-pg .moduleOne .container {
+        max-width: 1705px
+    }
+}
+
+@media (min-width:767px) and (max-width:1300px) {
+    .pricing-pg .moduleOne {
+        padding-top: 55px
+    }
+}
+
+@media (min-width:767px) and (max-width:1200px) {
+    .pricing-pg .moduleOne .left-content {
+        padding-left: 50px
+    }
+}
+
+@media (min-width:767px) and (max-width:991px) {
+    .pricing-pg .moduleOne .left-content {
+        padding-left: 30px
+    }
+
+    .pricing-pg .moduleOne .left-content h1 {
+        margin-bottom: 30px;
+        letter-spacing: 0
+    }
+}
+
+@media (max-width:767px) {
+    .pricing-pg .moduleOne {
+        padding-bottom: 60px
+    }
+}
+
+.pricing-pg .container {
+    max-width: 1170px
+}
+
+.service-accordien {
+    padding: 100px 0
+}
+
+.service-accordien .quote-title {
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 500
+}
+
+.service-accordien .top-title {
+    margin-bottom: 50px
+}
+
+.all-accordien .single-service {
+    padding: 30px 0 27px 30px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    transition: .5s all
+}
+
+.all-accordien .single-service:hover {
+    box-shadow: 0 0 20px rgb(255 218 49/20%);
+    border-color: #ffda31
+}
+
+.all-accordien .single-service .acco-heading {
+    display: inline-block;
+    width: 100%;
+    padding-right: 80px;
+    position: relative
+}
+
+.all-accordien .single-service .acco-heading h3 {
+    font-size: 22px
+}
+
+.all-accordien .single-service .acco-heading .sub-services {
+    font-size: 18px;
+    margin: 11px -8px 0
+}
+
+.all-accordien .single-service .acco-heading .sub-services .single-sub-service {
+    padding: 0 8px;
+    border-right: 1px solid #000;
+    float: left;
+    margin-bottom: 7px
+}
+
+.all-accordien .single-service .acco-heading .sub-services .single-sub-service:last-child {
+    border-right: none
+}
+
+.all-accordien .single-service .acco-heading .download-btn {
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+.all-accordien .single-service .acco-heading .download-btn .downloadSubmitBtn {
+    background: url(../../../themes/uplers/assets/images/pricing/toggle-arrow.svg) no-repeat;
+    width: 45px;
+    height: 45px;
+    background-size: 13px;
+    display: block;
+    -webkit-transition: .5s all;
+    transition: .5s all;
+    border: 0;
+    background-position: center center;
+    background-color: #d5d5d5;
+    border-radius: 100%;
+    opacity: .5
+}
+
+.all-accordien .single-service .acco-heading .download-btn .downloadSubmitBtn:hover {
+    opacity: 1
+}
+
+.all-accordien .single-service .acco-heading .download-btn:hover:after {
+    background: #646FD4
+}
+
+.all-accordien .single-service .acco-content {
+    padding: 53px 150px 0 0
+}
+
+.all-accordien .single-service .acco-content .form-group {
+    margin-bottom: 0
+}
+
+.all-accordien .single-service .acco-content .form-group input {
+    padding: 20px 0 10px
+}
+
+.all-accordien .single-service .acco-content input[type=submit] {
+    padding: 0 25px;
+    min-height: 50px;
+    line-height: 50px
+}
+
+.all-accordien .single-service.active .acco-heading:before {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg)
+}
+
+@media (max-width:1650px) {
+    .service-accordien .quote-title {
+        font-size: 20px;
+        line-height: 1.5
+    }
+
+    .service-accordien .top-title {
+        margin-bottom: 80px
+    }
+
+    .all-accordien .single-service .acco-heading h3 {
+        font-size: 22px
+    }
+
+    .all-accordien .single-service .acco-heading .sub-services {
+        font-size: 18px
+    }
+
+    .all-accordien .single-service .acco-heading:before {
+        width: 23px;
+        height: 26px
+    }
+
+    .all-accordien .single-service .acco-heading:after {
+        width: 23px;
+        top: 45px;
+        right: 50px
+    }
+}
+
+@media (max-width:1280px) {
+    .service-accordien {
+        padding: 80px 15px 65px
+    }
+
+    .service-accordien .top-title {
+        margin-bottom: 60px
+    }
+
+    .all-accordien .single-service {
+        padding: 30px 0 30px 35px
+    }
+
+    .all-accordien .single-service .acco-heading {
+        padding-right: 100px
+    }
+
+    .all-accordien .single-service .acco-heading .sub-services {
+        font-size: 17px
+    }
+
+    .all-accordien .single-service .acco-content {
+        padding: 40px 100px 0 0
+    }
+
+    .all-accordien .single-service .acco-content .submit-btn input[type=submit] {
+        font-size: 16px
+    }
+}
+
+@media (max-width:991px) {
+    .service-accordien {
+        padding: 60px 0
+    }
+
+    .all-accordien .single-service .acco-heading {
+        padding-right: 60px
+    }
+
+    .all-accordien .single-service .acco-heading:before {
+        right: 20px
+    }
+
+    .all-accordien .single-service .acco-heading:after {
+        right: 20px
+    }
+
+    .all-accordien .single-service .acco-heading .sub-services .single-sub-service {
+        margin-bottom: 5px
+    }
+
+    .all-accordien .single-service .acco-heading .download-btn {
+        right: 20px
+    }
+
+    .all-accordien .single-service .acco-content {
+        padding: 25px 60px 0 0
+    }
+
+    .all-accordien .single-service .acco-content .form-group {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-bottom: 20px
+    }
+
+    .all-accordien .single-service .acco-content .submit-btn {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+
+    .all-accordien .single-service .acco-content .submit-btn input[type=submit] {
+        width: auto
+    }
+}
+
+@media (max-width:767px) {
+    .service-accordien .quote-title {
+        font-size: 21px
+    }
+
+    .all-accordien .single-service {
+        padding: 20px 0
+    }
+
+    .all-accordien .single-service .acco-heading {
+        padding-right: 50px
+    }
+
+    .all-accordien .single-service .acco-heading:before {
+        width: 18px;
+        height: 20px;
+        top: 12px;
+        right: 5px
+    }
+
+    .all-accordien .single-service .acco-heading:after {
+        width: 18px;
+        top: 36px;
+        height: 3px;
+        right: 5px
+    }
+
+    .all-accordien .single-service .acco-heading .download-btn {
+        right: 0
+    }
+
+    .all-accordien .single-service .acco-content {
+        padding: 20px 0 0
+    }
+
+    .all-accordien .single-service .acco-content .form-group {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+}
+
+@media (max-width:360px) {
+    .all-accordien .single-service .acco-heading .sub-services .single-sub-service {
+        font-size: 13px
+    }
+}
+
+.TwoBlocks-section {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-bottom: 100px
+}
+
+.TwoBlocks-section .single-block {
+    width: 50%;
+    background: #303030;
+    color: #fff;
+    padding: 108px 145px 97px 50px
+}
+
+.TwoBlocks-section .single-block .inner-single-block {
+    max-width: 565px;
+    margin-left: auto
+}
+
+.TwoBlocks-section .single-block .block-title {
+    letter-spacing: -.6px;
+    margin-bottom: 16px
+}
+
+.TwoBlocks-section .single-block .block-tag {
+    font-size: 20px;
+    line-height: 25px
+}
+
+.TwoBlocks-section .single-block .block-btn {
+    margin-top: 60px
+}
+
+.TwoBlocks-section .single-block .block-btn .cta-button {
+    min-height: 50px;
+    line-height: 50px;
+    padding: 0 30px
+}
+
+.TwoBlocks-section .single-block.yellow-bg {
+    background: #646FD4;
+    color: #000
+}
+
+@media (min-width:1500px) {
+    .TwoBlocks-section .single-block.yellow-bg {
+        padding-left: 154px;
+        padding-right: 50px
+    }
+}
+
+.TwoBlocks-section .single-block.yellow-bg .inner-single-block {
+    margin-left: 0
+}
+
+.TwoBlocks-section .single-block.yellow-bg .block-btn .cta-button {
+    background-color: #fff
+}
+
+.TwoBlocks-section .single-block.yellow-bg .block-btn .cta-button:hover {
+    background-color: #000
+}
+
+@media (max-width:1500px) {
+    .TwoBlocks-section .single-block {
+        padding: 100px 50px
+    }
+}
+
+@media (max-width:1300px) {
+    .TwoBlocks-section .single-block {
+        padding: 80px 50px
+    }
+
+    .TwoBlocks-section .single-block .block-title {
+        font-size: 35px
+    }
+
+    .TwoBlocks-section .single-block .block-tag {
+        font-size: 18px
+    }
+}
+
+@media (max-width:1200px) {
+    .TwoBlocks-section .single-block {
+        padding: 50px
+    }
+
+    .TwoBlocks-section .single-block .block-title {
+        font-size: 30px
+    }
+
+    .TwoBlocks-section .single-block .block-tag {
+        font-size: 16px;
+        line-height: 24px
+    }
+}
+
+@media (max-width:991px) {
+    .TwoBlocks-section {
+        padding-bottom: 0
+    }
+
+    .TwoBlocks-section .single-block {
+        padding: 50px 30px
+    }
+
+    .TwoBlocks-section .single-block .block-title {
+        font-size: 25px
+    }
+
+    .TwoBlocks-section .single-block .block-btn {
+        margin-top: 25px
+    }
+
+    .TwoBlocks-section .single-block .block-btn .cta-button {
+        font-size: 16px
+    }
+}
+
+@media (max-width:767px) {
+    .TwoBlocks-section {
+        display: block
+    }
+
+    .TwoBlocks-section .single-block {
+        width: 100%
+    }
+
+    .TwoBlocks-section .single-block .block-title {
+        font-size: 22px;
+        margin-bottom: 10px
+    }
+
+    .TwoBlocks-section .single-block .block-tag {
+        font-size: 15px
+    }
+
+    .TwoBlocks-section .single-block .block-btn {
+        margin-top: 20px
+    }
+}
+
+.FAQ-section {
+    padding: 94px 0;
+    display: none
+}
+
+.FAQ-section h2.title {
+    margin-bottom: 100px
+}
+
+.FAQ-section .container {
+    max-width: 975px
+}
+
+.FAQ-section .faq-acco .single-faq {
+    padding: 36px 0 37px;
+    border-bottom: 1px solid #000
+}
+
+.FAQ-section .faq-acco .single-faq .acco-heading {
+    padding-left: 50px;
+    position: relative;
+    cursor: pointer
+}
+
+.FAQ-section .faq-acco .single-faq .acco-heading h4 {
+    font-size: 20px
+}
+
+.FAQ-section .faq-acco .single-faq .acco-heading:before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 2px;
+    height: 18px;
+    background: #646FD4;
+    -webkit-transition: all .5s;
+    transition: all .5s
+}
+
+.FAQ-section .faq-acco .single-faq .acco-heading:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 18px;
+    height: 2px;
+    background: #646FD4
+}
+
+.FAQ-section .faq-acco .single-faq .acco-content {
+    padding: 30px 0 0 93px
+}
+
+.FAQ-section .faq-acco .single-faq .acco-content p:last-child {
+    margin-bottom: 0
+}
+
+.FAQ-section .faq-acco .single-faq.active .acco-heading:before {
+    -webkit-transform: translateY(-50%) rotate(90deg);
+    transform: translateY(-50%) rotate(90deg)
+}
+
+@media (max-width:1500px) {
+    .FAQ-section {
+        padding: 60px 0
+    }
+
+    .FAQ-section h2.title {
+        margin-bottom: 70px
+    }
+}
+
+@media (max-width:1200px) {
+    .FAQ-section .faq-acco .single-faq .acco-content {
+        padding: 30px 0 0 80px
+    }
+}
+
+@media (max-width:767px) {
+    .FAQ-section .faq-acco .single-faq {
+        padding: 30px 0
+    }
+
+    .FAQ-section .faq-acco .single-faq .acco-heading {
+        padding-left: 40px
+    }
+
+    .FAQ-section .faq-acco .single-faq .acco-content {
+        padding: 20px 0 0 40px
+    }
+}
+
+@media (max-width:991px) {
+    .popup-main .newsletter-form .submit-btn {
+        margin-top: 0
+    }
+}
+
+@media (max-width:767px) {
+    .popup-main .newsletter-form .submit-btn {
+        margin-top: 15px
+    }
+}
+
+.newsletter-form .container {
+    max-width: 1200px
+}
+
+.yl-boxtitle {
+    display: inline-block;
+    font-size: 10px;
+    color: #000;
+    background: #646FD4;
+    font-weight: 600;
+    padding: 5px 10px;
+    border-radius: 20px;
+    vertical-align: middle;
+    margin: 0 0 3px 10px
+}
+
+.yl-boxtitle:hover {
+    background: #000;
+    color: #fff
+}
+
+.fir-covid {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    background: #000;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 30px
+}
+
+.fir-covid .yl {
+    color: #646FD4;
+    font-weight: 600
+}
+
+@media(max-width:767px) {
+    .yl-boxtitle {
+        font-size: 9px;
+        padding: 3px 8px
+    }
+
+    .fir-covid {
+        font-size: 14px
+    }
+}
+
+@media(max-width:480px) {
+    .yl-boxtitle {
+        margin: 10px 0 0
+    }
+}
+
+.popup-main .sub-title,
+.popup-main1 .sub-title {
+    margin-bottom: 40px
+}
+
+.newsletter-form .submit-btn {
+    margin-top: 20px
+}
+
+.newsletter-form .submit-btn input[type=submit] {
+    max-width: 180px;
+    padding: 0 25px
+}
+
+.mail-info {
+    margin-top: 15px;
+    font-weight: 500;
+    line-height: 1.5
+}
+
+.mail-info a {
+    color: #000;
+    font-weight: 700
+}
+
+.mail-info a:hover {
+    text-decoration: underline
+}
+
+.all-accordien .accoContain {
+    border: 0
+}
+
+.all-accordien .detailTab ul {
+    display: flex;
+    background: #f4f4f4;
+    max-width: 550px;
+    margin: auto auto 60px;
+    padding: 5px;
+    border-radius: 30px
+}
+
+.all-accordien .detailTab ul li {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0;
+    text-align: center;
+    border: 0;
+    font-size: 18px
+}
+
+.all-accordien .detailTab ul li a {
+    color: #000;
+    padding: 12px 25px;
+    display: block;
+    border-radius: 30px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.2
+}
+
+.all-accordien .detailTab ul li a:hover {
+    color: #999
+}
+
+.all-accordien .detailTab ul li.current a {
+    background: #646FD4;
+    color: #000;
+    font-weight: 700
+}
+
+@media(max-width:1650px) {
+    .pricing-pg .container {
+        max-width: 1100px
+    }
+
+    .moduleOne .left-content {
+        padding-left: 15px;
+        padding-top: 114px
+    }
+
+    .pricing-pg .moduleOne {
+        padding-top: 30px;
+        padding-bottom: 50px
+    }
+
+    .service-accordien .quote-title {
+        font-size: 18px
+    }
+
+    .service-accordien .top-title {
+        margin-bottom: 50px
+    }
+
+    .all-accordien .single-service {
+        padding: 20px 0 15px 20px;
+        border-radius: 15px
+    }
+
+    .all-accordien .single-service .acco-heading h3 {
+        font-size: 18px
+    }
+
+    .all-accordien .single-service .acco-heading .sub-services {
+        font-size: 14px
+    }
+
+    .all-accordien .single-service .acco-heading .download-btn .downloadSubmitBtn {
+        height: 35px;
+        width: 35px;
+        background-size: 11px
+    }
+
+    .all-accordien .detailTab ul li {
+        font-size: 16px
+    }
+
+    .all-accordien .detailTab ul li a {
+        padding: 10px 15px
+    }
+
+    .TwoBlocks-section {
+        padding-bottom: 40px
+    }
+
+    .TwoBlocks-section .single-block {
+        padding-top: 80px;
+        padding-bottom: 80px
+    }
+
+    .TwoBlocks-section .single-block .block-title {
+        font-size: 32px
+    }
+
+    .TwoBlocks-section .single-block .block-tag {
+        font-size: 16px
+    }
+
+    .TwoBlocks-section .single-block .block-btn {
+        margin-top: 30px
+    }
+
+    .TwoBlocks-section .single-block .block-btn .cta-button {
+        font-size: 16px
+    }
+
+    .rate-card-main {
+        padding-top: 40px
+    }
+
+    .rate-card-main .inner-common-form {
+        padding-bottom: 30px !Important
+    }
+}
+
+@media(max-width:991px) {
+    .book-meeting .query-msg {
+        margin-bottom: 40px
+    }
+
+    .book-meeting .rate-card-main .inner-common-form {
+        padding-bottom: 10px
+    }
+
+    .service-accordien .quote-title {
+        font-size: 16px
+    }
+
+    .all-accordien .single-service .acco-heading h3 {
+        font-size: 16px
+    }
+
+    .all-accordien .single-service .acco-heading .sub-services {
+        font-size: 12px
+    }
+
+    .all-accordien .single-service .acco-heading .download-btn .downloadSubmitBtn {
+        height: 25px;
+        width: 25px;
+        background-size: 8px
+    }
+
+    .all-accordien .detailTab ul li {
+        font-size: 15px
+    }
+
+    .all-accordien .single-service {
+        margin-bottom: 15px
+    }
+}
+
+@media(max-width:767px) {
+    .pricing-pg .moduleOne {
+        padding: 20px 0 10px
+    }
+
+    .pricing-pg .moduleOne .left-content {
+        padding: 0 15px 30px 20px
+    }
+
+    .pricing-pg .moduleOne .left-content h1 {
+        font-size: 25px;
+        margin-bottom: 15px
+    }
+
+    .pricing-pg .moduleOne .left-content h3 {
+        font-size: 16px;
+        line-height: 1.5;
+        font-weight: 400
+    }
+
+    .service-accordien .top-title {
+        margin-bottom: 40px
+    }
+
+    .service-accordien .quote-title {
+        font-size: 15px;
+        line-height: 1.4
+    }
+
+    .all-accordien .single-service .acco-heading .download-btn {
+        height: 23px
+    }
+
+    .all-accordien .single-service .acco-heading .sub-services {
+        font-size: 12px;
+        line-height: 1.2
+    }
+
+    .service-accordien {
+        padding: 50px 0 40px
+    }
+
+    .book-meeting .query-msg {
+        margin-bottom: 20px
+    }
+
+    .book-meeting {
+        padding-bottom: 50px;
+        padding-top: 50px !important
+    }
+
+    .book-meeting .rate-card-main .inner-common-form {
+        padding: 0
+    }
+
+    .all-accordien .detailTab ul {
+        margin: auto auto 40px
+    }
+}
+
+.pricing .wrapper {
+    padding: 0
+}
+
+.pricing-banner {
+    min-height: 800px;
+    display: flex;
+    align-items: center;
+    background-size: cover !important;
+    background-position: right center !important
+}
+
+.pricing-banner .descBox {
+    margin-top: 50px
+}
+
+.pricing-banner .descBox h1 {
+    font-size: 45px;
+    margin-bottom: 15px
+}
+
+.pricing-banner .descBox p {
+    font-size: 30px
+}
+
+.all-accordien .section-title {
+    margin-bottom: 40px
+}
+
+@media(max-width:1650px) {
+    .pricing-banner {
+        min-height: 450px
+    }
+
+    .pricing-banner .container {
+        max-width: 1170px
+    }
+
+    .pricing-banner .descBox h1 {
+        font-size: 30px
+    }
+
+    .pricing-banner .descBox p {
+        font-size: 18px
+    }
+}
+
+@media(max-width:1200px) {
+    .pricing-banner {
+        padding: 0 15px;
+        min-height: 400px
+    }
+
+    .pricing-banner .descBox h1 {
+        font-size: 25px
+    }
+
+    .pricing-banner .descBox p {
+        font-size: 16px
+    }
+}
+
+@media(max-width:991px) {
+    .pricing-banner {
+        background-position: 90% center !important;
+        min-height: 350px
+    }
+
+    .pricing-banner .descBox {
+        margin-top: 80px;
+        max-width: 500px
+    }
+
+    .pricing-banner .descBox .cta-button {
+        font-size: 16px;
+        line-height: 48px;
+        min-height: 48px;
+        padding: 0 25px
+    }
+
+    .pricing-banner .descBox h1 {
+        font-size: 25px;
+        margin-bottom: 10px
+    }
+
+    .pricing-banner .descBox p {
+        font-size: 16px;
+        margin-bottom: 15px
+    }
+}
+
+@media(max-width:767px) {
+    .pricing-banner {
+        min-height: 280px;
+        background-position: 70% center !important;
+        padding: 0
+    }
+
+    .pricing-banner .descBox h1 {
+        font-size: 17px
+    }
+
+    .pricing-banner .descBox p {
+        font-size: 13px
+    }
+
+    .service-accordien .mainTabing .resp-accordion {
+        display: none
+    }
+
+    .service-accordien .mainTabing .detailTab {
+        display: block
+    }
+
+    .all-accordien .single-service {
+        padding: 15px;
+        border-radius: 10px
+    }
+
+    .all-accordien .single-service .acco-heading h3 {
+        font-size: 15px
+    }
+}
+
+@media(max-width:575px) {
+    .pricing-banner .descBox {
+        max-width: 220px
+    }
+}
+
+.input02 {
+    position: relative
+}
+
+.input02 label {
+    position: absolute;
+    top: -6px;
+    left: 15px;
+    background: #fff;
+    color: #8d8c8c;
+    padding: 0 5px;
+    z-index: 1
+}
+
+.input02 input {
+    border: solid 1px #bfbfbf;
+    box-shadow: none;
+    min-height: 55px;
+    border-radius: 15px;
+    padding: 0 20px;
+    box-shadow: 10px 10px 20px rgb(0 0 0/5%)
+}
+
+.input02 input:focus {
+    border-color: #646FD4
+}
+
+.step-ratecard {
+    background: #fff
+}
+
+.step-ratecard .popup-content {
+    text-align: left
+}
+
+.step-ratecard .newsletter-form .section-title {
+    margin-bottom: 30px
+}
+
+.step-ratecard .newsletter-form .sub-title {
+    margin-bottom: 50px;
+    line-height: 1.5
+}
+
+.step-ratecard .newsletter-form .submit-btn {
+    margin-top: 35px
+}
+
+.step-ratecard .newsletter-form .submit-btn input[type=submit] {
+    max-width: 160px;
+    border-radius: 10px
+}
+
+.welcome-box h5 {
+    font-size: 25px;
+    margin-bottom: 15px
+}
+
+.welcome-box p {
+    font-size: 20px;
+    margin-bottom: 40px;
+    font-weight: 500
+}
+
+.bold-form-lbl {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 15px;
+    line-height: 1.5
+}
+
+.queBox {
+    margin-bottom: 30px
+}
+
+.queBox .rev-select {
+    height: 55px
+}
+
+.queBox .select-styled {
+    border: solid 1px #bfbfbf;
+    min-height: 55px;
+    border-radius: 15px;
+    padding: 0 20px;
+    line-height: 54px;
+    background: #fff;
+    z-index: 1111;
+    position: relative;
+    box-shadow: 10px 10px 20px rgb(0 0 0/5%)
+}
+
+.queBox .select-options {
+    background: #f2f2f2;
+    border: solid 1px #bfbfbf;
+    padding: 5px 15px 20px;
+    z-index: 9999
+}
+
+.queBox .select-options li:first-child {
+    border: 0
+}
+
+.queBox .select-options li {
+    border-color: #bfbfbf
+}
+
+.queBox .select-styled:after {
+    top: 20px;
+    right: 20px
+}
+
+.queBox .select-styled.active:after {
+    border: 0;
+    border-left: solid 1px #000;
+    border-bottom: solid 1px #000;
+    transform: rotate(135deg);
+    top: 24px
+}
+
+.input03 .bold-form-lbl {
+    margin-bottom: 5px
+}
+
+.thankyou-blk {
+    background-size: cover !important;
+    background-position: center !important;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center
+}
+
+.thankyou-blk .img-blk {
+    text-align: center
+}
+
+.thankyou-blk .img-blk img {
+    max-width: 380px
+}
+
+.thankyou-blk .desc-blk h3 {
+    margin-bottom: 40px
+}
+
+.thankyou-blk .desc-blk p {
+    font-size: 18px
+}
+
+.thankyou-blk .desc-blk p strong {
+    text-decoration: underline;
+    text-decoration-color: #646FD4
+}
+
+.thankyou-blk .desc-blk p a {
+    color: #000
+}
+
+.thankyou-blk .desc-blk p a:hover {
+    opacity: .5
+}
+
+@media(max-width:1650px) {
+    .thankyou-blk .container {
+        max-width: 1000px
+    }
+
+    .thankyou-blk .img-blk img {
+        max-width: 300px
+    }
+
+    .thankyou-blk .desc-blk p {
+        font-size: 16px
+    }
+
+    .newsletter-form .container {
+        max-width: 900px
+    }
+
+    .step-ratecard .newsletter-form .section-title {
+        font-size: 22px;
+        margin-bottom: 15px
+    }
+
+    .step-ratecard .newsletter-form .sub-title {
+        font-size: 16px;
+        margin-bottom: 40px
+    }
+
+    .welcome-box h5 {
+        font-size: 20px;
+        margin-bottom: 10px
+    }
+
+    .welcome-box p {
+        font-size: 16px
+    }
+
+    .bold-form-lbl {
+        font-size: 15px;
+        margin-bottom: 12px
+    }
+
+    .queBox .rev-select {
+        height: 45px
+    }
+
+    .queBox .select-styled {
+        min-height: 45px;
+        border-radius: 10px;
+        line-height: 42px;
+        font-size: 15px;
+        box-shadow: 5px 5px 10px rgb(0 0 0/4%)
+    }
+
+    .queBox .select-styled:after {
+        top: 14px
+    }
+
+    .newsletter-form input,
+    .newsletter-form textarea {
+        font-size: 15px
+    }
+
+    .input02 label {
+        font-size: 15px
+    }
+
+    .input02 input {
+        min-height: 45px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgb(0 0 0/4%)
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        max-width: 120px;
+        border-radius: 10px;
+        min-height: 45px;
+        line-height: 45px
+    }
+}
+
+@media(max-width:991px) {
+    .thankyou-blk .desc-blk h3 {
+        margin-bottom: 20px
+    }
+
+    .thankyou-blk .desc-blk p {
+        font-size: 15px
+    }
+}
+
+@media(max-width:767px) {
+    .thankyou-blk .img-blk img {
+        max-width: 250px
+    }
+
+    .step-ratecard .newsletter-form .section-title {
+        font-size: 18px;
+        margin-bottom: 5px
+    }
+
+    .step-ratecard .newsletter-form .sub-title {
+        font-size: 15px;
+        margin-bottom: 30px
+    }
+
+    .input02 input {
+        min-height: 40px;
+        border-radius: 7px
+    }
+
+    .welcome-box h5 {
+        font-size: 16px;
+        margin-bottom: 5px;
+        margin-top: 20px
+    }
+
+    .welcome-box p {
+        font-size: 14px;
+        margin-bottom: 25px
+    }
+
+    .input02 label {
+        font-size: 13px;
+        left: 11px
+    }
+
+    .queBox {
+        margin-bottom: 20px
+    }
+
+    .bold-form-lbl {
+        font-size: 14px;
+        margin-bottom: 5px
+    }
+
+    .queBox .select-styled {
+        min-height: 40px;
+        border-radius: 7px;
+        line-height: 36px;
+        font-size: 13px;
+        padding: 0 15px
+    }
+
+    .newsletter-form input,
+    .newsletter-form textarea {
+        font-size: 13px;
+        padding: 0 15px
+    }
+
+    .newsletter-form textarea {
+        height: 40px;
+        padding: 11px 0
+    }
+
+    .queBox .select-styled:after {
+        top: 13px;
+        right: 15px;
+        height: 7px;
+        width: 7px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn {
+        margin-top: 5px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        font-size: 15px;
+        max-width: 120px;
+        border-radius: 7px;
+        min-height: 40px;
+        line-height: 40px
+    }
+
+    .queBox .select-styled.active:after {
+        top: 16px
+    }
+
+    .step-ratecard .newsletter-form .section-title {
+        font-size: 18px;
+        margin-bottom: 5px;
+        margin-top: 20px
+    }
+}
+
+@media(max-width:575px) {
+    .thankyou-blk .img-blk {
+        margin-bottom: 40px
+    }
+
+    .input02 {
+        margin-bottom: 10px
+    }
+}
+
+.form-loader {
+    position: absolute;
+    left: 180px
+}
+
+@media(max-width:1280px) {
+    .form-loader {
+        position: absolute;
+        left: 140px
+    }
+}
+
+@media(max-width:991px) {
+    .form-loader {
+        position: absolute;
+        left: 130px
+    }
+}

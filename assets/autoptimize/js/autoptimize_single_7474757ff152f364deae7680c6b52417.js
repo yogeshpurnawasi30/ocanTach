@@ -1,0 +1,1 @@
+var $=jQuery.noConflict();$(document).ready(function(){$('#benefitted-verticalTab').easyResponsiveTabs({type:'vertical',width:'auto',fit:true});});

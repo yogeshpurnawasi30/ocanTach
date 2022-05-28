@@ -1,0 +1,1252 @@
+.wrapper {
+    padding-top: 0
+}
+
+.section-title br {
+    display: block
+}
+
+.hire-laravel-developers .quick-easy-hire ul li figure {
+    background: #fff
+}
+
+.remote-pg .video_banner {
+    text-align: center
+}
+
+.remote-pg .video_banner p {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.remote-pg .video_banner ul {
+    margin-left: 28px;
+    display: flex;
+    justify-content: center;
+    margin: 0 -25px
+}
+
+.remote-pg .video_banner ul li {
+    color: #646FD4;
+    list-style-type: disc;
+    font-size: 30px;
+    line-height: .9;
+    padding: 0 25px;
+    border-right: solid 1px #fff;
+    list-style-type: none
+}
+
+.remote-pg .video_banner ul li:last-child {
+    border: 0
+}
+
+.remote-pg .video_banner ul li span {
+    color: #fff;
+    font-size: 16px;
+    vertical-align: middle;
+    font-weight: 600
+}
+
+.remote-pg .video_banner .banner-btn {
+    margin-top: 40px
+}
+
+.remote-pg .video_banner .banner-btn .cta-button:hover {
+    background: #fff;
+    color: #000
+}
+
+.remote-pg .rateBoxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 870px;
+    margin: auto;
+    margin-top: 40px
+}
+
+.remote-pg .rate-item {
+    padding: 0 100px;
+    text-align: left;
+    border-right: solid 1px #fff
+}
+
+.remote-pg .rate-item figure {
+    margin-bottom: 20px
+}
+
+.remote-pg .rate-item:last-child {
+    border: 0;
+    margin: 0
+}
+
+.remote-pg .rate-item p {
+    font-size: 16px;
+    margin: 0
+}
+
+@media(max-width:1650px) {
+    .remote-pg .video_banner .banner-btn .cta-button {
+        font-size: 15px;
+        min-height: 40px;
+        line-height: 40px
+    }
+
+    .remote-pg .video_banner ul li span {
+        font-size: 15px;
+        font-weight: 600
+    }
+}
+
+@media(max-width:991px) {
+    .remote-pg .rate-item {
+        padding: 0 50px
+    }
+
+    .remote-pg .rate-item p {
+        font-size: 14px
+    }
+}
+
+@media(max-width:767px) {
+    .video_banner {
+        padding: 100px 0 60px
+    }
+
+    .remote-pg .video_banner .yl-txt {
+        font-size: 18px
+    }
+}
+
+@media(max-width:575px) {
+    .remote-pg .video_banner .yl-txt {
+        display: block
+    }
+
+    .remote-pg .video_banner ul li span {
+        display: block;
+        line-height: 1.5
+    }
+
+    .remote-pg .rate-item {
+        padding: 0 0 25px;
+        border: 0;
+        border-bottom: solid 1px #fff;
+        margin-bottom: 25px
+    }
+
+    .remote-pg .rateBoxes {
+        flex-wrap: wrap
+    }
+
+    .remote-pg .video_banner .container .bannerForm {
+        margin-top: 20px
+    }
+
+    .remote-pg .rate-item:last-child {
+        padding: 0
+    }
+}
+
+.remote-pg .clientMain {
+    background: #f2f2f2;
+    padding: 50px 0
+}
+
+.remote-pg .clientMain h4 {
+    margin-bottom: 0;
+    font-weight: 400;
+    color: #999;
+    text-align: left;
+    font-size: 25px
+}
+
+.remote-pg .clientMain .slick-track .slick-slide img {
+    filter: grayscale(100%);
+    opacity: .5
+}
+
+@media(max-width:1650px) {
+    .remote-pg .clientMain h4 {
+        font-size: 20px
+    }
+
+    .remote-pg .clientMain {
+        padding: 30px 0
+    }
+}
+
+@media(max-width:991px) {
+    .remote-pg .clientMain h4 {
+        font-size: 13px
+    }
+
+    .clientMain .slick-track .slick-slide img {
+        max-width: 80px;
+        max-height: 30px
+    }
+}
+
+@media(max-width:575px) {
+    .remote-pg .clientMain h4 {
+        text-align: center;
+        font-size: 15px;
+        margin-bottom: 25px;
+        font-weight: 500
+    }
+}
+
+.quick-easy-hire .section-title {
+    margin-bottom: 20px
+}
+
+.quick-easy-hire .container ul li figure {
+    max-width: 146px
+}
+
+.quick-easy-hire .ligt-title,
+.seo-expert .ligt-title {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px
+}
+
+.remote-pg .quick-easy-hire .section-title span,
+.remote-pg .ylThree-Boxes .section-title span,
+.remote-pg .acc-FAQ-section .section-title span {
+    font-weight: 800
+}
+
+.quick-easy-hire .container .centerBtn a {
+    text-transform: none
+}
+
+@media(max-width:1650px) {
+
+    .quick-easy-hire .ligt-title,
+    .seo-expert .ligt-title {
+        font-size: 20px
+    }
+
+    .quick-easy-hire .container ul li figure {
+        max-width: 125px
+    }
+
+    .quick-easy-hire .container ul li figure img {
+        max-height: 100%;
+        max-width: inherit
+    }
+
+    .quick-easy-hire .container ul li:after {
+        top: 52px;
+        left: 97%
+    }
+}
+
+@media(max-width:991px) {
+    .quick-easy-hire .container ul li .lbl-btn {
+        min-height: 38px;
+        font-weight: 600;
+        margin-top: 20px;
+        font-size: 13px
+    }
+
+    .quick-easy-hire .container ul li figure {
+        max-width: 105px
+    }
+
+    .quick-easy-hire .container ul li:after {
+        top: 42px;
+        left: 97%
+    }
+}
+
+@media(max-width:767px) {
+    .quick-easy-hire {
+        margin-top: 0
+    }
+
+    .quick-easy-hire ul li {
+        margin-top: 20px
+    }
+
+    .quick-easy-hire .container ul li .lbl-btn {
+        min-height: 38px;
+        max-width: 195px;
+        margin: 20px auto 0px auto
+    }
+}
+
+@media(max-width:575px) {
+
+    .quick-easy-hire .ligt-title,
+    .seo-expert .ligt-title {
+        font-size: 14px;
+        margin-bottom: 10px
+    }
+}
+
+.hire-programmatic {
+    background: #fff;
+    padding: 150px 0
+}
+
+.hire-programmatic .container figure {
+    min-width: 23px
+}
+
+.hire-programmatic .container .boxes {
+    display: flex
+}
+
+.hire-programmatic .section-title {
+    font-size: 45px
+}
+
+.hire-programmatic .row {
+    margin-top: 60px
+}
+
+.hire-programmatic .hire-prog-desc h4 {
+    font-size: 18px;
+    font-weight: 600
+}
+
+.hire-programmatic .hire-prog-desc p {
+    margin-top: 15px
+}
+
+.hire-programmatic .hire-prog-desc {
+    padding-left: 22px
+}
+
+.hire-programmatic .centerBtn {
+    text-align: center;
+    margin-top: 30px
+}
+
+.hire-programmatic .centerBtn .cta-button {
+    background: #000;
+    color: #fff;
+    text-transform: inherit
+}
+
+.hire-programmatic .centerBtn .cta-button:hover {
+    background: #646FD4;
+    color: #000
+}
+
+@media(max-width:1650px) {
+    .hire-programmatic {
+        padding: 100px 0
+    }
+
+    .hire-programmatic .section-title {
+        font-size: 35px
+    }
+
+    .hire-programmatic .centerBtn .cta-button {
+        font-size: 15px;
+        min-height: 40px;
+        line-height: 40px
+    }
+}
+
+@media(max-width:1280px) {
+    .hire-programmatic {
+        padding: 80px 0
+    }
+
+    .hire-programmatic .section-title {
+        font-size: 25px
+    }
+
+    .remote-pg .hire-programmatic .container {
+        max-width: 920px
+    }
+}
+
+@media(max-width:991px) {
+    .hire-programmatic {
+        padding: 60px 0
+    }
+
+    .hire-programmatic .hire-prog-desc h4 {
+        font-size: 16px
+    }
+
+    .hire-programmatic .hire-prog-desc p {
+        font-size: 15px
+    }
+}
+
+@media(max-width:767px) {
+    .hire-programmatic {
+        padding: 50px 0
+    }
+
+    .hire-programmatic .section-title {
+        font-size: 22px
+    }
+}
+
+@media(max-width:575px) {
+    .hire-programmatic .row {
+        margin-top: 40px
+    }
+
+    .hire-programmatic .container figure {
+        min-width: 16px
+    }
+
+    .hire-programmatic .hire-prog-desc {
+        padding-left: 12px
+    }
+
+    .hire-programmatic .hire-prog-desc h4 {
+        font-size: 15px
+    }
+
+    .hire-programmatic .hire-prog-desc p {
+        margin-top: 8px
+    }
+}
+
+.stripCta .stripContent h5 {
+    font-size: 25px
+}
+
+.stripCta .container .stripContent>a {
+    text-transform: none
+}
+
+.stripCta .container .stripContent .cta-button.b-btn {
+    min-width: 300px
+}
+
+@media(max-width:1650px) {
+    .stripCta .container .stripContent h5 {
+        font-weight: 500;
+        font-size: 18px
+    }
+}
+
+@media(max-width:1280px) {
+    .remote-pg .stripCta .container {
+        max-width: 920px
+    }
+}
+
+@media(max-width:991px) {
+    .stripCta .container .stripContent h5 {
+        font-weight: 700;
+        font-size: 15px
+    }
+}
+
+.acc-list {
+    position: relative
+}
+
+.accc-box {
+    padding-left: 35px
+}
+
+.accc-box .num-title {
+    position: relative
+}
+
+.acc-line {
+    position: absolute;
+    min-width: 26px;
+    top: -4px;
+    left: -38px
+}
+
+.acc-list.dot-bordered .acc-line {
+    min-width: 15px;
+    top: -4px;
+    left: -38px;
+    height: 15px;
+    width: 15px;
+    top: 2px;
+    left: -32px;
+    background-color: #000;
+    border-radius: 50%
+}
+
+.accc-box .num-desc p span {
+    text-decoration: underline;
+    font-weight: 700
+}
+
+.post-registration-process .title-txt {
+    font-size: 18px;
+    font-weight: 700
+}
+
+.post-registration-process .numbered-list .acc-list:not(:last-child):before {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 100%;
+    top: 0;
+    left: 9px;
+    border-left: 2px solid #000;
+    margin-top: 2%
+}
+
+.post-registration-process .numbered-list .acc-list.dot-bordered:not(:last-child):before {
+    height: 110%;
+    top: -5px
+}
+
+.post-registration-process .numbered-list .acc-list.dot-bordered.explorat:not(:last-child):before {
+    height: 117%;
+    top: -5px
+}
+
+.post-registration-process .numbered-list .acc-list.numbered:not(:last-child):before {
+    border-left: none
+}
+
+.post-registration-process .numbered-list .acc-list.numbered .acc-line {
+    top: 0
+}
+
+.post-registration-process .bulleted-points,
+.acc-FAQ-section .bulleted-points {
+    margin-left: 20px;
+    margin-bottom: 25px
+}
+
+.post-registration-process .bulleted-points.in-line {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.post-registration-process .bulleted-points.in-line li {
+    margin-right: 100px
+}
+
+.post-registration-process .bulleted-points li,
+.acc-FAQ-section .bulleted-points li {
+    list-style-type: disc
+}
+
+.acc-FAQ-section .bulleted-points li {
+    line-height: 28px
+}
+
+ol.numbered-points {
+    counter-reset: item;
+    margin: 0 0 1.5em;
+    padding: 0
+}
+
+ol.numbered-points>li {
+    counter-increment: item;
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 0 2rem;
+    text-indent: -1.8rem
+}
+
+ol.numbered-points>li:before {
+    content: counter(item) ".";
+    display: inline-block;
+    font-weight: 700;
+    padding-right: .5rem;
+    text-align: right;
+    width: 1.5rem
+}
+
+ol.numbered-points>li>ul.bulleted-points li {
+    text-indent: 0 !important
+}
+
+@media(max-width:1650px) {
+    .acc-line {
+        min-width: 26px
+    }
+}
+
+@media(max-width:1280px) {
+    .remote-pg .post-registration-process .container {
+        max-width: 920px
+    }
+
+    .post-registration-process .numbered-list .acc-list:not(:last-child):before {
+        top: 6px
+    }
+
+    .post-registration-process .title-txt {
+        font-size: 16px;
+        font-weight: 700
+    }
+
+    .post-registration-process .num-desc ul {
+        margin-left: 14px
+    }
+}
+
+@media(max-width:991px) {
+    .post-registration-process .numbered-list .acc-list:not(:last-child):before {
+        top: 8px
+    }
+
+    .post-registration-process .numbered-list .acc-list.dot-bordered.explorat:not(:last-child):before {
+        height: 122%;
+        top: -5px
+    }
+}
+
+@media(max-width:767px) {
+    .post-registration-process .numbered-list .acc-list:not(:last-child):before {
+        top: 9px
+    }
+}
+
+@media(max-width:575px) {
+    .post-registration-process .numbered-list .acc-list:not(:last-child):before {
+        top: 17px
+    }
+
+    .post-registration-process .title-txt {
+        font-size: 15px;
+        font-weight: 700
+    }
+
+    .post-registration-process .numbered-list .acc-list.dot-bordered:not(:last-child):before {
+        height: 108%
+    }
+
+    .post-registration-process .numbered-list .acc-list.dot-bordered.explorat:not(:last-child):before {
+        height: 119%;
+        top: -4px
+    }
+}
+
+.seo-expert {
+    background: #f2f2f2
+}
+
+.seo-expert .expert-box {
+    display: flex
+}
+
+.seo-expert .expert-box figure {
+    min-width: 45px;
+    margin-right: 20px
+}
+
+.seo-expert .expert-box .expert-desc p {
+    margin-top: 15px
+}
+
+@media (max-width:1280px) {
+    .seo-expert .expert-box figure {
+        min-width: 42px;
+        margin-right: 15px
+    }
+
+    .seo-expert .expert-box figure.imgss {
+        min-width: 35px
+    }
+
+    .seo-expert .container>.row {
+        margin-top: 60px
+    }
+}
+
+@media(max-width:575px) {
+    .seo-expert .expert-box .expert-desc .expert-title {
+        font-size: 16px
+    }
+
+    .seo-expert .container>.row {
+        margin-top: 45px
+    }
+}
+
+.ylThree-Boxes .cont-boxWrap {
+    padding: 40px 105px
+}
+
+.ylThree-Boxes.tech-skills .container {
+    max-width: 1000px
+}
+
+.ylThree-Boxes .container .cont-boxWrap .skill-desc ul li {
+    list-style-type: disc;
+    margin-top: 10px;
+    line-height: 1.5;
+    margin-bottom: 20px
+}
+
+.ylThree-Boxes .container .cont-boxWrap .skill-desc ul li:first-child {
+    margin-top: 0
+}
+
+.ylThree-Boxes .container .cont-boxWrap a {
+    border: 1px solid #000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #000;
+    transition: background .5s ease-in-out;
+    font-size: 16px
+}
+
+.ylThree-Boxes .container .cont-boxWrap a:hover {
+    background: #000;
+    color: #fff
+}
+
+.ylThree-Boxes .cont-boxWrap .centerBtn {
+    margin-top: 40px
+}
+
+.ylThree-Boxes .container .cont-boxWrap {
+    padding: 40px 60px
+}
+
+.more-text {
+    display: none
+}
+
+@media(max-width:991px) {
+    .ylThree-Boxes .container .cont-boxWrap a {
+        font-size: 14px;
+        padding: 8px 15px
+    }
+
+    .ylThree-Boxes .container .cont-boxWrap .skill-desc ul li {
+        font-size: 15px;
+        margin-bottom: 10px
+    }
+}
+
+@media(max-width:767px) {
+    .ylThree-Boxes .container .cont-boxWrap {
+        padding: 40px 35px
+    }
+}
+
+@media(max-width:575px) {
+    .ylThree-Boxes .container .cont-boxWrap {
+        padding: 40px 30px
+    }
+}
+
+.input03 textarea {
+    border-bottom-color: #e8e9ed
+}
+
+.input03 textarea::placeholder {
+    color: #999
+}
+
+.popup-main1 .popup-content {
+    overflow: auto
+}
+
+.popup-main .close-popup:before,
+.popup-main .close-popup:after,
+.popup-main1 .close-popup:before,
+.popup-main1 .close-popup:after {
+    background: #000
+}
+
+.newsletter-form {
+    overflow-x: hidden
+}
+
+.newsletter-form .container {
+    max-width: 940px
+}
+
+.input02 {
+    position: relative
+}
+
+.input02 label {
+    position: absolute;
+    top: -6px;
+    left: 15px;
+    background: #fff;
+    color: #8d8c8c;
+    padding: 0 5px;
+    z-index: 1
+}
+
+.input02 input,
+.input02.rev-select .select-styled {
+    border: solid 1px #bfbfbf;
+    box-shadow: none;
+    min-height: 52px;
+    border-radius: 15px;
+    padding: 0 20px;
+    box-shadow: 10px 10px 20px rgb(0 0 0/5%);
+    font-weight: 500
+}
+
+.input02.rev-select .select-styled {
+    padding: 5px 20px
+}
+
+.input02 input:focus {
+    border-color: #646FD4
+}
+
+.step-ratecard,
+.hiring-needs {
+    background: #fff
+}
+
+.step-ratecard .popup-content,
+.hiring-needs .popup-content {
+    text-align: left
+}
+
+.step-ratecard .newsletter-form .section-title {
+    margin-bottom: 45px;
+    font-size: 29px;
+    font-weight: 700;
+    padding-bottom: 5px
+}
+
+.step-ratecard .newsletter-form .sub-title {
+    margin-bottom: 60px;
+    line-height: 1.5
+}
+
+.step-ratecard .newsletter-form .submit-btn {
+    margin-top: 35px
+}
+
+.step-ratecard .newsletter-form .submit-btn input[type=submit] {
+    max-width: 160px;
+    border-radius: 10px
+}
+
+.step-ratecard .optionList .optionBox span {
+    font-weight: 600
+}
+
+.welcome-box h5 {
+    font-size: 25px;
+    margin-bottom: 15px
+}
+
+.welcome-box p {
+    font-size: 20px;
+    margin-bottom: 40px;
+    font-weight: 500
+}
+
+.bold-form-lbl {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 15px;
+    line-height: 1.5
+}
+
+.row.step_2 .field-general .optionbox input[type=checkbox] {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer
+}
+
+.optionsWrap.multiselect .optionbox .lbl-txt {
+    padding: 8px 10px
+}
+
+.optionsWrap.multiselect .optionbox .lbl-txt:before {
+    content: "+";
+    font-weight: 400;
+    margin-right: 8px;
+    font-size: 21px;
+    line-height: 0;
+    position: relative;
+    top: 2px;
+    color: #c1c1c1;
+    display: inline-block;
+    width: 10px
+}
+
+.optionsWrap.multiselect .optionbox input:checked+.lbl-txt:before {
+    content: "";
+    border-bottom: solid 1px #000;
+    border-left: solid 1px #000;
+    height: 6px;
+    transform: rotate(-45deg);
+    top: -4px
+}
+
+.hire-reqs {
+    margin-top: 40px
+}
+
+.hiring-needs .newsletter-form .section-title {
+    margin-bottom: 70px
+}
+
+.optionsWrap.multiselect .optionbox input[type=checkbox]+.lbl-txt {
+    padding: 8px 10px;
+    transition: .5s all;
+    text-align: center;
+    font-size: 12px;
+    color: #8d8c8c;
+    background: #e8e9ed;
+    border-radius: 5px;
+    border: solid 2px transparent;
+    min-width: 55px;
+    display: block;
+    cursor: pointer;
+    margin: 3px
+}
+
+.optionsWrap.multiselect .optionbox input[type=checkbox]:checked+.lbl-txt {
+    background: #646FD4;
+    color: #000;
+    transition: .5s all
+}
+
+.row.step_2 .field-general>.row .col-md-12 {
+    display: flex
+}
+
+.row.step_2 .field-general .hire-roles {
+    margin-top: 20px
+}
+
+.row.step_2 .field-general .hire-roles .optionsWrap.multiselect {
+    display: none
+}
+
+.row.step_2 .field-general .hire-roles .optionsWrap.multiselect.active {
+    display: block
+}
+
+.hire-req .rev-select .select-styled {
+    border: 1px solid #e8e9ed;
+    border-radius: 8px;
+    padding: 0 10px;
+    font-size: 14px
+}
+
+.hiring-needs .rev-select .select-styled:after,
+.step-ratecard .rev-select .select-styled:after {
+    height: 7px;
+    width: 7px;
+    border-left: solid 1px #8d8c8c;
+    border-bottom: solid 1px #8d8c8c
+}
+
+.optionList .optionBox span:before {
+    border: solid 1px #646FD4
+}
+
+.hiring-needs .form-group {
+    margin-bottom: 2rem
+}
+
+.mail-info p {
+    font-weight: 500
+}
+
+.mail-info p a {
+    color: #000;
+    text-decoration: underline
+}
+
+.hiring-needs .submit-btn {
+    max-width: 210px;
+    margin: auto
+}
+
+.hiring-needs .submit-btn input[type=submit] {
+    border-radius: 10px
+}
+
+.popup-main1 .popup-content {
+    padding: 0 15px
+}
+
+.input03 .bold-form-lbl {
+    margin-bottom: 5px
+}
+
+.thankyou-blk {
+    background-size: cover !important;
+    background-position: center !important;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center
+}
+
+.thankyou-blk .img-blk {
+    text-align: center
+}
+
+.thankyou-blk .img-blk img {
+    max-width: 380px
+}
+
+.thankyou-blk .desc-blk h3 {
+    margin-bottom: 40px
+}
+
+.thankyou-blk .desc-blk p {
+    font-size: 18px
+}
+
+.thankyou-blk .desc-blk p strong {
+    text-decoration: underline;
+    text-decoration-color: #646FD4
+}
+
+.thankyou-blk .desc-blk p a {
+    color: #000
+}
+
+.thankyou-blk .desc-blk p a:hover {
+    opacity: .5
+}
+
+@media(max-width:1650px) {
+    .thankyou-blk .container {
+        max-width: 1000px
+    }
+
+    .thankyou-blk .img-blk img {
+        max-width: 300px
+    }
+
+    .thankyou-blk .desc-blk p {
+        font-size: 16px
+    }
+
+    .newsletter-form .container {
+        max-width: 900px
+    }
+
+    .step-ratecard .newsletter-form .section-title {
+        font-size: 22px;
+        margin-bottom: 15px
+    }
+
+    .step-ratecard .newsletter-form .sub-title {
+        font-size: 16px;
+        margin-bottom: 40px
+    }
+
+    .welcome-box h5 {
+        font-size: 20px;
+        margin-bottom: 10px
+    }
+
+    .welcome-box p {
+        font-size: 16px
+    }
+
+    .bold-form-lbl {
+        font-size: 15px;
+        margin-bottom: 12px
+    }
+
+    .queBox .rev-select {
+        height: 45px
+    }
+
+    .queBox .select-styled {
+        min-height: 45px;
+        border-radius: 10px;
+        line-height: 42px;
+        font-size: 15px;
+        box-shadow: 5px 5px 10px rgb(0 0 0/4%)
+    }
+
+    .queBox .select-styled:after {
+        top: 14px
+    }
+
+    .newsletter-form input,
+    .newsletter-form textarea {
+        font-size: 15px
+    }
+
+    .newsletter-form .input02.rev-select .select-styled {
+        font-size: 15px;
+        padding: 3px 20px
+    }
+
+    .input02 label {
+        font-size: 15px
+    }
+
+    .input02 input,
+    .input02.rev-select .select-styled {
+        min-height: 45px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgb(0 0 0/4%)
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        max-width: 120px;
+        border-radius: 10px;
+        min-height: 45px;
+        line-height: 45px
+    }
+}
+
+@media(max-width:1280px) {
+    .step-ratecard .optionList .optionBox span {
+        font-size: 14px
+    }
+
+    .hiring-needs .hire-reqs {
+        margin-top: 0
+    }
+
+    .hiring-needs .newsletter-form .section-title {
+        margin-bottom: 45px
+    }
+}
+
+@media(max-width:991px) {
+    .thankyou-blk .desc-blk h3 {
+        margin-bottom: 20px
+    }
+
+    .thankyou-blk .desc-blk p {
+        font-size: 15px
+    }
+}
+
+@media(max-width:767px) {
+    .thankyou-blk .img-blk img {
+        max-width: 250px
+    }
+
+    .step-ratecard .newsletter-form .section-title {
+        font-size: 18px;
+        margin-bottom: 15px
+    }
+
+    .step-ratecard .newsletter-form .sub-title {
+        font-size: 15px;
+        margin-bottom: 30px
+    }
+
+    .input02 input,
+    .input02.rev-select .select-styled {
+        min-height: 40px;
+        border-radius: 7px
+    }
+
+    .welcome-box h5 {
+        font-size: 16px;
+        margin-bottom: 5px
+    }
+
+    .welcome-box p {
+        font-size: 14px;
+        margin-bottom: 25px
+    }
+
+    .input02 label {
+        font-size: 13px;
+        left: 11px
+    }
+
+    .queBox {
+        margin-bottom: 20px
+    }
+
+    .bold-form-lbl {
+        font-size: 14px;
+        margin-bottom: 5px
+    }
+
+    .queBox .select-styled {
+        min-height: 40px;
+        border-radius: 7px;
+        line-height: 36px;
+        font-size: 13px;
+        padding: 0 15px
+    }
+
+    .newsletter-form input,
+    .newsletter-form textarea {
+        font-size: 13px;
+        padding: 0 15px
+    }
+
+    .newsletter-form .input02.rev-select .select-styled {
+        padding: 0 15px;
+        font-size: 13px
+    }
+
+    .newsletter-form textarea {
+        height: 40px;
+        padding: 11px 0
+    }
+
+    .queBox .select-styled:after {
+        top: 13px;
+        right: 15px;
+        height: 7px;
+        width: 7px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn {
+        margin-top: 20px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        font-size: 15px;
+        max-width: 120px;
+        border-radius: 7px;
+        min-height: 40px;
+        line-height: 40px;
+        padding: 0 20px
+    }
+
+    .queBox .select-styled.active:after {
+        top: 16px
+    }
+
+    .hire-req .rev-select .select-styled {
+        font-size: 12px
+    }
+
+    .popup-main1 .popup-content {
+        padding: 100px 15px
+    }
+}
+
+@media(max-width:575px) {
+    .thankyou-blk .img-blk {
+        margin-bottom: 40px
+    }
+
+    .input02 {
+        margin-bottom: 10px
+    }
+
+    .row.step_2.hire-req,
+    .hire-reqs {
+        margin-top: 15px
+    }
+
+    .step-ratecard .newsletter-form .submit-btn input[type=submit] {
+        padding: 0 18px
+    }
+
+    .newsletter-form {
+        padding-top: 20px
+    }
+}
